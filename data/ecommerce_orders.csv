@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,country,city,acquisition_channel,product_category,product_name,quantity,unit_price,discount_pct,order_status,payment_method
+10001,2026-08-02,282,Egypt,Riyadh,Paid Ads,Electronics,27-inch Monitor,1,5200,15,cancelled,card
+10002,2026-01-21,31,Egypt,Riyadh,Paid Ads,Electronics,Mechanical Keyboard,4,1200,0,shipped,bank_transfer
+10003,2023-02-24,559,Saudi Arabia,Riyadh,Email,Appliances,Vacuum Cleaner,2,5200,15,shipped,cod
+10004,2023-01-14,285,Egypt,Riyadh,Social Media,Furniture,Office Chair,4,4500,0,delivered,card
+10005,2025-02-17,271,Qatar,Cairo,Email,Electronics,27-inch Monitor,3,5200,0,shipped,card
+10006,2025-02-14,371,UAE,Riyadh,Organic Search,Electronics,Mechanical Keyboard,3,1200,15,delivered,card
+10007,2024-08-15,390,Egypt,Kuwait City,Social Media,Electronics,Mechanical Keyboard,2,1200,0,delivered,cod
+10008,2024-12-28,74,UAE,Alexandria,Direct,Furniture,Standing Desk,3,7800,15,cancelled,card
+10009,2023-12-01,571,Egypt,Dubai,Organic Search,Appliances,Coffee Maker,4,2600,0,delivered,card
+10010,2024-10-08,217,UAE,Dubai,Paid Ads,Stationery,Printer Paper (500),3,210,0,cancelled,wallet
+10011,2025-03-21,143,Egypt,Doha,Direct,Appliances,Coffee Maker,2,2600,0,delivered,bank_transfer
+10012,2025-05-27,225,Egypt,Doha,Email,Accessories,Water Bottle 1L,4,180,0,delivered,card
+10013,2023-08-13,433,UAE,Giza,Email,Electronics,USB-C Hub,2,800,15,delivered,bank_transfer
+10014,2025-08-16,12,Kuwait,Giza,Direct,Appliances,Air Fryer,3,3400,10,returned,cod
+10015,2026-08-05,446,Egypt,Kuwait City,Organic Search,Stationery,Ballpoint Pens (10),1,85,0,cancelled,cod
+10016,2025-10-22,306,Qatar,Doha,Direct,Furniture,Office Chair,1,4500,15,delivered,card
+10017,2025-02-04,332,Saudi Arabia,Cairo,Organic Search,Furniture,Office Chair,1,4500,10,delivered,cod
+10018,2024-05-05,81,Egypt,Kuwait City,Organic Search,Electronics,Wireless Mouse,2,350,10,returned,bank_transfer
+10019,2023-09-15,170,Egypt,Doha,Direct,Electronics,USB-C Hub,4,800,10,delivered,card
+10020,2026-01-09,383,Saudi Arabia,Doha,Email,Furniture,Standing Desk,3,7800,5,delivered,card
+10021,2024-04-05,568,Egypt,Riyadh,Organic Search,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+10022,2024-04-13,73,UAE,Riyadh,Social Media,Electronics,Mechanical Keyboard,1,1200,0,cancelled,wallet
+10023,2024-03-14,585,UAE,Kuwait City,Paid Ads,Appliances,Vacuum Cleaner,2,5200,15,returned,wallet
+10024,2025-04-13,442,Egypt,Abu Dhabi,Email,Furniture,Standing Desk,1,7800,0,delivered,card
+10025,2026-08-31,348,Qatar,Giza,Paid Ads,Electronics,27-inch Monitor,1,5200,5,delivered,card
+10026,2026-01-03,188,Egypt,Kuwait City,Paid Ads,Appliances,Coffee Maker,2,2600,5,returned,card
+10027,2025-06-26,554,Qatar,Cairo,Organic Search,Appliances,Vacuum Cleaner,1,5200,0,returned,card
+10028,2023-12-07,219,Qatar,Abu Dhabi,Organic Search,Stationery,Sticky Notes Pack,4,60,5,delivered,wallet
+10029,2023-01-05,293,Saudi Arabia,Doha,Email,Stationery,Printer Paper (500),3,210,5,delivered,card
+10030,2024-08-30,556,Egypt,Dubai,Organic Search,Furniture,Standing Desk,1,7800,10,delivered,bank_transfer
+10031,2025-09-03,521,Egypt,Alexandria,Organic Search,Appliances,Air Fryer,2,3400,0,shipped,card
+10032,2024-04-26,253,UAE,Cairo,Direct,Stationery,Printer Paper (500),1,210,10,delivered,wallet
+10033,2026-04-10,210,Kuwait,Dubai,Paid Ads,Accessories,Water Bottle 1L,3,180,0,delivered,wallet
+10034,2023-09-26,75,Egypt,Kuwait City,Direct,Stationery,Notebook A5,4,45,0,shipped,card
+10035,2023-05-31,272,Egypt,Dubai,Organic Search,Appliances,Vacuum Cleaner,2,5200,10,delivered,cod
+10036,2024-08-06,310,UAE,Doha,Organic Search,Furniture,Office Chair,4,4500,10,cancelled,bank_transfer
+10037,2024-09-05,119,Egypt,Doha,Paid Ads,Electronics,27-inch Monitor,2,5200,0,delivered,cod
+10038,2026-05-23,271,UAE,Kuwait City,Social Media,Furniture,Standing Desk,3,7800,0,returned,card
+10039,2023-07-09,4,Egypt,Alexandria,Social Media,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+10040,2026-02-03,78,Kuwait,Alexandria,Direct,Stationery,Sticky Notes Pack,1,60,0,delivered,cod
+10041,2026-04-07,131,Egypt,Jeddah,Social Media,Appliances,Vacuum Cleaner,2,5200,5,returned,card
+10042,2025-01-02,106,Egypt,Doha,Email,Furniture,Standing Desk,2,7800,15,shipped,card
+10043,2024-04-29,26,Egypt,Dubai,Email,Furniture,Office Chair,2,4500,5,returned,card
+10044,2024-06-30,40,Qatar,Kuwait City,Paid Ads,Furniture,Office Chair,1,4500,5,delivered,wallet
+10045,2024-12-17,25,Kuwait,Riyadh,Email,Stationery,Notebook A5,2,45,0,delivered,cod
+10046,2023-05-23,522,Saudi Arabia,Doha,Social Media,Furniture,Desk Lamp,3,600,15,delivered,card
+10047,2024-06-18,112,UAE,Abu Dhabi,Social Media,Furniture,Office Chair,3,4500,0,cancelled,cod
+10048,2025-06-12,591,Egypt,Jeddah,Organic Search,Accessories,Backpack 20L,1,1400,5,cancelled,wallet
+10049,2023-01-04,442,Egypt,Dubai,Direct,Appliances,Air Fryer,2,3400,0,delivered,card
+10050,2024-09-07,419,Egypt,Abu Dhabi,Social Media,Appliances,Air Fryer,3,3400,15,shipped,card
+10051,2024-01-28,179,UAE,Jeddah,Email,Stationery,Sticky Notes Pack,4,60,15,shipped,card
+10052,2024-09-14,594,UAE,Dubai,Email,Stationery,Notebook A5,2,45,5,delivered,wallet
+10053,2024-03-13,174,Kuwait,Giza,Social Media,Appliances,Air Fryer,4,3400,15,shipped,bank_transfer
+10054,2024-11-17,318,Egypt,Riyadh,Paid Ads,Electronics,Mechanical Keyboard,2,1200,15,delivered,card
+10055,2024-05-16,425,Kuwait,Riyadh,Email,Appliances,Electric Kettle,1,950,5,delivered,wallet
+10056,2024-05-14,436,Egypt,Alexandria,Direct,Electronics,USB-C Hub,1,800,0,delivered,card
+10057,2026-02-15,137,Qatar,Kuwait City,Direct,Furniture,Bookshelf,1,2100,5,shipped,bank_transfer
+10058,2024-10-11,457,Egypt,Kuwait City,Email,Appliances,Coffee Maker,4,2600,10,delivered,card
+10059,2026-07-29,245,Egypt,Kuwait City,Organic Search,Furniture,Desk Lamp,4,600,15,cancelled,cod
+10060,2024-04-25,554,Egypt,Alexandria,Paid Ads,Furniture,Desk Lamp,3,600,0,delivered,wallet
+10061,2023-11-09,418,Egypt,Doha,Email,Furniture,Standing Desk,1,7800,5,delivered,card
+10062,2024-02-28,21,Qatar,Abu Dhabi,Email,Stationery,Sticky Notes Pack,4,60,10,delivered,cod
+10063,2024-09-03,560,Qatar,Riyadh,Email,Stationery,Printer Paper (500),4,210,10,delivered,cod
+10064,2025-06-11,345,Kuwait,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,1,950,5,returned,wallet
+10065,2023-09-19,578,Kuwait,Cairo,Organic Search,Accessories,Backpack 20L,1,1400,5,cancelled,wallet
+10066,2023-10-05,267,Saudi Arabia,Dubai,Paid Ads,Appliances,Coffee Maker,2,2600,0,delivered,cod
+10067,2024-11-22,259,Qatar,Giza,Email,Stationery,Printer Paper (500),3,210,5,delivered,bank_transfer
+10068,2023-04-17,71,Qatar,Cairo,Organic Search,Stationery,Whiteboard Markers,2,120,15,delivered,card
+10069,2023-02-11,130,Saudi Arabia,Giza,Direct,Accessories,Backpack 20L,2,1400,0,delivered,wallet
+10070,2024-06-08,118,Qatar,Alexandria,Social Media,Stationery,Whiteboard Markers,2,120,10,delivered,bank_transfer
+10071,2023-02-22,204,Egypt,Riyadh,Organic Search,Stationery,Notebook A5,4,45,5,cancelled,cod
+10072,2026-05-14,546,Saudi Arabia,Dubai,Organic Search,Electronics,27-inch Monitor,1,5200,0,shipped,cod
+10073,2023-01-26,444,Egypt,Kuwait City,Paid Ads,Stationery,Sticky Notes Pack,4,60,0,delivered,card
+10074,2025-12-04,447,Qatar,Jeddah,Social Media,Furniture,Desk Lamp,4,600,5,returned,card
+10075,2023-06-27,476,UAE,Abu Dhabi,Social Media,Furniture,Desk Lamp,4,600,0,delivered,wallet
+10076,2024-10-27,364,Qatar,Jeddah,Social Media,Furniture,Office Chair,4,4500,0,delivered,bank_transfer
+10077,2024-07-19,196,Egypt,Riyadh,Email,Appliances,Vacuum Cleaner,1,5200,10,delivered,bank_transfer
+10078,2024-05-07,18,Egypt,Jeddah,Paid Ads,Appliances,Electric Kettle,4,950,5,delivered,card
+10079,2024-09-19,567,UAE,Dubai,Email,Accessories,Water Bottle 1L,3,180,5,cancelled,bank_transfer
+10080,2024-11-08,314,Egypt,Riyadh,Organic Search,Stationery,Whiteboard Markers,4,120,0,cancelled,card
+10081,2024-10-08,222,Kuwait,Kuwait City,Social Media,Electronics,27-inch Monitor,2,5200,0,cancelled,bank_transfer
+10082,2025-12-10,199,Egypt,Riyadh,Social Media,Accessories,Backpack 20L,3,1400,0,delivered,cod
+10083,2023-01-29,47,Egypt,Doha,Social Media,Appliances,Vacuum Cleaner,2,5200,0,cancelled,card
+10084,2026-07-30,588,Egypt,Kuwait City,Email,Appliances,Electric Kettle,1,950,0,delivered,cod
+10085,2024-01-13,117,Qatar,Giza,Email,Electronics,Wireless Mouse,3,350,5,delivered,card
+10086,2026-03-27,577,Egypt,Giza,Paid Ads,Electronics,Wireless Mouse,2,350,0,delivered,bank_transfer
+10087,2025-05-02,390,Saudi Arabia,Kuwait City,Social Media,Accessories,Backpack 20L,2,1400,10,returned,bank_transfer
+10088,2025-05-28,102,Qatar,Riyadh,Paid Ads,Stationery,Notebook A5,1,45,10,delivered,card
+10089,2023-11-18,77,Egypt,Cairo,Email,Furniture,Bookshelf,2,2100,10,delivered,bank_transfer
+10090,2025-08-20,296,Kuwait,Jeddah,Email,Stationery,Notebook A5,1,45,0,delivered,card
+10091,2024-06-25,118,UAE,Riyadh,Paid Ads,Accessories,Water Bottle 1L,2,180,5,delivered,card
+10092,2023-05-27,583,Egypt,Kuwait City,Organic Search,Electronics,Wireless Mouse,2,350,0,delivered,cod
+10093,2025-04-04,83,UAE,Cairo,Email,Furniture,Desk Lamp,4,600,5,cancelled,cod
+10094,2026-05-21,235,Kuwait,Cairo,Social Media,Furniture,Desk Lamp,1,600,0,shipped,card
+10095,2023-12-25,186,UAE,Abu Dhabi,Email,Appliances,Electric Kettle,4,950,0,delivered,wallet
+10096,2024-12-13,108,Qatar,Alexandria,Social Media,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+10097,2024-08-13,91,Egypt,Jeddah,Social Media,Stationery,Printer Paper (500),1,210,5,delivered,wallet
+10098,2025-11-19,56,Egypt,Doha,Social Media,Electronics,Laptop Pro 15,4,18500,5,shipped,wallet
+10099,2026-07-04,274,UAE,Alexandria,Social Media,Appliances,Coffee Maker,1,2600,0,delivered,wallet
+10100,2023-09-06,163,Egypt,Doha,Organic Search,Electronics,Laptop Pro 15,2,18500,15,shipped,wallet
+10101,2023-07-10,121,Kuwait,Alexandria,Email,Furniture,Bookshelf,1,2100,5,cancelled,cod
+10102,2025-11-08,484,Egypt,Kuwait City,Direct,Furniture,Desk Lamp,4,600,5,delivered,wallet
+10103,2024-01-26,283,Qatar,Abu Dhabi,Social Media,Accessories,Backpack 20L,2,1400,0,returned,bank_transfer
+10104,2024-07-01,306,Qatar,Kuwait City,Paid Ads,Electronics,Laptop Pro 15,3,18500,15,delivered,bank_transfer
+10105,2025-09-18,557,Saudi Arabia,Kuwait City,Social Media,Stationery,Whiteboard Markers,3,120,10,returned,card
+10106,2024-05-04,421,Egypt,Dubai,Email,Accessories,Water Bottle 1L,4,180,0,cancelled,wallet
+10107,2025-03-01,130,UAE,Dubai,Organic Search,Electronics,USB-C Hub,4,800,0,returned,wallet
+10108,2023-07-24,148,Saudi Arabia,Alexandria,Organic Search,Appliances,Air Fryer,4,3400,0,delivered,cod
+10109,2024-11-24,83,Qatar,Dubai,Direct,Accessories,Backpack 20L,4,1400,15,delivered,cod
+10110,2026-07-07,71,Egypt,Jeddah,Paid Ads,Appliances,Electric Kettle,1,950,10,cancelled,card
+10111,2025-06-07,171,Kuwait,Jeddah,Organic Search,Electronics,27-inch Monitor,1,5200,5,delivered,cod
+10112,2023-04-25,442,Egypt,Riyadh,Direct,Stationery,Notebook A5,3,45,0,delivered,bank_transfer
+10113,2024-01-04,392,UAE,Riyadh,Email,Furniture,Office Chair,2,4500,0,shipped,card
+10114,2024-04-20,262,Kuwait,Cairo,Email,Appliances,Coffee Maker,3,2600,5,delivered,bank_transfer
+10115,2023-11-20,307,Kuwait,Abu Dhabi,Social Media,Electronics,Mechanical Keyboard,4,1200,0,delivered,cod
+10116,2024-02-12,243,Saudi Arabia,Dubai,Direct,Stationery,Printer Paper (500),4,210,0,delivered,cod
+10117,2023-02-14,580,Qatar,Cairo,Direct,Stationery,Printer Paper (500),3,210,0,cancelled,wallet
+10118,2024-08-09,195,UAE,Jeddah,Paid Ads,Furniture,Bookshelf,3,2100,0,cancelled,card
+10119,2026-07-09,35,UAE,Dubai,Paid Ads,Electronics,Wireless Mouse,3,350,5,delivered,cod
+10120,2024-10-31,136,Qatar,Doha,Social Media,Stationery,Sticky Notes Pack,2,60,0,shipped,bank_transfer
+10121,2024-07-12,303,Kuwait,Dubai,Organic Search,Furniture,Office Chair,3,4500,5,delivered,card
+10122,2023-10-16,375,Egypt,Abu Dhabi,Organic Search,Furniture,Bookshelf,4,2100,10,delivered,bank_transfer
+10123,2023-09-11,269,UAE,Abu Dhabi,Social Media,Appliances,Coffee Maker,3,2600,15,delivered,card
+10124,2025-08-23,227,Kuwait,Giza,Email,Electronics,Laptop Pro 15,3,18500,10,cancelled,cod
+10125,2026-08-22,47,Egypt,Jeddah,Email,Stationery,Sticky Notes Pack,1,60,0,delivered,card
+10126,2024-04-25,465,Egypt,Doha,Email,Appliances,Vacuum Cleaner,2,5200,5,shipped,card
+10127,2025-04-29,418,Egypt,Cairo,Social Media,Electronics,27-inch Monitor,4,5200,10,delivered,wallet
+10128,2025-06-29,377,UAE,Dubai,Organic Search,Furniture,Bookshelf,3,2100,0,delivered,cod
+10129,2024-01-24,218,Kuwait,Cairo,Organic Search,Electronics,27-inch Monitor,4,5200,0,returned,cod
+10130,2024-05-13,568,Egypt,Riyadh,Paid Ads,Electronics,USB-C Hub,2,800,0,delivered,card
+10131,2026-05-05,134,UAE,Jeddah,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,delivered,card
+10132,2023-09-27,332,Egypt,Alexandria,Social Media,Electronics,Laptop Pro 15,3,18500,0,delivered,card
+10133,2025-05-12,66,Saudi Arabia,Kuwait City,Social Media,Appliances,Air Fryer,1,3400,15,shipped,bank_transfer
+10134,2023-08-12,45,Kuwait,Doha,Social Media,Appliances,Coffee Maker,2,2600,10,delivered,card
+10135,2023-05-05,111,Saudi Arabia,Kuwait City,Organic Search,Appliances,Electric Kettle,4,950,5,delivered,cod
+10136,2026-05-30,282,UAE,Doha,Social Media,Electronics,USB-C Hub,1,800,0,delivered,bank_transfer
+10137,2025-12-22,441,Egypt,Giza,Direct,Stationery,Notebook A5,4,45,10,cancelled,card
+10138,2025-05-30,348,Qatar,Kuwait City,Email,Appliances,Coffee Maker,2,2600,5,delivered,card
+10139,2024-10-02,262,Egypt,Alexandria,Email,Stationery,Sticky Notes Pack,3,60,15,delivered,card
+10140,2023-06-24,382,Qatar,Alexandria,Direct,Electronics,Mechanical Keyboard,4,1200,0,delivered,bank_transfer
+10141,2026-02-24,126,Saudi Arabia,Dubai,Email,Appliances,Vacuum Cleaner,3,5200,15,returned,card
+10142,2024-08-12,107,UAE,Doha,Paid Ads,Accessories,Backpack 20L,3,1400,0,delivered,wallet
+10143,2024-04-04,377,Egypt,Jeddah,Direct,Electronics,27-inch Monitor,3,5200,10,delivered,wallet
+10144,2026-02-22,274,Egypt,Alexandria,Social Media,Accessories,Backpack 20L,1,1400,10,cancelled,cod
+10145,2024-11-26,147,UAE,Abu Dhabi,Organic Search,Stationery,Whiteboard Markers,1,120,0,delivered,card
+10146,2023-07-07,430,Saudi Arabia,Dubai,Paid Ads,Appliances,Air Fryer,2,3400,5,delivered,cod
+10147,2024-10-26,160,Egypt,Cairo,Organic Search,Accessories,Water Bottle 1L,1,180,0,delivered,wallet
+10148,2025-05-18,280,Egypt,Doha,Organic Search,Appliances,Electric Kettle,4,950,5,delivered,wallet
+10149,2023-08-16,316,Egypt,Riyadh,Email,Stationery,Notebook A5,4,45,10,shipped,card
+10150,2023-01-16,141,Qatar,Jeddah,Social Media,Furniture,Standing Desk,3,7800,0,delivered,card
+10151,2023-01-16,133,Saudi Arabia,Doha,Paid Ads,Appliances,Electric Kettle,4,950,0,shipped,bank_transfer
+10152,2024-12-26,44,Saudi Arabia,Cairo,Email,Electronics,Mechanical Keyboard,4,1200,15,delivered,cod
+10153,2026-03-25,428,Egypt,Giza,Email,Stationery,Sticky Notes Pack,4,60,15,delivered,cod
+10154,2023-12-18,371,Egypt,Abu Dhabi,Organic Search,Accessories,Backpack 20L,4,1400,15,delivered,wallet
+10155,2026-04-21,318,Kuwait,Dubai,Paid Ads,Stationery,Printer Paper (500),1,210,5,delivered,card
+10156,2023-06-06,523,Egypt,Dubai,Social Media,Appliances,Air Fryer,1,3400,10,cancelled,card
+10157,2024-04-28,203,Egypt,Alexandria,Organic Search,Electronics,27-inch Monitor,2,5200,0,delivered,wallet
+10158,2025-08-08,579,Kuwait,Dubai,Social Media,Accessories,Water Bottle 1L,4,180,15,delivered,wallet
+10159,2023-05-20,311,Qatar,Jeddah,Direct,Appliances,Electric Kettle,4,950,15,delivered,cod
+10160,2025-11-05,463,Egypt,Cairo,Social Media,Electronics,Mechanical Keyboard,3,1200,5,returned,cod
+10161,2023-06-07,595,UAE,Cairo,Email,Electronics,Mechanical Keyboard,4,1200,5,returned,bank_transfer
+10162,2026-08-27,488,UAE,Alexandria,Organic Search,Furniture,Standing Desk,3,7800,10,delivered,card
+10163,2024-12-04,254,Kuwait,Kuwait City,Email,Electronics,Mechanical Keyboard,2,1200,0,shipped,bank_transfer
+10164,2026-06-02,290,Saudi Arabia,Abu Dhabi,Social Media,Furniture,Office Chair,3,4500,0,cancelled,bank_transfer
+10165,2023-04-18,97,UAE,Abu Dhabi,Social Media,Stationery,Ballpoint Pens (10),1,85,0,delivered,bank_transfer
+10166,2023-11-04,145,Egypt,Jeddah,Email,Stationery,Ballpoint Pens (10),1,85,10,delivered,bank_transfer
+10167,2023-06-23,337,Qatar,Alexandria,Direct,Stationery,Notebook A5,4,45,15,delivered,wallet
+10168,2025-11-07,317,Egypt,Riyadh,Social Media,Stationery,Whiteboard Markers,1,120,0,returned,wallet
+10169,2024-01-29,80,Egypt,Giza,Direct,Furniture,Bookshelf,2,2100,0,returned,bank_transfer
+10170,2025-12-14,135,UAE,Abu Dhabi,Paid Ads,Electronics,Wireless Mouse,3,350,10,delivered,card
+10171,2026-07-03,421,Egypt,Riyadh,Email,Furniture,Office Chair,4,4500,0,shipped,cod
+10172,2025-07-08,481,Qatar,Riyadh,Social Media,Furniture,Bookshelf,2,2100,0,cancelled,bank_transfer
+10173,2025-06-21,515,UAE,Abu Dhabi,Paid Ads,Appliances,Coffee Maker,3,2600,5,returned,card
+10174,2026-05-23,493,Qatar,Dubai,Direct,Electronics,USB-C Hub,3,800,0,delivered,bank_transfer
+10175,2023-09-13,280,Saudi Arabia,Doha,Paid Ads,Stationery,Notebook A5,1,45,0,returned,wallet
+10176,2023-07-07,28,Saudi Arabia,Cairo,Email,Furniture,Bookshelf,4,2100,0,shipped,cod
+10177,2024-04-27,230,Egypt,Dubai,Organic Search,Stationery,Printer Paper (500),1,210,0,returned,cod
+10178,2023-10-27,484,Kuwait,Alexandria,Email,Electronics,USB-C Hub,1,800,0,delivered,bank_transfer
+10179,2023-01-11,221,Qatar,Alexandria,Direct,Electronics,Mechanical Keyboard,1,1200,0,cancelled,bank_transfer
+10180,2025-12-16,244,Egypt,Giza,Organic Search,Stationery,Sticky Notes Pack,1,60,0,delivered,wallet
+10181,2026-08-01,114,Qatar,Kuwait City,Direct,Accessories,Backpack 20L,4,1400,0,shipped,card
+10182,2026-07-18,148,Egypt,Abu Dhabi,Organic Search,Appliances,Air Fryer,2,3400,15,shipped,cod
+10183,2024-05-07,88,UAE,Dubai,Organic Search,Accessories,Water Bottle 1L,4,180,0,shipped,bank_transfer
+10184,2025-11-05,482,Egypt,Abu Dhabi,Social Media,Appliances,Air Fryer,1,3400,5,delivered,card
+10185,2025-01-01,107,Qatar,Dubai,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,delivered,cod
+10186,2026-01-23,476,Kuwait,Kuwait City,Paid Ads,Stationery,Ballpoint Pens (10),2,85,15,returned,card
+10187,2023-05-10,207,Egypt,Riyadh,Organic Search,Appliances,Coffee Maker,1,2600,0,delivered,cod
+10188,2025-11-21,38,Qatar,Riyadh,Social Media,Stationery,Printer Paper (500),4,210,0,delivered,card
+10189,2024-11-10,448,Saudi Arabia,Kuwait City,Email,Furniture,Desk Lamp,1,600,0,delivered,card
+10190,2025-10-13,274,Qatar,Giza,Email,Appliances,Electric Kettle,3,950,10,delivered,wallet
+10191,2026-05-18,106,Egypt,Dubai,Social Media,Furniture,Office Chair,3,4500,0,delivered,wallet
+10192,2026-05-19,455,Egypt,Kuwait City,Organic Search,Stationery,Sticky Notes Pack,2,60,15,cancelled,cod
+10193,2026-06-13,59,Egypt,Abu Dhabi,Social Media,Stationery,Sticky Notes Pack,3,60,15,shipped,card
+10194,2023-03-05,130,Egypt,Riyadh,Social Media,Electronics,USB-C Hub,4,800,0,delivered,wallet
+10195,2026-03-07,461,Egypt,Dubai,Email,Electronics,Wireless Mouse,2,350,15,returned,card
+10196,2026-03-21,322,Kuwait,Jeddah,Paid Ads,Electronics,USB-C Hub,3,800,5,delivered,card
+10197,2024-01-17,121,Egypt,Jeddah,Email,Appliances,Electric Kettle,4,950,10,delivered,bank_transfer
+10198,2024-08-07,139,Qatar,Giza,Email,Appliances,Electric Kettle,2,950,0,delivered,wallet
+10199,2023-06-29,67,UAE,Doha,Social Media,Stationery,Ballpoint Pens (10),3,85,15,delivered,card
+10200,2026-07-30,230,Egypt,Riyadh,Paid Ads,Furniture,Office Chair,3,4500,10,delivered,wallet
+10201,2023-02-23,565,Egypt,Giza,Organic Search,Stationery,Whiteboard Markers,3,120,5,delivered,wallet
+10202,2025-09-07,589,Egypt,Alexandria,Social Media,Appliances,Air Fryer,4,3400,5,cancelled,card
+10203,2025-07-10,565,Kuwait,Alexandria,Paid Ads,Appliances,Coffee Maker,3,2600,0,delivered,bank_transfer
+10204,2023-04-24,169,Egypt,Dubai,Paid Ads,Electronics,27-inch Monitor,2,5200,0,delivered,bank_transfer
+10205,2024-08-04,565,Egypt,Alexandria,Social Media,Electronics,Mechanical Keyboard,3,1200,0,shipped,bank_transfer
+10206,2023-07-11,595,Egypt,Alexandria,Direct,Appliances,Air Fryer,2,3400,10,cancelled,bank_transfer
+10207,2024-11-22,84,Egypt,Jeddah,Paid Ads,Accessories,Water Bottle 1L,1,180,0,returned,bank_transfer
+10208,2025-05-03,559,Egypt,Jeddah,Email,Accessories,Backpack 20L,1,1400,5,delivered,wallet
+10209,2024-09-01,62,Egypt,Kuwait City,Email,Appliances,Coffee Maker,1,2600,15,delivered,wallet
+10210,2024-02-22,327,Kuwait,Dubai,Email,Stationery,Ballpoint Pens (10),2,85,0,delivered,cod
+10211,2025-11-20,248,Saudi Arabia,Giza,Social Media,Appliances,Vacuum Cleaner,1,5200,0,delivered,card
+10212,2023-10-16,394,Qatar,Abu Dhabi,Paid Ads,Electronics,27-inch Monitor,1,5200,0,returned,card
+10213,2024-11-01,164,Saudi Arabia,Doha,Email,Accessories,Water Bottle 1L,3,180,0,delivered,cod
+10214,2025-10-15,518,Saudi Arabia,Riyadh,Paid Ads,Electronics,Laptop Pro 15,1,18500,5,shipped,cod
+10215,2023-04-10,482,Egypt,Doha,Organic Search,Electronics,Wireless Mouse,3,350,5,returned,card
+10216,2025-06-01,375,Qatar,Abu Dhabi,Social Media,Electronics,USB-C Hub,3,800,15,delivered,wallet
+10217,2023-04-15,567,Egypt,Giza,Email,Accessories,Water Bottle 1L,2,180,0,shipped,wallet
+10218,2026-01-31,100,Saudi Arabia,Dubai,Social Media,Furniture,Desk Lamp,1,600,0,shipped,cod
+10219,2023-10-23,42,Egypt,Cairo,Paid Ads,Furniture,Standing Desk,4,7800,10,cancelled,cod
+10220,2025-08-28,528,Egypt,Dubai,Direct,Appliances,Air Fryer,4,3400,0,delivered,card
+10221,2025-03-15,345,UAE,Doha,Direct,Accessories,Backpack 20L,3,1400,10,delivered,bank_transfer
+10222,2024-09-05,340,Kuwait,Giza,Email,Appliances,Electric Kettle,1,950,0,shipped,cod
+10223,2026-07-12,593,UAE,Riyadh,Organic Search,Electronics,Laptop Pro 15,4,18500,0,shipped,wallet
+10224,2023-12-16,249,Egypt,Giza,Paid Ads,Appliances,Air Fryer,4,3400,0,delivered,wallet
+10225,2024-10-04,209,Saudi Arabia,Doha,Direct,Stationery,Sticky Notes Pack,2,60,5,delivered,card
+10226,2023-10-10,333,Kuwait,Kuwait City,Direct,Appliances,Air Fryer,2,3400,10,delivered,cod
+10227,2023-12-21,363,Kuwait,Jeddah,Direct,Appliances,Coffee Maker,3,2600,10,delivered,card
+10228,2024-05-19,305,Qatar,Jeddah,Paid Ads,Furniture,Desk Lamp,3,600,0,cancelled,wallet
+10229,2024-10-11,281,Egypt,Giza,Direct,Appliances,Electric Kettle,3,950,10,cancelled,bank_transfer
+10230,2025-02-16,298,Egypt,Jeddah,Organic Search,Stationery,Printer Paper (500),3,210,0,delivered,wallet
+10231,2024-06-09,552,Egypt,Doha,Social Media,Appliances,Electric Kettle,2,950,0,delivered,card
+10232,2026-06-14,52,Kuwait,Doha,Paid Ads,Accessories,Water Bottle 1L,2,180,0,cancelled,card
+10233,2023-04-18,484,Egypt,Alexandria,Organic Search,Electronics,27-inch Monitor,4,5200,0,shipped,card
+10234,2025-04-13,205,Qatar,Jeddah,Social Media,Appliances,Electric Kettle,4,950,15,delivered,card
+10235,2023-07-03,39,Egypt,Abu Dhabi,Paid Ads,Accessories,Water Bottle 1L,2,180,10,delivered,wallet
+10236,2025-10-11,10,Egypt,Giza,Social Media,Furniture,Office Chair,3,4500,0,delivered,wallet
+10237,2026-08-06,517,Saudi Arabia,Jeddah,Paid Ads,Appliances,Vacuum Cleaner,4,5200,0,returned,card
+10238,2024-11-08,264,Kuwait,Alexandria,Organic Search,Furniture,Office Chair,4,4500,15,cancelled,cod
+10239,2024-08-27,416,Qatar,Abu Dhabi,Direct,Accessories,Water Bottle 1L,2,180,0,delivered,card
+10240,2025-03-31,489,Egypt,Riyadh,Organic Search,Electronics,27-inch Monitor,2,5200,0,delivered,wallet
+10241,2024-04-27,310,UAE,Cairo,Social Media,Appliances,Coffee Maker,3,2600,0,cancelled,cod
+10242,2024-04-28,315,Egypt,Abu Dhabi,Direct,Electronics,Wireless Mouse,1,350,5,cancelled,cod
+10243,2023-08-29,227,Egypt,Alexandria,Email,Stationery,Notebook A5,3,45,10,delivered,wallet
+10244,2026-05-25,563,Saudi Arabia,Doha,Paid Ads,Stationery,Whiteboard Markers,4,120,15,returned,card
+10245,2026-05-05,371,Egypt,Giza,Organic Search,Electronics,Mechanical Keyboard,4,1200,10,returned,bank_transfer
+10246,2025-11-01,336,Qatar,Doha,Email,Furniture,Standing Desk,2,7800,0,delivered,card
+10247,2026-04-09,457,Qatar,Cairo,Email,Appliances,Electric Kettle,1,950,10,delivered,bank_transfer
+10248,2025-04-30,474,Kuwait,Jeddah,Organic Search,Appliances,Coffee Maker,1,2600,10,delivered,cod
+10249,2023-01-07,434,Egypt,Giza,Direct,Furniture,Standing Desk,1,7800,0,delivered,card
+10250,2025-08-24,185,Qatar,Alexandria,Email,Electronics,Wireless Mouse,3,350,5,delivered,wallet
+10251,2025-07-07,553,Egypt,Dubai,Organic Search,Stationery,Printer Paper (500),4,210,0,delivered,bank_transfer
+10252,2025-03-15,229,Qatar,Cairo,Organic Search,Appliances,Air Fryer,2,3400,15,delivered,wallet
+10253,2026-01-20,254,Saudi Arabia,Dubai,Paid Ads,Stationery,Sticky Notes Pack,4,60,0,delivered,card
+10254,2023-08-20,17,Egypt,Riyadh,Organic Search,Electronics,Wireless Mouse,4,350,10,delivered,bank_transfer
+10255,2023-03-10,46,Saudi Arabia,Kuwait City,Paid Ads,Appliances,Coffee Maker,1,2600,0,shipped,card
+10256,2023-04-26,590,Egypt,Dubai,Paid Ads,Electronics,USB-C Hub,3,800,0,delivered,card
+10257,2025-12-03,282,Egypt,Doha,Direct,Furniture,Bookshelf,4,2100,0,cancelled,card
+10258,2026-07-06,353,Kuwait,Abu Dhabi,Direct,Stationery,Sticky Notes Pack,4,60,0,delivered,wallet
+10259,2025-04-16,189,Qatar,Doha,Email,Electronics,USB-C Hub,3,800,5,delivered,card
+10260,2024-09-07,576,Saudi Arabia,Abu Dhabi,Direct,Electronics,USB-C Hub,4,800,0,shipped,card
+10261,2025-03-06,339,Kuwait,Giza,Email,Furniture,Bookshelf,3,2100,0,returned,cod
+10262,2023-07-09,275,Saudi Arabia,Cairo,Organic Search,Appliances,Vacuum Cleaner,2,5200,0,delivered,bank_transfer
+10263,2026-02-18,341,Egypt,Cairo,Paid Ads,Furniture,Standing Desk,4,7800,0,delivered,card
+10264,2025-09-07,246,UAE,Dubai,Social Media,Furniture,Bookshelf,2,2100,5,delivered,wallet
+10265,2025-12-28,369,UAE,Kuwait City,Email,Stationery,Whiteboard Markers,3,120,0,delivered,wallet
+10266,2024-10-17,424,Egypt,Riyadh,Paid Ads,Furniture,Standing Desk,3,7800,0,delivered,cod
+10267,2026-02-07,157,Egypt,Dubai,Paid Ads,Accessories,Water Bottle 1L,4,180,0,delivered,bank_transfer
+10268,2024-05-18,501,Kuwait,Kuwait City,Email,Appliances,Electric Kettle,3,950,0,delivered,cod
+10269,2023-12-13,556,Kuwait,Cairo,Direct,Electronics,USB-C Hub,4,800,0,delivered,card
+10270,2023-04-10,237,Egypt,Alexandria,Organic Search,Electronics,Laptop Pro 15,4,18500,0,delivered,bank_transfer
+10271,2025-07-22,495,Kuwait,Kuwait City,Organic Search,Stationery,Whiteboard Markers,1,120,10,delivered,bank_transfer
+10272,2026-02-03,543,Kuwait,Jeddah,Direct,Stationery,Sticky Notes Pack,1,60,0,delivered,card
+10273,2025-10-25,99,UAE,Alexandria,Paid Ads,Stationery,Sticky Notes Pack,2,60,0,delivered,bank_transfer
+10274,2025-12-14,407,Egypt,Dubai,Email,Furniture,Desk Lamp,3,600,0,delivered,bank_transfer
+10275,2024-05-13,83,Kuwait,Cairo,Organic Search,Furniture,Bookshelf,3,2100,15,delivered,wallet
+10276,2025-02-11,10,Kuwait,Alexandria,Organic Search,Appliances,Vacuum Cleaner,4,5200,0,delivered,wallet
+10277,2026-08-13,44,Egypt,Riyadh,Direct,Stationery,Ballpoint Pens (10),1,85,10,delivered,cod
+10278,2023-04-06,578,Kuwait,Cairo,Paid Ads,Electronics,Mechanical Keyboard,3,1200,10,returned,cod
+10279,2023-02-02,408,Egypt,Jeddah,Paid Ads,Furniture,Standing Desk,2,7800,15,shipped,card
+10280,2026-03-06,144,Qatar,Giza,Direct,Stationery,Printer Paper (500),3,210,5,cancelled,cod
+10281,2023-04-20,78,Egypt,Abu Dhabi,Social Media,Electronics,27-inch Monitor,4,5200,0,delivered,cod
+10282,2025-07-11,567,Saudi Arabia,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,2,950,0,cancelled,bank_transfer
+10283,2025-02-17,76,Egypt,Jeddah,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+10284,2025-03-08,94,Egypt,Jeddah,Email,Stationery,Ballpoint Pens (10),3,85,0,delivered,cod
+10285,2023-07-29,442,Saudi Arabia,Doha,Direct,Electronics,USB-C Hub,1,800,0,shipped,wallet
+10286,2023-07-31,568,Egypt,Dubai,Email,Electronics,Laptop Pro 15,1,18500,0,delivered,cod
+10287,2025-04-27,573,Egypt,Doha,Paid Ads,Stationery,Printer Paper (500),1,210,15,cancelled,wallet
+10288,2023-12-14,275,Saudi Arabia,Alexandria,Organic Search,Electronics,USB-C Hub,3,800,0,delivered,wallet
+10289,2024-07-19,79,Egypt,Jeddah,Paid Ads,Stationery,Sticky Notes Pack,3,60,5,cancelled,wallet
+10290,2026-05-01,110,Egypt,Jeddah,Organic Search,Accessories,Backpack 20L,2,1400,5,delivered,cod
+10291,2026-06-24,343,Saudi Arabia,Alexandria,Social Media,Stationery,Printer Paper (500),3,210,5,delivered,bank_transfer
+10292,2024-02-16,408,Egypt,Jeddah,Email,Appliances,Electric Kettle,3,950,0,shipped,card
+10293,2024-10-29,374,Egypt,Riyadh,Direct,Stationery,Printer Paper (500),3,210,5,shipped,card
+10294,2026-01-31,215,Saudi Arabia,Jeddah,Organic Search,Electronics,Laptop Pro 15,4,18500,15,returned,wallet
+10295,2025-10-19,259,Kuwait,Alexandria,Email,Electronics,USB-C Hub,3,800,0,returned,wallet
+10296,2023-06-01,411,UAE,Doha,Email,Appliances,Coffee Maker,4,2600,10,shipped,card
+10297,2025-01-06,255,Kuwait,Dubai,Paid Ads,Appliances,Vacuum Cleaner,1,5200,0,cancelled,bank_transfer
+10298,2023-04-01,441,Egypt,Cairo,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,card
+10299,2025-11-11,384,Saudi Arabia,Kuwait City,Direct,Appliances,Air Fryer,2,3400,5,cancelled,bank_transfer
+10300,2023-11-05,108,Egypt,Abu Dhabi,Organic Search,Stationery,Whiteboard Markers,1,120,5,delivered,card
+10301,2024-12-14,212,UAE,Kuwait City,Social Media,Stationery,Notebook A5,3,45,5,delivered,card
+10302,2025-06-16,308,Egypt,Giza,Organic Search,Appliances,Coffee Maker,3,2600,0,returned,cod
+10303,2026-08-20,250,UAE,Alexandria,Direct,Electronics,27-inch Monitor,2,5200,15,delivered,cod
+10304,2026-02-20,415,Kuwait,Alexandria,Paid Ads,Stationery,Sticky Notes Pack,4,60,0,cancelled,wallet
+10305,2025-03-21,440,Saudi Arabia,Cairo,Paid Ads,Electronics,Laptop Pro 15,2,18500,5,delivered,cod
+10306,2023-05-09,192,Egypt,Dubai,Paid Ads,Accessories,Water Bottle 1L,1,180,10,delivered,card
+10307,2024-06-21,398,UAE,Abu Dhabi,Direct,Appliances,Electric Kettle,3,950,10,delivered,cod
+10308,2024-12-21,305,UAE,Giza,Paid Ads,Appliances,Coffee Maker,2,2600,15,delivered,card
+10309,2024-05-03,383,Kuwait,Alexandria,Direct,Stationery,Notebook A5,1,45,0,delivered,wallet
+10310,2026-05-06,191,Saudi Arabia,Doha,Paid Ads,Electronics,USB-C Hub,4,800,5,shipped,card
+10311,2025-09-29,323,Qatar,Kuwait City,Direct,Stationery,Notebook A5,2,45,0,delivered,cod
+10312,2023-01-20,394,UAE,Doha,Email,Appliances,Electric Kettle,2,950,0,delivered,wallet
+10313,2025-05-01,85,UAE,Cairo,Paid Ads,Appliances,Coffee Maker,4,2600,0,delivered,card
+10314,2024-07-16,469,UAE,Kuwait City,Direct,Furniture,Bookshelf,3,2100,0,shipped,card
+10315,2026-03-18,376,UAE,Cairo,Email,Electronics,27-inch Monitor,3,5200,10,shipped,card
+10316,2025-05-20,34,Saudi Arabia,Jeddah,Social Media,Electronics,27-inch Monitor,2,5200,0,returned,card
+10317,2025-06-18,360,Qatar,Abu Dhabi,Paid Ads,Electronics,27-inch Monitor,2,5200,0,shipped,card
+10318,2024-02-28,360,UAE,Jeddah,Direct,Furniture,Standing Desk,1,7800,10,shipped,card
+10319,2024-10-24,274,Qatar,Doha,Organic Search,Stationery,Notebook A5,3,45,10,delivered,wallet
+10320,2023-05-02,136,Egypt,Alexandria,Social Media,Furniture,Desk Lamp,2,600,15,returned,card
+10321,2025-03-15,276,Kuwait,Abu Dhabi,Email,Appliances,Electric Kettle,2,950,10,delivered,card
+10322,2026-07-21,285,Kuwait,Dubai,Email,Electronics,Mechanical Keyboard,4,1200,10,delivered,cod
+10323,2026-04-06,470,Kuwait,Dubai,Organic Search,Electronics,Laptop Pro 15,1,18500,15,returned,bank_transfer
+10324,2025-03-25,507,Egypt,Dubai,Social Media,Furniture,Standing Desk,4,7800,0,delivered,bank_transfer
+10325,2026-03-29,50,Egypt,Giza,Email,Electronics,USB-C Hub,4,800,0,delivered,card
+10326,2023-11-20,439,Egypt,Alexandria,Social Media,Appliances,Coffee Maker,4,2600,0,delivered,cod
+10327,2023-07-11,381,Kuwait,Alexandria,Organic Search,Stationery,Whiteboard Markers,3,120,0,delivered,cod
+10328,2024-04-24,98,Egypt,Riyadh,Email,Stationery,Sticky Notes Pack,1,60,15,delivered,card
+10329,2026-04-30,9,Kuwait,Dubai,Organic Search,Furniture,Bookshelf,4,2100,0,returned,wallet
+10330,2023-09-28,393,Egypt,Giza,Organic Search,Appliances,Electric Kettle,1,950,0,delivered,cod
+10331,2024-09-04,147,Egypt,Doha,Direct,Electronics,USB-C Hub,4,800,0,delivered,bank_transfer
+10332,2026-08-24,219,Kuwait,Alexandria,Email,Furniture,Office Chair,4,4500,0,shipped,wallet
+10333,2024-03-20,127,UAE,Abu Dhabi,Social Media,Electronics,Mechanical Keyboard,1,1200,0,delivered,cod
+10334,2023-10-14,87,Egypt,Doha,Direct,Furniture,Bookshelf,3,2100,15,shipped,bank_transfer
+10335,2024-08-06,531,UAE,Doha,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,cancelled,wallet
+10336,2024-08-28,396,Egypt,Riyadh,Email,Electronics,Wireless Mouse,2,350,5,cancelled,bank_transfer
+10337,2023-05-26,325,Egypt,Abu Dhabi,Direct,Appliances,Air Fryer,1,3400,0,delivered,cod
+10338,2026-01-23,18,UAE,Giza,Organic Search,Furniture,Office Chair,4,4500,0,delivered,card
+10339,2023-03-23,294,Kuwait,Doha,Email,Electronics,Wireless Mouse,4,350,10,delivered,wallet
+10340,2023-06-18,86,Egypt,Giza,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,card
+10341,2026-01-03,68,Egypt,Abu Dhabi,Paid Ads,Stationery,Ballpoint Pens (10),4,85,10,delivered,card
+10342,2023-06-26,57,Egypt,Alexandria,Organic Search,Stationery,Sticky Notes Pack,1,60,5,delivered,card
+10343,2023-01-24,536,UAE,Jeddah,Paid Ads,Furniture,Office Chair,4,4500,0,delivered,card
+10344,2024-07-04,440,Egypt,Doha,Organic Search,Electronics,27-inch Monitor,1,5200,0,delivered,bank_transfer
+10345,2026-07-09,524,Egypt,Cairo,Email,Electronics,Mechanical Keyboard,4,1200,5,returned,bank_transfer
+10346,2023-12-08,106,UAE,Giza,Paid Ads,Stationery,Whiteboard Markers,2,120,0,cancelled,bank_transfer
+10347,2023-01-06,48,Saudi Arabia,Dubai,Email,Electronics,Wireless Mouse,1,350,0,delivered,card
+10348,2023-03-14,330,Egypt,Abu Dhabi,Social Media,Appliances,Vacuum Cleaner,4,5200,0,delivered,card
+10349,2026-03-16,54,Egypt,Riyadh,Direct,Stationery,Whiteboard Markers,1,120,10,delivered,wallet
+10350,2023-05-22,336,Egypt,Doha,Email,Appliances,Coffee Maker,3,2600,0,delivered,cod
+10351,2024-02-15,249,Saudi Arabia,Dubai,Direct,Stationery,Notebook A5,3,45,15,delivered,card
+10352,2026-01-24,420,Egypt,Riyadh,Direct,Furniture,Bookshelf,2,2100,0,delivered,card
+10353,2024-11-17,315,Egypt,Riyadh,Direct,Electronics,Laptop Pro 15,4,18500,15,delivered,wallet
+10354,2025-10-04,287,Egypt,Cairo,Paid Ads,Electronics,Wireless Mouse,2,350,15,returned,bank_transfer
+10355,2025-04-25,87,UAE,Giza,Direct,Stationery,Whiteboard Markers,4,120,15,delivered,wallet
+10356,2023-06-03,134,Egypt,Jeddah,Social Media,Accessories,Water Bottle 1L,1,180,5,returned,cod
+10357,2025-03-15,279,Egypt,Giza,Paid Ads,Stationery,Ballpoint Pens (10),3,85,5,delivered,bank_transfer
+10358,2023-08-12,461,Saudi Arabia,Dubai,Email,Electronics,USB-C Hub,1,800,0,delivered,bank_transfer
+10359,2025-01-03,475,Egypt,Giza,Organic Search,Furniture,Standing Desk,4,7800,0,delivered,cod
+10360,2026-05-20,152,Egypt,Riyadh,Social Media,Electronics,Wireless Mouse,2,350,0,delivered,bank_transfer
+10361,2023-04-11,32,Saudi Arabia,Kuwait City,Direct,Stationery,Notebook A5,3,45,0,cancelled,bank_transfer
+10362,2024-05-26,144,Egypt,Cairo,Organic Search,Electronics,27-inch Monitor,4,5200,0,returned,card
+10363,2023-09-25,87,UAE,Jeddah,Organic Search,Furniture,Standing Desk,4,7800,0,delivered,card
+10364,2024-02-09,340,Egypt,Cairo,Email,Appliances,Coffee Maker,2,2600,0,delivered,card
+10365,2026-03-21,31,Saudi Arabia,Abu Dhabi,Paid Ads,Stationery,Sticky Notes Pack,4,60,5,delivered,card
+10366,2024-01-19,153,Egypt,Riyadh,Social Media,Furniture,Desk Lamp,3,600,5,delivered,wallet
+10367,2026-02-01,287,Saudi Arabia,Alexandria,Email,Appliances,Electric Kettle,1,950,0,delivered,bank_transfer
+10368,2024-05-25,368,Saudi Arabia,Doha,Email,Appliances,Vacuum Cleaner,1,5200,5,delivered,bank_transfer
+10369,2025-10-25,185,Egypt,Dubai,Direct,Stationery,Ballpoint Pens (10),4,85,0,delivered,card
+10370,2024-07-29,367,Qatar,Riyadh,Paid Ads,Electronics,Wireless Mouse,4,350,10,delivered,card
+10371,2024-05-08,590,Qatar,Abu Dhabi,Social Media,Furniture,Desk Lamp,1,600,0,returned,card
+10372,2023-12-27,368,UAE,Cairo,Social Media,Furniture,Bookshelf,3,2100,15,shipped,bank_transfer
+10373,2023-10-19,556,Egypt,Alexandria,Email,Accessories,Water Bottle 1L,2,180,5,delivered,card
+10374,2023-04-26,540,Saudi Arabia,Cairo,Social Media,Furniture,Bookshelf,2,2100,0,shipped,card
+10375,2023-09-25,61,Egypt,Alexandria,Direct,Stationery,Ballpoint Pens (10),2,85,0,cancelled,card
+10376,2023-08-16,383,Kuwait,Abu Dhabi,Direct,Appliances,Air Fryer,3,3400,0,delivered,cod
+10377,2024-09-10,448,Qatar,Kuwait City,Social Media,Stationery,Ballpoint Pens (10),2,85,0,delivered,bank_transfer
+10378,2026-06-10,180,Saudi Arabia,Jeddah,Social Media,Stationery,Whiteboard Markers,2,120,15,delivered,card
+10379,2023-01-04,34,Egypt,Dubai,Direct,Accessories,Water Bottle 1L,4,180,10,delivered,bank_transfer
+10380,2023-08-02,80,Egypt,Dubai,Social Media,Appliances,Electric Kettle,2,950,0,delivered,card
+10381,2026-08-01,272,Egypt,Riyadh,Organic Search,Stationery,Ballpoint Pens (10),4,85,0,delivered,cod
+10382,2023-08-10,449,Kuwait,Abu Dhabi,Paid Ads,Electronics,Laptop Pro 15,1,18500,5,delivered,wallet
+10383,2025-02-14,491,Qatar,Riyadh,Paid Ads,Stationery,Whiteboard Markers,4,120,0,delivered,card
+10384,2023-03-10,268,Egypt,Giza,Social Media,Stationery,Notebook A5,1,45,0,delivered,wallet
+10385,2023-11-26,495,Kuwait,Cairo,Email,Electronics,Mechanical Keyboard,1,1200,0,cancelled,card
+10386,2026-05-28,104,Egypt,Riyadh,Paid Ads,Stationery,Sticky Notes Pack,2,60,0,delivered,bank_transfer
+10387,2026-01-11,244,Egypt,Cairo,Email,Furniture,Desk Lamp,3,600,0,shipped,bank_transfer
+10388,2025-10-02,4,Saudi Arabia,Giza,Social Media,Electronics,USB-C Hub,1,800,0,returned,bank_transfer
+10389,2025-09-10,212,Egypt,Jeddah,Organic Search,Furniture,Standing Desk,1,7800,0,delivered,card
+10390,2024-09-23,272,Egypt,Doha,Email,Stationery,Printer Paper (500),4,210,5,delivered,cod
+10391,2025-02-20,46,Egypt,Kuwait City,Email,Stationery,Whiteboard Markers,2,120,5,delivered,card
+10392,2024-07-04,100,Egypt,Dubai,Direct,Accessories,Water Bottle 1L,1,180,0,delivered,bank_transfer
+10393,2024-04-10,536,Saudi Arabia,Doha,Email,Appliances,Vacuum Cleaner,1,5200,5,shipped,card
+10394,2025-09-02,36,UAE,Doha,Direct,Stationery,Notebook A5,1,45,5,cancelled,bank_transfer
+10395,2023-10-29,172,Egypt,Riyadh,Paid Ads,Electronics,27-inch Monitor,4,5200,0,delivered,wallet
+10396,2023-06-10,152,Qatar,Jeddah,Social Media,Stationery,Sticky Notes Pack,2,60,15,cancelled,card
+10397,2023-06-28,334,Qatar,Jeddah,Direct,Stationery,Printer Paper (500),4,210,10,delivered,card
+10398,2026-06-30,425,Egypt,Alexandria,Direct,Accessories,Water Bottle 1L,4,180,0,shipped,bank_transfer
+10399,2023-07-25,549,Egypt,Abu Dhabi,Social Media,Electronics,27-inch Monitor,1,5200,0,delivered,wallet
+10400,2026-03-17,177,Egypt,Abu Dhabi,Paid Ads,Accessories,Backpack 20L,4,1400,0,shipped,bank_transfer
+10401,2025-04-02,244,Egypt,Kuwait City,Social Media,Electronics,Wireless Mouse,4,350,0,delivered,card
+10402,2024-11-22,504,Qatar,Giza,Paid Ads,Stationery,Notebook A5,3,45,0,delivered,cod
+10403,2025-06-26,427,UAE,Giza,Paid Ads,Stationery,Ballpoint Pens (10),3,85,15,delivered,card
+10404,2025-04-13,528,Qatar,Alexandria,Organic Search,Appliances,Electric Kettle,3,950,0,delivered,bank_transfer
+10405,2025-04-06,198,Qatar,Riyadh,Organic Search,Electronics,USB-C Hub,1,800,0,delivered,card
+10406,2025-07-23,204,Egypt,Dubai,Email,Electronics,Wireless Mouse,3,350,15,shipped,wallet
+10407,2026-07-25,382,Saudi Arabia,Kuwait City,Paid Ads,Electronics,27-inch Monitor,1,5200,0,returned,wallet
+10408,2026-04-16,168,Qatar,Jeddah,Organic Search,Appliances,Vacuum Cleaner,3,5200,0,delivered,card
+10409,2025-03-02,220,Qatar,Riyadh,Paid Ads,Electronics,Wireless Mouse,2,350,10,cancelled,card
+10410,2024-07-05,10,Saudi Arabia,Alexandria,Paid Ads,Stationery,Sticky Notes Pack,1,60,15,shipped,card
+10411,2024-04-03,282,Saudi Arabia,Abu Dhabi,Social Media,Furniture,Desk Lamp,3,600,15,delivered,cod
+10412,2024-03-22,534,Qatar,Abu Dhabi,Direct,Appliances,Coffee Maker,3,2600,15,delivered,card
+10413,2025-11-13,111,Saudi Arabia,Giza,Social Media,Stationery,Whiteboard Markers,3,120,0,delivered,cod
+10414,2024-07-21,154,UAE,Riyadh,Organic Search,Furniture,Desk Lamp,3,600,0,returned,bank_transfer
+10415,2025-04-07,27,Kuwait,Kuwait City,Social Media,Stationery,Ballpoint Pens (10),2,85,15,delivered,wallet
+10416,2025-04-08,586,Qatar,Riyadh,Social Media,Stationery,Printer Paper (500),1,210,10,cancelled,card
+10417,2025-12-30,308,Qatar,Alexandria,Direct,Appliances,Electric Kettle,3,950,10,delivered,cod
+10418,2023-07-19,265,Kuwait,Doha,Paid Ads,Appliances,Electric Kettle,2,950,15,cancelled,cod
+10419,2023-07-02,315,Saudi Arabia,Dubai,Social Media,Furniture,Bookshelf,3,2100,0,delivered,bank_transfer
+10420,2024-08-25,55,Qatar,Giza,Email,Appliances,Coffee Maker,1,2600,5,delivered,bank_transfer
+10421,2023-09-03,56,Qatar,Alexandria,Paid Ads,Stationery,Printer Paper (500),3,210,5,delivered,cod
+10422,2025-04-18,324,Qatar,Alexandria,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+10423,2026-07-16,60,Egypt,Kuwait City,Social Media,Furniture,Office Chair,3,4500,15,delivered,card
+10424,2026-03-26,133,UAE,Abu Dhabi,Email,Furniture,Office Chair,4,4500,0,delivered,wallet
+10425,2025-09-04,547,Egypt,Dubai,Organic Search,Stationery,Printer Paper (500),1,210,0,delivered,bank_transfer
+10426,2024-01-26,255,Egypt,Dubai,Social Media,Electronics,Laptop Pro 15,1,18500,15,delivered,card
+10427,2025-02-24,67,Qatar,Cairo,Social Media,Appliances,Air Fryer,3,3400,0,delivered,wallet
+10428,2025-12-01,138,Egypt,Kuwait City,Social Media,Accessories,Backpack 20L,3,1400,5,returned,card
+10429,2023-12-04,230,Kuwait,Alexandria,Paid Ads,Stationery,Printer Paper (500),1,210,0,cancelled,card
+10430,2026-04-22,376,Kuwait,Cairo,Email,Appliances,Air Fryer,2,3400,0,cancelled,cod
+10431,2025-12-31,50,Kuwait,Giza,Organic Search,Accessories,Backpack 20L,1,1400,10,delivered,card
+10432,2025-05-03,561,Egypt,Kuwait City,Paid Ads,Appliances,Coffee Maker,4,2600,0,delivered,card
+10433,2024-09-08,533,Egypt,Alexandria,Email,Stationery,Sticky Notes Pack,1,60,15,returned,card
+10434,2025-11-13,117,Qatar,Giza,Email,Accessories,Backpack 20L,1,1400,0,delivered,bank_transfer
+10435,2024-02-14,420,Egypt,Alexandria,Organic Search,Furniture,Desk Lamp,2,600,0,shipped,wallet
+10436,2024-03-01,3,Egypt,Giza,Organic Search,Appliances,Electric Kettle,3,950,0,returned,bank_transfer
+10437,2025-10-08,77,Kuwait,Giza,Social Media,Electronics,USB-C Hub,1,800,10,cancelled,card
+10438,2025-07-24,52,Egypt,Alexandria,Organic Search,Stationery,Notebook A5,3,45,5,returned,cod
+10439,2025-01-07,119,Egypt,Cairo,Organic Search,Stationery,Ballpoint Pens (10),4,85,15,returned,card
+10440,2026-08-18,449,UAE,Jeddah,Organic Search,Furniture,Office Chair,3,4500,0,delivered,cod
+10441,2024-01-10,468,Egypt,Abu Dhabi,Email,Electronics,27-inch Monitor,4,5200,5,returned,wallet
+10442,2026-08-21,61,Qatar,Alexandria,Organic Search,Furniture,Office Chair,1,4500,0,delivered,bank_transfer
+10443,2025-09-15,389,Qatar,Dubai,Direct,Accessories,Water Bottle 1L,4,180,0,delivered,card
+10444,2025-09-16,452,Egypt,Giza,Social Media,Appliances,Electric Kettle,1,950,5,cancelled,cod
+10445,2023-01-26,347,UAE,Doha,Direct,Appliances,Air Fryer,2,3400,15,delivered,wallet
+10446,2024-05-24,395,Egypt,Doha,Direct,Appliances,Electric Kettle,3,950,15,delivered,card
+10447,2026-08-10,170,Egypt,Kuwait City,Social Media,Furniture,Office Chair,4,4500,5,delivered,cod
+10448,2024-07-23,388,Saudi Arabia,Riyadh,Organic Search,Electronics,Wireless Mouse,2,350,10,delivered,wallet
+10449,2026-03-19,458,Egypt,Giza,Email,Appliances,Coffee Maker,1,2600,5,cancelled,card
+10450,2023-07-30,571,UAE,Cairo,Organic Search,Stationery,Printer Paper (500),4,210,0,returned,bank_transfer
+10451,2026-06-21,468,Egypt,Dubai,Organic Search,Stationery,Notebook A5,2,45,15,returned,card
+10452,2025-07-19,373,Kuwait,Kuwait City,Organic Search,Stationery,Ballpoint Pens (10),4,85,15,delivered,card
+10453,2023-01-05,299,UAE,Doha,Social Media,Stationery,Ballpoint Pens (10),3,85,15,cancelled,card
+10454,2023-04-04,420,Egypt,Jeddah,Direct,Furniture,Office Chair,4,4500,0,delivered,card
+10455,2023-09-05,196,Kuwait,Dubai,Organic Search,Stationery,Printer Paper (500),2,210,5,returned,wallet
+10456,2023-04-06,469,Kuwait,Doha,Paid Ads,Accessories,Water Bottle 1L,1,180,5,delivered,card
+10457,2025-12-22,495,UAE,Alexandria,Direct,Electronics,Wireless Mouse,4,350,10,delivered,card
+10458,2023-08-01,394,Saudi Arabia,Riyadh,Social Media,Stationery,Printer Paper (500),3,210,10,delivered,cod
+10459,2024-08-25,423,UAE,Doha,Social Media,Appliances,Coffee Maker,2,2600,0,returned,bank_transfer
+10460,2024-10-04,215,UAE,Jeddah,Social Media,Appliances,Vacuum Cleaner,2,5200,0,cancelled,card
+10461,2026-08-24,119,Qatar,Dubai,Direct,Furniture,Office Chair,3,4500,15,delivered,bank_transfer
+10462,2026-03-14,14,UAE,Giza,Organic Search,Stationery,Sticky Notes Pack,3,60,5,delivered,card
+10463,2023-04-19,165,Egypt,Jeddah,Paid Ads,Electronics,Wireless Mouse,2,350,0,returned,card
+10464,2024-08-27,464,Egypt,Doha,Paid Ads,Furniture,Standing Desk,1,7800,0,cancelled,bank_transfer
+10465,2025-03-07,49,Saudi Arabia,Abu Dhabi,Email,Furniture,Bookshelf,3,2100,15,returned,cod
+10466,2026-02-04,258,Egypt,Kuwait City,Paid Ads,Electronics,Wireless Mouse,1,350,15,cancelled,cod
+10467,2026-04-20,199,Egypt,Kuwait City,Paid Ads,Appliances,Vacuum Cleaner,2,5200,15,cancelled,card
+10468,2024-01-18,42,Saudi Arabia,Jeddah,Direct,Furniture,Office Chair,1,4500,5,delivered,card
+10469,2023-11-26,339,Saudi Arabia,Alexandria,Organic Search,Accessories,Water Bottle 1L,3,180,0,delivered,cod
+10470,2026-05-07,587,UAE,Dubai,Organic Search,Electronics,Wireless Mouse,3,350,5,returned,cod
+10471,2025-12-12,70,Qatar,Doha,Paid Ads,Furniture,Bookshelf,2,2100,10,delivered,bank_transfer
+10472,2026-01-04,227,Egypt,Dubai,Social Media,Stationery,Printer Paper (500),1,210,0,delivered,cod
+10473,2024-03-23,10,Egypt,Dubai,Email,Accessories,Backpack 20L,4,1400,10,delivered,bank_transfer
+10474,2026-06-26,329,Saudi Arabia,Giza,Email,Furniture,Bookshelf,1,2100,15,delivered,bank_transfer
+10475,2024-08-02,521,Saudi Arabia,Kuwait City,Organic Search,Electronics,Laptop Pro 15,3,18500,10,delivered,card
+10476,2024-10-18,172,Qatar,Doha,Direct,Appliances,Air Fryer,1,3400,0,delivered,card
+10477,2024-03-07,211,UAE,Abu Dhabi,Organic Search,Furniture,Standing Desk,4,7800,0,cancelled,card
+10478,2023-02-18,90,Egypt,Cairo,Paid Ads,Appliances,Coffee Maker,3,2600,0,returned,cod
+10479,2026-02-16,418,Saudi Arabia,Kuwait City,Email,Electronics,Mechanical Keyboard,2,1200,0,delivered,cod
+10480,2023-02-04,7,Kuwait,Giza,Direct,Stationery,Printer Paper (500),1,210,10,delivered,card
+10481,2025-01-02,309,UAE,Giza,Social Media,Appliances,Air Fryer,1,3400,0,returned,wallet
+10482,2025-02-20,161,UAE,Riyadh,Paid Ads,Stationery,Printer Paper (500),1,210,5,cancelled,wallet
+10483,2026-01-22,383,Egypt,Doha,Direct,Stationery,Notebook A5,2,45,0,delivered,card
+10484,2023-03-27,561,Egypt,Jeddah,Paid Ads,Electronics,Laptop Pro 15,4,18500,10,cancelled,cod
+10485,2024-03-09,189,Egypt,Jeddah,Paid Ads,Stationery,Sticky Notes Pack,2,60,0,delivered,card
+10486,2026-03-07,563,Egypt,Jeddah,Organic Search,Electronics,Wireless Mouse,4,350,15,delivered,card
+10487,2024-02-09,366,Egypt,Riyadh,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,bank_transfer
+10488,2023-05-23,462,Egypt,Jeddah,Direct,Furniture,Standing Desk,3,7800,5,delivered,bank_transfer
+10489,2026-03-06,173,Egypt,Dubai,Paid Ads,Stationery,Whiteboard Markers,3,120,5,returned,card
+10490,2026-08-05,138,Kuwait,Dubai,Email,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+10491,2025-01-04,112,Egypt,Giza,Social Media,Stationery,Notebook A5,4,45,10,returned,card
+10492,2026-01-08,79,Kuwait,Giza,Organic Search,Furniture,Standing Desk,3,7800,15,returned,bank_transfer
+10493,2026-07-17,218,Egypt,Doha,Social Media,Electronics,Laptop Pro 15,4,18500,10,shipped,bank_transfer
+10494,2025-08-24,229,Qatar,Jeddah,Paid Ads,Electronics,USB-C Hub,3,800,5,delivered,bank_transfer
+10495,2025-11-11,515,Egypt,Riyadh,Direct,Electronics,Mechanical Keyboard,4,1200,0,cancelled,card
+10496,2025-11-18,184,UAE,Alexandria,Email,Electronics,USB-C Hub,4,800,0,delivered,card
+10497,2024-03-24,271,Egypt,Riyadh,Organic Search,Appliances,Electric Kettle,2,950,0,cancelled,card
+10498,2025-11-26,466,Egypt,Cairo,Social Media,Stationery,Whiteboard Markers,4,120,5,delivered,bank_transfer
+10499,2026-07-21,558,UAE,Alexandria,Email,Furniture,Desk Lamp,3,600,10,cancelled,wallet
+10500,2025-01-18,258,Saudi Arabia,Riyadh,Direct,Accessories,Water Bottle 1L,1,180,10,delivered,cod
+10501,2024-12-07,7,UAE,Alexandria,Email,Appliances,Electric Kettle,4,950,10,delivered,card
+10502,2023-06-07,154,Egypt,Alexandria,Social Media,Appliances,Air Fryer,3,3400,0,shipped,card
+10503,2024-04-16,117,Saudi Arabia,Kuwait City,Email,Stationery,Sticky Notes Pack,3,60,15,delivered,bank_transfer
+10504,2023-11-27,45,Egypt,Alexandria,Paid Ads,Stationery,Sticky Notes Pack,1,60,0,cancelled,bank_transfer
+10505,2023-03-22,171,Egypt,Alexandria,Direct,Accessories,Water Bottle 1L,2,180,0,delivered,bank_transfer
+10506,2026-02-28,222,Saudi Arabia,Kuwait City,Email,Electronics,Laptop Pro 15,3,18500,0,delivered,card
+10507,2025-04-21,187,UAE,Doha,Social Media,Accessories,Backpack 20L,2,1400,10,delivered,cod
+10508,2025-07-17,388,Saudi Arabia,Alexandria,Organic Search,Accessories,Backpack 20L,1,1400,0,delivered,card
+10509,2025-12-06,99,Egypt,Kuwait City,Direct,Appliances,Air Fryer,4,3400,0,shipped,card
+10510,2025-12-24,494,Kuwait,Alexandria,Direct,Appliances,Air Fryer,1,3400,0,shipped,card
+10511,2026-08-22,45,Kuwait,Doha,Email,Stationery,Sticky Notes Pack,4,60,0,delivered,wallet
+10512,2025-02-19,138,Egypt,Kuwait City,Paid Ads,Stationery,Whiteboard Markers,1,120,5,returned,card
+10513,2024-08-03,194,Egypt,Cairo,Direct,Accessories,Backpack 20L,4,1400,0,shipped,card
+10514,2025-11-30,211,Kuwait,Dubai,Email,Electronics,Laptop Pro 15,4,18500,15,delivered,card
+10515,2023-11-13,549,Saudi Arabia,Dubai,Direct,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+10516,2024-02-22,380,UAE,Doha,Email,Stationery,Sticky Notes Pack,4,60,0,delivered,cod
+10517,2026-03-29,142,Qatar,Giza,Paid Ads,Stationery,Whiteboard Markers,4,120,15,delivered,card
+10518,2023-07-25,564,UAE,Cairo,Paid Ads,Furniture,Standing Desk,4,7800,0,delivered,card
+10519,2023-07-06,446,Egypt,Giza,Social Media,Electronics,USB-C Hub,4,800,10,delivered,cod
+10520,2023-06-13,394,Saudi Arabia,Doha,Social Media,Accessories,Backpack 20L,1,1400,15,cancelled,bank_transfer
+10521,2023-04-28,11,Egypt,Doha,Social Media,Furniture,Office Chair,4,4500,5,delivered,card
+10522,2026-05-12,174,Kuwait,Cairo,Social Media,Appliances,Air Fryer,2,3400,10,delivered,card
+10523,2023-11-19,362,Kuwait,Abu Dhabi,Email,Electronics,Mechanical Keyboard,3,1200,5,shipped,card
+10524,2025-11-26,563,Egypt,Doha,Direct,Electronics,Laptop Pro 15,1,18500,0,delivered,cod
+10525,2024-07-20,414,UAE,Cairo,Social Media,Furniture,Bookshelf,2,2100,5,delivered,wallet
+10526,2025-11-02,302,Egypt,Giza,Direct,Electronics,27-inch Monitor,1,5200,10,delivered,bank_transfer
+10527,2026-03-23,577,Saudi Arabia,Riyadh,Social Media,Furniture,Desk Lamp,4,600,5,returned,wallet
+10528,2025-08-01,120,Egypt,Giza,Email,Accessories,Water Bottle 1L,1,180,5,cancelled,card
+10529,2024-04-15,529,UAE,Cairo,Social Media,Stationery,Ballpoint Pens (10),4,85,0,delivered,cod
+10530,2023-07-10,568,Egypt,Kuwait City,Social Media,Stationery,Printer Paper (500),3,210,0,delivered,card
+10531,2026-03-20,195,Saudi Arabia,Riyadh,Paid Ads,Furniture,Desk Lamp,2,600,15,cancelled,card
+10532,2024-06-27,256,Qatar,Dubai,Paid Ads,Furniture,Standing Desk,2,7800,0,returned,card
+10533,2023-09-03,7,Qatar,Doha,Organic Search,Electronics,Mechanical Keyboard,4,1200,10,returned,wallet
+10534,2025-01-30,589,Qatar,Jeddah,Email,Accessories,Backpack 20L,3,1400,5,delivered,bank_transfer
+10535,2024-07-27,132,Egypt,Doha,Email,Stationery,Printer Paper (500),2,210,10,delivered,bank_transfer
+10536,2023-03-08,179,Saudi Arabia,Giza,Direct,Appliances,Air Fryer,3,3400,5,delivered,cod
+10537,2023-01-18,595,Egypt,Dubai,Social Media,Electronics,Laptop Pro 15,2,18500,5,shipped,cod
+10538,2024-01-19,276,Saudi Arabia,Dubai,Social Media,Appliances,Vacuum Cleaner,3,5200,0,delivered,wallet
+10539,2025-05-18,382,Egypt,Abu Dhabi,Social Media,Furniture,Standing Desk,4,7800,15,delivered,card
+10540,2026-03-16,277,Qatar,Riyadh,Direct,Electronics,USB-C Hub,2,800,0,delivered,wallet
+10541,2024-02-06,10,Egypt,Abu Dhabi,Email,Electronics,USB-C Hub,2,800,5,delivered,bank_transfer
+10542,2025-12-29,257,UAE,Cairo,Email,Stationery,Ballpoint Pens (10),4,85,0,delivered,card
+10543,2023-05-03,99,Saudi Arabia,Dubai,Social Media,Furniture,Standing Desk,3,7800,5,delivered,cod
+10544,2026-02-21,21,Saudi Arabia,Giza,Social Media,Appliances,Vacuum Cleaner,3,5200,0,returned,bank_transfer
+10545,2024-02-12,364,Egypt,Doha,Email,Accessories,Water Bottle 1L,2,180,0,returned,wallet
+10546,2023-06-10,149,Qatar,Alexandria,Social Media,Stationery,Printer Paper (500),3,210,5,delivered,bank_transfer
+10547,2026-03-16,166,Egypt,Riyadh,Social Media,Stationery,Printer Paper (500),1,210,0,delivered,cod
+10548,2024-07-01,456,Qatar,Dubai,Direct,Accessories,Backpack 20L,4,1400,0,shipped,wallet
+10549,2025-04-27,129,Kuwait,Riyadh,Social Media,Furniture,Office Chair,2,4500,0,cancelled,card
+10550,2024-03-07,98,Egypt,Kuwait City,Direct,Furniture,Office Chair,4,4500,0,delivered,card
+10551,2025-03-24,269,UAE,Alexandria,Organic Search,Appliances,Air Fryer,1,3400,0,cancelled,wallet
+10552,2024-09-25,291,Saudi Arabia,Alexandria,Paid Ads,Furniture,Bookshelf,2,2100,15,shipped,card
+10553,2023-02-28,488,Saudi Arabia,Doha,Social Media,Electronics,Wireless Mouse,3,350,0,shipped,wallet
+10554,2023-10-04,468,Kuwait,Abu Dhabi,Direct,Appliances,Vacuum Cleaner,2,5200,10,cancelled,bank_transfer
+10555,2024-09-26,233,Qatar,Giza,Email,Stationery,Whiteboard Markers,4,120,10,delivered,cod
+10556,2025-04-24,11,Egypt,Doha,Paid Ads,Furniture,Desk Lamp,2,600,0,delivered,cod
+10557,2025-08-18,504,Qatar,Kuwait City,Social Media,Appliances,Vacuum Cleaner,1,5200,15,delivered,wallet
+10558,2024-08-22,562,Egypt,Riyadh,Email,Accessories,Backpack 20L,2,1400,0,shipped,wallet
+10559,2025-03-19,400,Qatar,Abu Dhabi,Paid Ads,Furniture,Bookshelf,2,2100,15,delivered,card
+10560,2025-05-14,545,Qatar,Jeddah,Email,Furniture,Bookshelf,3,2100,0,delivered,card
+10561,2024-01-09,467,UAE,Kuwait City,Social Media,Electronics,USB-C Hub,3,800,0,cancelled,bank_transfer
+10562,2025-10-04,156,Egypt,Doha,Organic Search,Furniture,Standing Desk,3,7800,0,delivered,card
+10563,2024-07-31,449,Kuwait,Cairo,Paid Ads,Furniture,Desk Lamp,2,600,15,delivered,card
+10564,2023-01-31,431,Egypt,Kuwait City,Social Media,Appliances,Electric Kettle,2,950,0,delivered,card
+10565,2024-11-07,273,Qatar,Abu Dhabi,Organic Search,Electronics,Mechanical Keyboard,2,1200,0,shipped,wallet
+10566,2024-01-07,13,Egypt,Riyadh,Email,Furniture,Standing Desk,3,7800,5,returned,wallet
+10567,2024-05-21,97,UAE,Riyadh,Email,Electronics,Wireless Mouse,2,350,5,delivered,cod
+10568,2024-10-23,563,UAE,Giza,Social Media,Furniture,Office Chair,1,4500,15,delivered,cod
+10569,2024-02-11,224,Egypt,Riyadh,Email,Stationery,Whiteboard Markers,1,120,15,delivered,card
+10570,2023-12-09,249,Egypt,Cairo,Direct,Furniture,Desk Lamp,1,600,5,returned,wallet
+10571,2026-05-06,255,Egypt,Kuwait City,Organic Search,Electronics,USB-C Hub,3,800,0,cancelled,bank_transfer
+10572,2024-11-24,158,Kuwait,Doha,Organic Search,Electronics,Wireless Mouse,1,350,0,delivered,wallet
+10573,2024-04-21,198,Egypt,Abu Dhabi,Social Media,Stationery,Ballpoint Pens (10),3,85,5,cancelled,card
+10574,2024-05-28,449,UAE,Jeddah,Direct,Electronics,Wireless Mouse,4,350,15,cancelled,wallet
+10575,2024-01-24,357,Egypt,Kuwait City,Social Media,Accessories,Water Bottle 1L,2,180,10,returned,bank_transfer
+10576,2026-02-09,159,Saudi Arabia,Jeddah,Social Media,Furniture,Office Chair,1,4500,10,shipped,cod
+10577,2025-07-18,190,Egypt,Dubai,Direct,Electronics,Laptop Pro 15,4,18500,15,delivered,cod
+10578,2023-05-10,537,Kuwait,Kuwait City,Direct,Appliances,Vacuum Cleaner,4,5200,0,delivered,bank_transfer
+10579,2024-08-02,330,Egypt,Giza,Direct,Stationery,Ballpoint Pens (10),4,85,15,cancelled,card
+10580,2023-03-31,207,Egypt,Kuwait City,Paid Ads,Electronics,USB-C Hub,2,800,0,delivered,card
+10581,2026-03-15,263,Egypt,Dubai,Paid Ads,Stationery,Printer Paper (500),4,210,10,shipped,card
+10582,2023-01-27,480,Qatar,Cairo,Social Media,Furniture,Standing Desk,4,7800,0,shipped,wallet
+10583,2025-01-25,42,Kuwait,Giza,Social Media,Electronics,Wireless Mouse,3,350,10,delivered,card
+10584,2025-11-29,237,UAE,Abu Dhabi,Paid Ads,Electronics,27-inch Monitor,1,5200,15,delivered,bank_transfer
+10585,2024-05-24,572,Saudi Arabia,Giza,Direct,Accessories,Water Bottle 1L,2,180,10,delivered,wallet
+10586,2025-05-24,564,Saudi Arabia,Doha,Social Media,Electronics,27-inch Monitor,2,5200,0,cancelled,card
+10587,2025-12-29,323,UAE,Dubai,Social Media,Accessories,Backpack 20L,4,1400,0,delivered,wallet
+10588,2024-10-24,559,Egypt,Abu Dhabi,Direct,Accessories,Backpack 20L,2,1400,10,cancelled,cod
+10589,2025-01-07,1,Kuwait,Cairo,Social Media,Appliances,Coffee Maker,4,2600,5,shipped,card
+10590,2025-11-26,308,Egypt,Riyadh,Social Media,Electronics,USB-C Hub,3,800,0,delivered,cod
+10591,2026-02-07,39,Saudi Arabia,Dubai,Paid Ads,Appliances,Air Fryer,2,3400,0,delivered,cod
+10592,2025-01-21,263,Qatar,Jeddah,Organic Search,Accessories,Water Bottle 1L,2,180,0,shipped,wallet
+10593,2026-03-11,333,Qatar,Kuwait City,Paid Ads,Furniture,Standing Desk,1,7800,15,delivered,bank_transfer
+10594,2023-07-15,591,Saudi Arabia,Giza,Organic Search,Accessories,Backpack 20L,3,1400,0,returned,cod
+10595,2024-12-13,233,Kuwait,Cairo,Email,Stationery,Sticky Notes Pack,4,60,0,delivered,cod
+10596,2025-12-09,579,Egypt,Dubai,Direct,Electronics,Wireless Mouse,3,350,10,cancelled,card
+10597,2023-11-10,590,UAE,Giza,Paid Ads,Electronics,Wireless Mouse,4,350,5,delivered,cod
+10598,2025-03-18,85,Saudi Arabia,Cairo,Direct,Electronics,USB-C Hub,2,800,0,delivered,cod
+10599,2023-06-24,134,Qatar,Alexandria,Email,Stationery,Printer Paper (500),4,210,15,shipped,card
+10600,2025-09-26,537,Egypt,Riyadh,Organic Search,Stationery,Printer Paper (500),2,210,10,delivered,wallet
+10601,2024-10-24,424,Saudi Arabia,Dubai,Social Media,Accessories,Water Bottle 1L,1,180,0,delivered,cod
+10602,2024-12-06,174,Egypt,Kuwait City,Direct,Accessories,Backpack 20L,1,1400,0,delivered,wallet
+10603,2023-04-02,383,Egypt,Giza,Organic Search,Furniture,Bookshelf,2,2100,15,cancelled,card
+10604,2024-05-12,15,Egypt,Giza,Social Media,Accessories,Backpack 20L,2,1400,0,delivered,wallet
+10605,2023-02-16,551,Egypt,Riyadh,Direct,Stationery,Ballpoint Pens (10),2,85,15,shipped,cod
+10606,2026-01-28,19,Saudi Arabia,Doha,Organic Search,Appliances,Electric Kettle,2,950,15,delivered,card
+10607,2023-05-04,278,Egypt,Kuwait City,Organic Search,Stationery,Notebook A5,2,45,15,delivered,wallet
+10608,2024-07-09,300,Qatar,Abu Dhabi,Paid Ads,Stationery,Whiteboard Markers,1,120,0,delivered,bank_transfer
+10609,2023-07-23,545,Egypt,Alexandria,Paid Ads,Stationery,Ballpoint Pens (10),4,85,10,shipped,wallet
+10610,2026-02-22,543,Egypt,Dubai,Email,Electronics,Laptop Pro 15,1,18500,0,delivered,card
+10611,2023-02-07,310,Egypt,Doha,Social Media,Stationery,Whiteboard Markers,3,120,0,returned,card
+10612,2026-07-05,569,Egypt,Riyadh,Paid Ads,Furniture,Desk Lamp,4,600,0,delivered,wallet
+10613,2023-10-09,233,Saudi Arabia,Riyadh,Direct,Electronics,Mechanical Keyboard,4,1200,10,delivered,wallet
+10614,2024-10-01,556,Egypt,Riyadh,Paid Ads,Accessories,Backpack 20L,3,1400,5,shipped,bank_transfer
+10615,2024-02-19,537,Egypt,Abu Dhabi,Paid Ads,Electronics,USB-C Hub,3,800,15,cancelled,bank_transfer
+10616,2023-11-20,546,Kuwait,Giza,Paid Ads,Stationery,Ballpoint Pens (10),1,85,10,delivered,card
+10617,2023-03-02,311,Saudi Arabia,Jeddah,Paid Ads,Stationery,Ballpoint Pens (10),4,85,5,returned,card
+10618,2023-08-07,274,UAE,Riyadh,Direct,Electronics,USB-C Hub,2,800,0,delivered,card
+10619,2023-02-23,489,Egypt,Doha,Direct,Stationery,Whiteboard Markers,1,120,15,delivered,cod
+10620,2024-01-12,141,Egypt,Riyadh,Paid Ads,Stationery,Printer Paper (500),4,210,5,delivered,wallet
+10621,2023-01-31,208,Qatar,Riyadh,Organic Search,Furniture,Desk Lamp,4,600,0,delivered,wallet
+10622,2026-06-17,253,Saudi Arabia,Abu Dhabi,Organic Search,Appliances,Electric Kettle,3,950,5,shipped,wallet
+10623,2024-10-02,112,Saudi Arabia,Kuwait City,Organic Search,Stationery,Printer Paper (500),1,210,10,delivered,bank_transfer
+10624,2026-01-06,397,UAE,Cairo,Paid Ads,Stationery,Printer Paper (500),1,210,10,delivered,wallet
+10625,2025-03-26,171,Saudi Arabia,Jeddah,Direct,Stationery,Notebook A5,3,45,5,delivered,bank_transfer
+10626,2023-10-19,513,Egypt,Alexandria,Direct,Appliances,Coffee Maker,4,2600,0,cancelled,bank_transfer
+10627,2023-10-05,462,Egypt,Alexandria,Email,Stationery,Printer Paper (500),4,210,0,shipped,card
+10628,2025-07-20,168,Kuwait,Giza,Organic Search,Electronics,Mechanical Keyboard,3,1200,0,delivered,wallet
+10629,2026-07-22,394,Kuwait,Doha,Direct,Stationery,Whiteboard Markers,1,120,10,delivered,wallet
+10630,2026-02-01,344,UAE,Alexandria,Paid Ads,Stationery,Printer Paper (500),1,210,0,returned,card
+10631,2024-01-02,317,Kuwait,Kuwait City,Social Media,Electronics,Wireless Mouse,4,350,0,cancelled,card
+10632,2023-08-29,260,Egypt,Kuwait City,Email,Electronics,USB-C Hub,2,800,0,returned,wallet
+10633,2026-01-18,223,UAE,Kuwait City,Email,Electronics,Laptop Pro 15,4,18500,0,delivered,wallet
+10634,2023-06-12,561,Egypt,Doha,Paid Ads,Accessories,Backpack 20L,1,1400,0,delivered,card
+10635,2023-10-31,149,Qatar,Cairo,Direct,Electronics,Wireless Mouse,3,350,0,returned,bank_transfer
+10636,2024-09-03,112,Saudi Arabia,Alexandria,Paid Ads,Stationery,Ballpoint Pens (10),1,85,0,cancelled,cod
+10637,2026-06-05,593,Egypt,Cairo,Organic Search,Accessories,Backpack 20L,2,1400,5,returned,cod
+10638,2024-10-23,438,Qatar,Doha,Organic Search,Stationery,Whiteboard Markers,4,120,0,delivered,wallet
+10639,2023-10-03,540,Saudi Arabia,Doha,Paid Ads,Electronics,27-inch Monitor,3,5200,0,cancelled,card
+10640,2026-06-07,542,Egypt,Kuwait City,Direct,Electronics,Wireless Mouse,1,350,10,returned,cod
+10641,2025-05-24,539,UAE,Dubai,Paid Ads,Accessories,Backpack 20L,3,1400,0,shipped,bank_transfer
+10642,2025-10-13,185,UAE,Riyadh,Social Media,Appliances,Air Fryer,4,3400,5,delivered,card
+10643,2023-08-31,121,Kuwait,Riyadh,Direct,Electronics,Laptop Pro 15,4,18500,15,delivered,wallet
+10644,2023-04-04,218,Egypt,Riyadh,Social Media,Stationery,Ballpoint Pens (10),3,85,10,delivered,card
+10645,2024-09-22,117,Kuwait,Dubai,Social Media,Stationery,Notebook A5,3,45,0,delivered,bank_transfer
+10646,2026-06-15,339,Qatar,Dubai,Email,Electronics,Laptop Pro 15,2,18500,0,delivered,card
+10647,2026-08-15,472,Qatar,Doha,Social Media,Electronics,USB-C Hub,4,800,0,delivered,wallet
+10648,2023-04-25,324,UAE,Doha,Organic Search,Appliances,Air Fryer,3,3400,10,delivered,bank_transfer
+10649,2024-11-10,288,Qatar,Cairo,Social Media,Stationery,Whiteboard Markers,1,120,0,delivered,bank_transfer
+10650,2023-12-06,120,Qatar,Jeddah,Social Media,Accessories,Water Bottle 1L,4,180,0,cancelled,card
+10651,2024-07-10,244,Egypt,Kuwait City,Social Media,Stationery,Sticky Notes Pack,1,60,5,delivered,bank_transfer
+10652,2024-09-11,39,Qatar,Riyadh,Organic Search,Furniture,Office Chair,1,4500,0,delivered,bank_transfer
+10653,2023-02-21,349,Saudi Arabia,Doha,Social Media,Appliances,Electric Kettle,2,950,0,returned,cod
+10654,2023-10-21,38,Saudi Arabia,Abu Dhabi,Direct,Electronics,27-inch Monitor,2,5200,0,delivered,card
+10655,2024-09-28,479,Egypt,Giza,Direct,Electronics,Wireless Mouse,1,350,0,returned,cod
+10656,2023-02-16,215,Egypt,Riyadh,Paid Ads,Accessories,Water Bottle 1L,3,180,15,delivered,cod
+10657,2025-12-26,121,Egypt,Alexandria,Paid Ads,Stationery,Ballpoint Pens (10),4,85,15,delivered,card
+10658,2023-02-01,556,Egypt,Doha,Social Media,Accessories,Backpack 20L,1,1400,0,delivered,card
+10659,2024-08-03,73,Egypt,Dubai,Direct,Accessories,Water Bottle 1L,2,180,0,delivered,card
+10660,2023-09-24,52,Egypt,Abu Dhabi,Organic Search,Electronics,Laptop Pro 15,4,18500,15,delivered,wallet
+10661,2025-03-13,365,Egypt,Dubai,Paid Ads,Furniture,Office Chair,4,4500,10,cancelled,bank_transfer
+10662,2023-06-10,480,Egypt,Kuwait City,Social Media,Appliances,Coffee Maker,2,2600,0,cancelled,wallet
+10663,2025-08-21,265,Egypt,Abu Dhabi,Paid Ads,Furniture,Bookshelf,2,2100,0,cancelled,cod
+10664,2024-10-27,67,Saudi Arabia,Giza,Social Media,Appliances,Coffee Maker,4,2600,0,delivered,wallet
+10665,2023-12-16,589,Egypt,Doha,Organic Search,Stationery,Notebook A5,3,45,10,delivered,card
+10666,2024-10-29,546,Saudi Arabia,Abu Dhabi,Direct,Appliances,Vacuum Cleaner,1,5200,0,delivered,card
+10667,2026-06-25,394,Egypt,Dubai,Paid Ads,Furniture,Bookshelf,2,2100,5,returned,bank_transfer
+10668,2025-06-01,242,Egypt,Giza,Direct,Stationery,Sticky Notes Pack,3,60,10,returned,wallet
+10669,2023-08-23,569,Egypt,Kuwait City,Paid Ads,Accessories,Water Bottle 1L,4,180,0,delivered,wallet
+10670,2023-05-23,389,Egypt,Kuwait City,Organic Search,Accessories,Backpack 20L,1,1400,15,delivered,card
+10671,2023-10-12,153,Saudi Arabia,Doha,Social Media,Accessories,Water Bottle 1L,1,180,0,delivered,bank_transfer
+10672,2026-03-29,325,Egypt,Jeddah,Email,Appliances,Coffee Maker,2,2600,0,cancelled,cod
+10673,2023-07-02,523,Saudi Arabia,Alexandria,Social Media,Accessories,Water Bottle 1L,1,180,10,delivered,cod
+10674,2026-01-29,574,Qatar,Dubai,Organic Search,Electronics,Wireless Mouse,1,350,15,returned,cod
+10675,2023-03-05,404,Kuwait,Dubai,Email,Furniture,Bookshelf,4,2100,15,delivered,wallet
+10676,2025-06-10,178,Saudi Arabia,Alexandria,Paid Ads,Appliances,Vacuum Cleaner,2,5200,15,shipped,wallet
+10677,2025-01-07,129,Egypt,Cairo,Organic Search,Stationery,Sticky Notes Pack,2,60,0,cancelled,card
+10678,2023-10-22,87,Egypt,Abu Dhabi,Email,Appliances,Electric Kettle,4,950,0,returned,bank_transfer
+10679,2025-05-21,522,Saudi Arabia,Doha,Email,Accessories,Backpack 20L,2,1400,5,delivered,cod
+10680,2024-04-07,8,UAE,Kuwait City,Paid Ads,Furniture,Office Chair,4,4500,10,cancelled,bank_transfer
+10681,2024-07-05,39,UAE,Kuwait City,Social Media,Stationery,Sticky Notes Pack,3,60,0,delivered,bank_transfer
+10682,2025-09-13,540,Qatar,Jeddah,Email,Electronics,Mechanical Keyboard,2,1200,15,shipped,card
+10683,2025-12-07,484,Kuwait,Giza,Direct,Accessories,Backpack 20L,1,1400,0,returned,bank_transfer
+10684,2024-10-01,548,Qatar,Cairo,Email,Accessories,Backpack 20L,1,1400,0,delivered,bank_transfer
+10685,2025-08-18,362,Qatar,Jeddah,Social Media,Accessories,Water Bottle 1L,3,180,5,delivered,card
+10686,2026-05-08,485,UAE,Alexandria,Direct,Stationery,Notebook A5,3,45,0,delivered,cod
+10687,2026-07-02,85,Egypt,Doha,Organic Search,Electronics,Laptop Pro 15,3,18500,5,returned,cod
+10688,2024-05-31,264,Egypt,Giza,Direct,Electronics,USB-C Hub,3,800,0,delivered,bank_transfer
+10689,2023-11-06,268,Qatar,Riyadh,Email,Appliances,Coffee Maker,3,2600,0,delivered,bank_transfer
+10690,2023-03-09,158,Qatar,Kuwait City,Email,Stationery,Ballpoint Pens (10),1,85,0,returned,wallet
+10691,2024-05-02,592,Kuwait,Dubai,Organic Search,Appliances,Coffee Maker,2,2600,0,cancelled,cod
+10692,2023-08-26,409,Saudi Arabia,Jeddah,Email,Electronics,Wireless Mouse,2,350,5,cancelled,bank_transfer
+10693,2024-04-23,269,Egypt,Doha,Email,Stationery,Printer Paper (500),4,210,5,delivered,cod
+10694,2025-07-08,43,Egypt,Doha,Social Media,Stationery,Printer Paper (500),3,210,10,returned,wallet
+10695,2026-06-04,274,Qatar,Giza,Social Media,Furniture,Desk Lamp,3,600,0,cancelled,bank_transfer
+10696,2025-03-12,200,UAE,Dubai,Paid Ads,Appliances,Coffee Maker,2,2600,15,delivered,bank_transfer
+10697,2023-01-22,422,Egypt,Doha,Organic Search,Electronics,Laptop Pro 15,1,18500,0,cancelled,wallet
+10698,2024-12-20,198,Egypt,Cairo,Direct,Furniture,Bookshelf,3,2100,0,delivered,card
+10699,2026-05-01,123,Egypt,Alexandria,Email,Furniture,Standing Desk,1,7800,15,cancelled,bank_transfer
+10700,2024-01-14,302,Saudi Arabia,Giza,Email,Electronics,27-inch Monitor,2,5200,0,delivered,wallet
+10701,2024-10-24,284,Qatar,Cairo,Email,Furniture,Desk Lamp,2,600,0,delivered,cod
+10702,2023-05-04,452,Egypt,Kuwait City,Paid Ads,Furniture,Desk Lamp,3,600,0,shipped,wallet
+10703,2024-01-01,554,Qatar,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,1,950,0,shipped,card
+10704,2025-06-23,75,Egypt,Jeddah,Email,Furniture,Desk Lamp,1,600,0,delivered,wallet
+10705,2023-11-01,400,Egypt,Alexandria,Social Media,Electronics,Laptop Pro 15,1,18500,15,delivered,bank_transfer
+10706,2023-01-08,447,Saudi Arabia,Giza,Direct,Appliances,Air Fryer,4,3400,5,delivered,card
+10707,2025-02-26,549,Egypt,Dubai,Social Media,Appliances,Electric Kettle,1,950,10,delivered,card
+10708,2026-07-18,349,Egypt,Kuwait City,Social Media,Electronics,Mechanical Keyboard,3,1200,10,cancelled,card
+10709,2023-12-28,196,Egypt,Abu Dhabi,Organic Search,Appliances,Vacuum Cleaner,1,5200,5,cancelled,cod
+10710,2025-09-23,195,Egypt,Cairo,Paid Ads,Electronics,Mechanical Keyboard,4,1200,15,delivered,bank_transfer
+10711,2024-05-03,554,Kuwait,Jeddah,Email,Appliances,Electric Kettle,4,950,0,shipped,wallet
+10712,2023-02-03,346,Qatar,Cairo,Email,Electronics,Wireless Mouse,3,350,0,delivered,card
+10713,2025-12-07,594,Egypt,Giza,Organic Search,Appliances,Coffee Maker,2,2600,15,cancelled,card
+10714,2025-09-28,47,Egypt,Alexandria,Organic Search,Electronics,Laptop Pro 15,4,18500,10,delivered,card
+10715,2024-09-21,175,Qatar,Giza,Organic Search,Electronics,27-inch Monitor,4,5200,10,delivered,wallet
+10716,2026-05-03,208,Saudi Arabia,Dubai,Email,Accessories,Backpack 20L,2,1400,0,delivered,card
+10717,2026-03-25,219,Qatar,Cairo,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,cod
+10718,2023-05-10,426,Egypt,Dubai,Direct,Electronics,27-inch Monitor,3,5200,0,delivered,wallet
+10719,2024-05-13,103,Qatar,Abu Dhabi,Paid Ads,Accessories,Water Bottle 1L,1,180,0,delivered,wallet
+10720,2023-06-15,92,Kuwait,Jeddah,Email,Electronics,Laptop Pro 15,1,18500,0,cancelled,wallet
+10721,2023-09-17,278,UAE,Kuwait City,Email,Furniture,Standing Desk,2,7800,15,delivered,card
+10722,2026-06-04,512,UAE,Giza,Social Media,Electronics,Wireless Mouse,2,350,15,delivered,wallet
+10723,2023-01-10,121,UAE,Giza,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,bank_transfer
+10724,2025-11-05,214,Egypt,Cairo,Paid Ads,Furniture,Bookshelf,4,2100,15,delivered,card
+10725,2025-08-29,45,Egypt,Dubai,Social Media,Appliances,Electric Kettle,2,950,0,delivered,wallet
+10726,2024-05-29,107,Kuwait,Cairo,Direct,Stationery,Ballpoint Pens (10),4,85,0,delivered,card
+10727,2023-03-01,241,Kuwait,Kuwait City,Direct,Appliances,Electric Kettle,1,950,0,shipped,cod
+10728,2025-05-08,113,Egypt,Riyadh,Organic Search,Furniture,Standing Desk,3,7800,0,delivered,wallet
+10729,2024-02-14,483,UAE,Kuwait City,Organic Search,Stationery,Printer Paper (500),2,210,0,delivered,card
+10730,2024-03-18,397,Egypt,Alexandria,Email,Accessories,Backpack 20L,4,1400,0,cancelled,card
+10731,2026-07-18,344,Egypt,Cairo,Direct,Stationery,Whiteboard Markers,3,120,0,delivered,cod
+10732,2023-10-07,429,Egypt,Dubai,Paid Ads,Electronics,27-inch Monitor,4,5200,5,delivered,bank_transfer
+10733,2023-11-18,567,Qatar,Riyadh,Organic Search,Accessories,Backpack 20L,2,1400,10,delivered,bank_transfer
+10734,2025-09-28,286,Egypt,Abu Dhabi,Paid Ads,Furniture,Standing Desk,4,7800,5,delivered,cod
+10735,2025-06-08,153,UAE,Cairo,Email,Accessories,Water Bottle 1L,2,180,10,delivered,card
+10736,2025-08-21,544,Saudi Arabia,Kuwait City,Organic Search,Appliances,Air Fryer,1,3400,5,delivered,wallet
+10737,2024-05-07,417,Egypt,Alexandria,Social Media,Electronics,Mechanical Keyboard,1,1200,15,delivered,card
+10738,2026-08-19,313,Egypt,Kuwait City,Direct,Electronics,Mechanical Keyboard,1,1200,5,cancelled,bank_transfer
+10739,2023-02-19,416,Egypt,Dubai,Email,Appliances,Coffee Maker,4,2600,0,cancelled,card
+10740,2026-07-08,341,UAE,Cairo,Social Media,Electronics,Mechanical Keyboard,4,1200,15,delivered,cod
+10741,2026-06-08,83,UAE,Dubai,Organic Search,Appliances,Vacuum Cleaner,2,5200,15,shipped,cod
+10742,2023-04-16,477,UAE,Cairo,Social Media,Electronics,27-inch Monitor,4,5200,0,delivered,card
+10743,2026-08-20,210,Egypt,Dubai,Paid Ads,Appliances,Vacuum Cleaner,1,5200,10,shipped,card
+10744,2026-08-22,231,Egypt,Dubai,Social Media,Appliances,Electric Kettle,2,950,15,shipped,wallet
+10745,2024-07-21,354,Saudi Arabia,Kuwait City,Direct,Electronics,Wireless Mouse,1,350,0,shipped,card
+10746,2025-08-20,377,Qatar,Giza,Paid Ads,Appliances,Vacuum Cleaner,3,5200,5,delivered,card
+10747,2023-06-14,79,Egypt,Alexandria,Social Media,Stationery,Printer Paper (500),2,210,0,delivered,card
+10748,2025-10-13,24,Egypt,Abu Dhabi,Direct,Electronics,USB-C Hub,2,800,10,delivered,wallet
+10749,2024-12-11,22,Egypt,Riyadh,Organic Search,Stationery,Sticky Notes Pack,4,60,15,delivered,card
+10750,2025-11-30,352,Kuwait,Dubai,Email,Stationery,Ballpoint Pens (10),4,85,10,shipped,bank_transfer
+10751,2026-01-28,581,Egypt,Jeddah,Paid Ads,Appliances,Coffee Maker,4,2600,0,returned,cod
+10752,2024-04-09,49,Egypt,Dubai,Social Media,Appliances,Electric Kettle,3,950,0,delivered,card
+10753,2026-06-20,180,Qatar,Alexandria,Paid Ads,Furniture,Office Chair,3,4500,0,delivered,card
+10754,2023-03-26,267,Egypt,Alexandria,Paid Ads,Stationery,Ballpoint Pens (10),2,85,5,shipped,card
+10755,2024-10-11,460,UAE,Alexandria,Direct,Stationery,Whiteboard Markers,2,120,0,delivered,card
+10756,2023-02-21,470,Egypt,Alexandria,Organic Search,Stationery,Printer Paper (500),4,210,0,cancelled,bank_transfer
+10757,2025-11-05,297,Qatar,Alexandria,Direct,Stationery,Ballpoint Pens (10),3,85,5,cancelled,wallet
+10758,2024-11-24,143,Kuwait,Doha,Organic Search,Electronics,27-inch Monitor,4,5200,0,delivered,card
+10759,2025-04-02,366,Egypt,Dubai,Organic Search,Accessories,Backpack 20L,2,1400,5,shipped,card
+10760,2026-04-09,201,Egypt,Giza,Direct,Appliances,Air Fryer,2,3400,0,returned,wallet
+10761,2023-06-28,503,Egypt,Doha,Organic Search,Appliances,Air Fryer,4,3400,0,cancelled,cod
+10762,2025-03-25,396,Egypt,Cairo,Social Media,Electronics,USB-C Hub,4,800,0,delivered,cod
+10763,2024-09-22,455,Kuwait,Abu Dhabi,Email,Appliances,Coffee Maker,1,2600,0,delivered,card
+10764,2025-05-18,89,Egypt,Riyadh,Social Media,Stationery,Sticky Notes Pack,2,60,10,delivered,bank_transfer
+10765,2024-11-17,7,Saudi Arabia,Jeddah,Email,Electronics,Mechanical Keyboard,4,1200,0,delivered,bank_transfer
+10766,2025-08-04,191,Qatar,Abu Dhabi,Social Media,Accessories,Water Bottle 1L,2,180,0,shipped,wallet
+10767,2023-03-28,573,Kuwait,Kuwait City,Paid Ads,Stationery,Notebook A5,3,45,5,delivered,card
+10768,2023-11-12,484,Egypt,Jeddah,Email,Furniture,Desk Lamp,3,600,15,delivered,wallet
+10769,2026-08-13,284,Saudi Arabia,Giza,Direct,Furniture,Bookshelf,1,2100,0,cancelled,cod
+10770,2026-04-05,488,Kuwait,Giza,Social Media,Appliances,Electric Kettle,4,950,0,shipped,bank_transfer
+10771,2023-02-05,60,Egypt,Dubai,Email,Furniture,Desk Lamp,2,600,10,cancelled,card
+10772,2025-01-01,370,Saudi Arabia,Dubai,Organic Search,Furniture,Office Chair,1,4500,0,delivered,cod
+10773,2025-12-20,188,Qatar,Giza,Direct,Electronics,Mechanical Keyboard,2,1200,15,returned,card
+10774,2026-01-18,309,Egypt,Dubai,Organic Search,Stationery,Ballpoint Pens (10),3,85,15,shipped,bank_transfer
+10775,2024-12-21,531,Egypt,Dubai,Email,Electronics,USB-C Hub,1,800,0,delivered,cod
+10776,2023-11-30,516,Egypt,Riyadh,Direct,Electronics,27-inch Monitor,2,5200,0,shipped,bank_transfer
+10777,2025-12-25,472,Egypt,Giza,Paid Ads,Appliances,Vacuum Cleaner,1,5200,5,delivered,wallet
+10778,2024-12-14,453,UAE,Doha,Social Media,Stationery,Notebook A5,3,45,0,delivered,cod
+10779,2023-02-28,146,Kuwait,Riyadh,Social Media,Electronics,27-inch Monitor,2,5200,0,delivered,card
+10780,2023-09-24,115,Egypt,Cairo,Email,Electronics,Mechanical Keyboard,4,1200,15,returned,wallet
+10781,2023-03-29,526,UAE,Cairo,Email,Furniture,Standing Desk,1,7800,0,delivered,cod
+10782,2023-03-30,11,Qatar,Giza,Organic Search,Electronics,Mechanical Keyboard,3,1200,15,shipped,card
+10783,2026-04-18,360,Egypt,Giza,Paid Ads,Furniture,Standing Desk,2,7800,15,returned,cod
+10784,2026-04-02,513,Qatar,Riyadh,Direct,Stationery,Whiteboard Markers,3,120,0,shipped,card
+10785,2023-07-22,223,Kuwait,Riyadh,Social Media,Accessories,Water Bottle 1L,1,180,10,delivered,bank_transfer
+10786,2023-01-09,487,Egypt,Alexandria,Email,Electronics,27-inch Monitor,2,5200,10,cancelled,card
+10787,2024-01-06,220,UAE,Riyadh,Email,Stationery,Whiteboard Markers,4,120,5,delivered,cod
+10788,2023-09-11,140,Saudi Arabia,Dubai,Social Media,Appliances,Coffee Maker,1,2600,10,shipped,card
+10789,2023-06-18,395,Egypt,Kuwait City,Direct,Stationery,Ballpoint Pens (10),4,85,0,cancelled,cod
+10790,2025-06-28,439,Egypt,Giza,Email,Furniture,Bookshelf,4,2100,0,cancelled,cod
+10791,2024-01-03,108,Saudi Arabia,Kuwait City,Direct,Electronics,Laptop Pro 15,4,18500,15,cancelled,card
+10792,2023-09-02,105,Kuwait,Alexandria,Organic Search,Electronics,USB-C Hub,4,800,5,delivered,card
+10793,2024-11-24,239,Qatar,Abu Dhabi,Email,Furniture,Standing Desk,4,7800,0,delivered,bank_transfer
+10794,2026-04-30,488,Kuwait,Abu Dhabi,Email,Furniture,Desk Lamp,4,600,0,shipped,cod
+10795,2023-10-29,257,Saudi Arabia,Kuwait City,Paid Ads,Appliances,Coffee Maker,1,2600,0,cancelled,card
+10796,2023-03-02,511,Kuwait,Cairo,Paid Ads,Electronics,27-inch Monitor,1,5200,0,delivered,bank_transfer
+10797,2024-10-31,99,Qatar,Giza,Direct,Electronics,USB-C Hub,3,800,10,returned,wallet
+10798,2025-08-12,510,Saudi Arabia,Doha,Social Media,Furniture,Standing Desk,3,7800,15,shipped,cod
+10799,2026-01-12,441,Egypt,Abu Dhabi,Email,Appliances,Vacuum Cleaner,1,5200,0,delivered,wallet
+10800,2025-06-25,182,UAE,Jeddah,Paid Ads,Appliances,Coffee Maker,1,2600,0,delivered,wallet
+10801,2023-10-03,113,UAE,Kuwait City,Direct,Stationery,Notebook A5,4,45,5,cancelled,bank_transfer
+10802,2026-03-17,161,UAE,Cairo,Email,Appliances,Electric Kettle,4,950,10,delivered,wallet
+10803,2026-04-25,329,Egypt,Cairo,Direct,Stationery,Printer Paper (500),3,210,0,delivered,card
+10804,2025-01-20,350,Saudi Arabia,Giza,Email,Stationery,Whiteboard Markers,1,120,15,delivered,cod
+10805,2025-04-23,251,Egypt,Riyadh,Social Media,Stationery,Whiteboard Markers,1,120,15,shipped,card
+10806,2023-05-15,174,Egypt,Doha,Social Media,Stationery,Notebook A5,1,45,0,delivered,wallet
+10807,2025-05-15,21,Kuwait,Kuwait City,Direct,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+10808,2025-02-12,587,Egypt,Kuwait City,Organic Search,Accessories,Water Bottle 1L,4,180,0,cancelled,card
+10809,2024-11-19,307,Egypt,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,3,950,0,delivered,card
+10810,2026-01-02,49,Egypt,Abu Dhabi,Paid Ads,Furniture,Standing Desk,3,7800,0,shipped,card
+10811,2026-03-30,69,UAE,Doha,Email,Electronics,27-inch Monitor,3,5200,0,delivered,card
+10812,2024-12-12,308,Saudi Arabia,Doha,Social Media,Electronics,Mechanical Keyboard,3,1200,10,delivered,wallet
+10813,2025-04-03,561,Egypt,Cairo,Direct,Furniture,Desk Lamp,4,600,15,returned,card
+10814,2026-03-27,479,Egypt,Doha,Direct,Appliances,Electric Kettle,2,950,15,returned,wallet
+10815,2026-03-05,474,Egypt,Riyadh,Paid Ads,Electronics,Wireless Mouse,2,350,0,cancelled,cod
+10816,2025-06-10,209,Qatar,Abu Dhabi,Social Media,Stationery,Sticky Notes Pack,3,60,0,returned,cod
+10817,2026-08-16,242,Saudi Arabia,Riyadh,Organic Search,Furniture,Office Chair,3,4500,15,delivered,card
+10818,2023-02-26,498,UAE,Abu Dhabi,Email,Furniture,Bookshelf,3,2100,5,cancelled,card
+10819,2024-02-18,30,Egypt,Jeddah,Direct,Furniture,Office Chair,3,4500,0,delivered,card
+10820,2025-09-22,322,UAE,Jeddah,Organic Search,Electronics,Laptop Pro 15,1,18500,0,delivered,cod
+10821,2023-07-04,115,UAE,Doha,Organic Search,Stationery,Printer Paper (500),2,210,0,shipped,bank_transfer
+10822,2025-12-11,244,UAE,Giza,Social Media,Furniture,Desk Lamp,4,600,0,delivered,bank_transfer
+10823,2025-03-09,148,Egypt,Alexandria,Paid Ads,Furniture,Bookshelf,4,2100,0,delivered,wallet
+10824,2025-04-16,547,Egypt,Giza,Social Media,Furniture,Desk Lamp,1,600,5,shipped,wallet
+10825,2025-08-30,372,Saudi Arabia,Dubai,Social Media,Furniture,Bookshelf,3,2100,0,delivered,bank_transfer
+10826,2023-03-13,566,Saudi Arabia,Jeddah,Social Media,Electronics,Wireless Mouse,2,350,0,returned,card
+10827,2025-12-31,9,Saudi Arabia,Jeddah,Social Media,Furniture,Bookshelf,4,2100,5,delivered,card
+10828,2024-09-01,325,Qatar,Abu Dhabi,Organic Search,Furniture,Standing Desk,2,7800,5,delivered,card
+10829,2025-10-03,433,Qatar,Giza,Paid Ads,Appliances,Electric Kettle,4,950,0,cancelled,cod
+10830,2025-11-02,561,Kuwait,Dubai,Email,Electronics,Mechanical Keyboard,3,1200,5,cancelled,card
+10831,2023-04-17,140,Egypt,Abu Dhabi,Paid Ads,Furniture,Office Chair,4,4500,15,cancelled,cod
+10832,2024-10-04,162,Egypt,Doha,Paid Ads,Accessories,Water Bottle 1L,1,180,0,returned,bank_transfer
+10833,2025-04-20,137,Egypt,Alexandria,Direct,Stationery,Ballpoint Pens (10),4,85,5,returned,cod
+10834,2024-07-31,377,Egypt,Abu Dhabi,Email,Furniture,Standing Desk,1,7800,5,returned,bank_transfer
+10835,2024-04-04,235,Egypt,Kuwait City,Paid Ads,Electronics,Laptop Pro 15,1,18500,10,delivered,card
+10836,2023-04-12,267,Egypt,Giza,Social Media,Stationery,Printer Paper (500),4,210,10,delivered,bank_transfer
+10837,2023-08-29,507,Egypt,Riyadh,Paid Ads,Electronics,Laptop Pro 15,4,18500,5,delivered,cod
+10838,2024-08-12,442,Qatar,Riyadh,Direct,Appliances,Electric Kettle,4,950,0,delivered,cod
+10839,2024-01-23,150,Egypt,Jeddah,Social Media,Stationery,Sticky Notes Pack,2,60,5,delivered,bank_transfer
+10840,2025-07-12,470,Egypt,Cairo,Email,Furniture,Bookshelf,3,2100,10,delivered,cod
+10841,2025-03-25,434,Kuwait,Jeddah,Organic Search,Furniture,Standing Desk,4,7800,15,delivered,bank_transfer
+10842,2023-05-01,483,Egypt,Cairo,Organic Search,Electronics,Wireless Mouse,3,350,0,delivered,bank_transfer
+10843,2026-06-23,380,Egypt,Doha,Organic Search,Stationery,Printer Paper (500),3,210,5,shipped,card
+10844,2024-06-17,480,Egypt,Giza,Social Media,Furniture,Office Chair,4,4500,0,cancelled,bank_transfer
+10845,2025-06-05,321,Egypt,Alexandria,Email,Electronics,USB-C Hub,3,800,0,returned,cod
+10846,2025-01-08,271,UAE,Dubai,Email,Stationery,Sticky Notes Pack,3,60,0,delivered,cod
+10847,2025-10-03,194,Egypt,Cairo,Paid Ads,Electronics,USB-C Hub,4,800,0,delivered,card
+10848,2025-08-21,479,Saudi Arabia,Giza,Email,Furniture,Desk Lamp,2,600,15,delivered,wallet
+10849,2024-12-31,505,Egypt,Alexandria,Organic Search,Appliances,Vacuum Cleaner,4,5200,5,delivered,card
+10850,2024-02-22,521,Qatar,Jeddah,Direct,Stationery,Notebook A5,2,45,0,cancelled,bank_transfer
+10851,2024-03-10,585,Egypt,Abu Dhabi,Organic Search,Accessories,Water Bottle 1L,1,180,10,delivered,wallet
+10852,2023-07-13,125,Saudi Arabia,Dubai,Direct,Stationery,Ballpoint Pens (10),1,85,0,delivered,cod
+10853,2023-11-11,492,Saudi Arabia,Jeddah,Direct,Electronics,Laptop Pro 15,1,18500,5,cancelled,card
+10854,2024-11-05,583,Egypt,Riyadh,Organic Search,Electronics,Wireless Mouse,4,350,0,returned,cod
+10855,2024-10-23,391,Egypt,Abu Dhabi,Social Media,Electronics,Wireless Mouse,1,350,10,delivered,card
+10856,2025-03-27,167,Saudi Arabia,Abu Dhabi,Social Media,Electronics,Mechanical Keyboard,1,1200,0,cancelled,card
+10857,2023-09-04,318,Kuwait,Alexandria,Social Media,Stationery,Notebook A5,4,45,5,cancelled,card
+10858,2025-01-22,457,Saudi Arabia,Kuwait City,Social Media,Appliances,Air Fryer,2,3400,5,shipped,bank_transfer
+10859,2025-05-16,191,Saudi Arabia,Abu Dhabi,Organic Search,Electronics,Mechanical Keyboard,4,1200,0,delivered,bank_transfer
+10860,2024-11-30,159,Saudi Arabia,Doha,Direct,Appliances,Coffee Maker,2,2600,15,delivered,cod
+10861,2025-08-16,308,Egypt,Alexandria,Social Media,Stationery,Sticky Notes Pack,1,60,5,returned,card
+10862,2025-12-07,49,UAE,Giza,Organic Search,Stationery,Sticky Notes Pack,3,60,10,shipped,card
+10863,2025-11-11,476,Kuwait,Jeddah,Social Media,Stationery,Sticky Notes Pack,4,60,0,delivered,bank_transfer
+10864,2023-06-17,474,Egypt,Alexandria,Email,Appliances,Air Fryer,1,3400,0,delivered,card
+10865,2025-05-02,466,Qatar,Kuwait City,Direct,Stationery,Notebook A5,3,45,10,returned,cod
+10866,2024-11-30,81,Kuwait,Jeddah,Organic Search,Furniture,Office Chair,2,4500,0,delivered,bank_transfer
+10867,2023-02-06,14,Egypt,Kuwait City,Email,Electronics,Laptop Pro 15,4,18500,0,cancelled,wallet
+10868,2026-05-17,370,Kuwait,Abu Dhabi,Social Media,Appliances,Electric Kettle,3,950,10,delivered,card
+10869,2023-10-04,17,Kuwait,Riyadh,Organic Search,Electronics,Laptop Pro 15,2,18500,0,delivered,wallet
+10870,2026-08-21,552,Egypt,Giza,Social Media,Electronics,USB-C Hub,2,800,5,returned,wallet
+10871,2023-10-31,120,Egypt,Alexandria,Email,Appliances,Electric Kettle,4,950,0,delivered,wallet
+10872,2023-02-10,302,UAE,Abu Dhabi,Organic Search,Appliances,Coffee Maker,2,2600,0,delivered,card
+10873,2023-07-30,593,UAE,Doha,Social Media,Stationery,Sticky Notes Pack,4,60,5,delivered,wallet
+10874,2025-03-29,63,UAE,Cairo,Email,Appliances,Electric Kettle,4,950,0,shipped,cod
+10875,2026-02-07,428,Saudi Arabia,Giza,Email,Electronics,Mechanical Keyboard,3,1200,15,shipped,cod
+10876,2025-07-07,295,Kuwait,Riyadh,Email,Stationery,Sticky Notes Pack,1,60,0,delivered,wallet
+10877,2024-04-20,348,UAE,Kuwait City,Paid Ads,Appliances,Air Fryer,2,3400,10,delivered,wallet
+10878,2025-05-03,213,Egypt,Giza,Email,Stationery,Whiteboard Markers,4,120,0,delivered,card
+10879,2024-02-13,426,Saudi Arabia,Jeddah,Paid Ads,Furniture,Office Chair,4,4500,0,delivered,bank_transfer
+10880,2023-04-07,366,Kuwait,Alexandria,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,returned,bank_transfer
+10881,2023-03-07,117,UAE,Riyadh,Organic Search,Electronics,Mechanical Keyboard,3,1200,5,shipped,card
+10882,2025-09-23,48,Qatar,Doha,Social Media,Furniture,Desk Lamp,3,600,0,delivered,bank_transfer
+10883,2026-05-22,469,Qatar,Giza,Organic Search,Electronics,27-inch Monitor,1,5200,5,returned,bank_transfer
+10884,2026-06-02,108,Egypt,Giza,Paid Ads,Electronics,27-inch Monitor,1,5200,10,delivered,card
+10885,2024-08-21,102,Egypt,Dubai,Social Media,Appliances,Coffee Maker,4,2600,15,returned,card
+10886,2023-09-09,7,Egypt,Kuwait City,Social Media,Furniture,Standing Desk,4,7800,5,delivered,bank_transfer
+10887,2023-12-17,425,Egypt,Riyadh,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,returned,bank_transfer
+10888,2025-05-13,424,Saudi Arabia,Kuwait City,Direct,Furniture,Bookshelf,2,2100,5,returned,cod
+10889,2023-03-02,530,Egypt,Giza,Social Media,Appliances,Coffee Maker,2,2600,0,delivered,wallet
+10890,2023-12-03,38,Kuwait,Alexandria,Direct,Stationery,Sticky Notes Pack,1,60,5,delivered,bank_transfer
+10891,2024-08-28,567,Qatar,Jeddah,Social Media,Stationery,Sticky Notes Pack,4,60,15,delivered,card
+10892,2024-07-26,414,Saudi Arabia,Riyadh,Direct,Appliances,Air Fryer,2,3400,15,shipped,bank_transfer
+10893,2026-08-28,415,Qatar,Riyadh,Social Media,Appliances,Coffee Maker,3,2600,15,delivered,card
+10894,2026-01-05,130,UAE,Doha,Social Media,Stationery,Ballpoint Pens (10),4,85,15,delivered,card
+10895,2025-11-13,349,Qatar,Alexandria,Organic Search,Appliances,Vacuum Cleaner,3,5200,10,delivered,bank_transfer
+10896,2026-04-28,433,UAE,Giza,Organic Search,Furniture,Desk Lamp,2,600,0,returned,cod
+10897,2024-06-15,49,Qatar,Giza,Email,Appliances,Air Fryer,3,3400,0,delivered,bank_transfer
+10898,2023-01-11,596,UAE,Doha,Direct,Appliances,Coffee Maker,3,2600,0,delivered,cod
+10899,2024-09-04,387,UAE,Riyadh,Organic Search,Stationery,Notebook A5,2,45,15,delivered,bank_transfer
+10900,2026-04-07,101,Egypt,Abu Dhabi,Email,Furniture,Standing Desk,3,7800,5,delivered,card
+10901,2023-05-08,220,Saudi Arabia,Giza,Social Media,Stationery,Sticky Notes Pack,2,60,5,cancelled,bank_transfer
+10902,2025-04-04,599,Saudi Arabia,Abu Dhabi,Email,Accessories,Water Bottle 1L,4,180,0,cancelled,wallet
+10903,2025-05-03,131,Saudi Arabia,Kuwait City,Paid Ads,Furniture,Office Chair,2,4500,10,cancelled,bank_transfer
+10904,2025-12-19,485,Egypt,Alexandria,Direct,Electronics,27-inch Monitor,2,5200,5,delivered,card
+10905,2026-05-17,379,UAE,Jeddah,Organic Search,Stationery,Sticky Notes Pack,1,60,0,shipped,card
+10906,2023-08-30,311,Egypt,Kuwait City,Organic Search,Stationery,Whiteboard Markers,3,120,0,returned,card
+10907,2023-10-19,313,Egypt,Riyadh,Paid Ads,Accessories,Water Bottle 1L,4,180,0,returned,wallet
+10908,2023-01-05,46,Saudi Arabia,Kuwait City,Direct,Electronics,27-inch Monitor,3,5200,0,delivered,bank_transfer
+10909,2025-07-15,136,Qatar,Alexandria,Direct,Stationery,Ballpoint Pens (10),4,85,5,cancelled,wallet
+10910,2025-07-10,334,Egypt,Abu Dhabi,Email,Appliances,Coffee Maker,2,2600,15,delivered,wallet
+10911,2024-11-25,454,Kuwait,Jeddah,Organic Search,Appliances,Vacuum Cleaner,1,5200,15,returned,card
+10912,2023-02-20,127,Kuwait,Doha,Organic Search,Accessories,Water Bottle 1L,3,180,10,delivered,bank_transfer
+10913,2026-01-14,535,Egypt,Kuwait City,Direct,Accessories,Water Bottle 1L,1,180,10,delivered,card
+10914,2025-12-25,211,Egypt,Kuwait City,Organic Search,Furniture,Office Chair,1,4500,0,returned,bank_transfer
+10915,2026-05-27,47,Saudi Arabia,Cairo,Social Media,Stationery,Ballpoint Pens (10),4,85,10,delivered,card
+10916,2025-04-29,264,Egypt,Giza,Organic Search,Electronics,Laptop Pro 15,3,18500,5,shipped,card
+10917,2024-08-07,92,Egypt,Jeddah,Email,Electronics,USB-C Hub,2,800,0,cancelled,card
+10918,2023-05-01,28,Kuwait,Cairo,Social Media,Accessories,Backpack 20L,3,1400,0,delivered,card
+10919,2024-10-17,265,Saudi Arabia,Giza,Organic Search,Electronics,USB-C Hub,4,800,0,delivered,card
+10920,2026-05-07,521,Qatar,Doha,Email,Accessories,Water Bottle 1L,2,180,5,delivered,cod
+10921,2023-05-05,417,Egypt,Kuwait City,Organic Search,Stationery,Ballpoint Pens (10),4,85,10,delivered,card
+10922,2023-02-08,569,Kuwait,Alexandria,Social Media,Furniture,Desk Lamp,1,600,0,shipped,wallet
+10923,2025-07-02,383,UAE,Alexandria,Paid Ads,Electronics,Mechanical Keyboard,2,1200,0,shipped,wallet
+10924,2026-02-10,476,Qatar,Jeddah,Paid Ads,Appliances,Coffee Maker,1,2600,0,delivered,card
+10925,2025-09-14,390,Egypt,Riyadh,Direct,Furniture,Desk Lamp,3,600,15,returned,bank_transfer
+10926,2024-07-30,547,UAE,Giza,Social Media,Electronics,Wireless Mouse,2,350,15,delivered,wallet
+10927,2023-09-09,216,UAE,Doha,Social Media,Electronics,USB-C Hub,3,800,5,cancelled,cod
+10928,2026-07-24,252,Kuwait,Dubai,Social Media,Furniture,Desk Lamp,4,600,0,delivered,wallet
+10929,2026-05-12,137,Kuwait,Cairo,Direct,Stationery,Ballpoint Pens (10),1,85,15,delivered,card
+10930,2023-01-20,501,Qatar,Abu Dhabi,Direct,Furniture,Office Chair,4,4500,10,delivered,card
+10931,2026-01-08,127,Egypt,Abu Dhabi,Direct,Electronics,Laptop Pro 15,4,18500,15,delivered,wallet
+10932,2023-12-29,380,Egypt,Kuwait City,Organic Search,Electronics,Laptop Pro 15,1,18500,5,delivered,card
+10933,2024-07-29,311,Qatar,Riyadh,Paid Ads,Stationery,Whiteboard Markers,2,120,0,delivered,cod
+10934,2023-03-17,215,Egypt,Riyadh,Email,Furniture,Desk Lamp,4,600,15,delivered,cod
+10935,2026-03-11,566,Egypt,Alexandria,Organic Search,Appliances,Air Fryer,4,3400,0,shipped,card
+10936,2023-05-14,234,UAE,Jeddah,Paid Ads,Electronics,USB-C Hub,3,800,10,returned,card
+10937,2025-12-27,574,Saudi Arabia,Cairo,Email,Accessories,Backpack 20L,3,1400,15,cancelled,card
+10938,2024-10-23,125,Kuwait,Doha,Email,Stationery,Sticky Notes Pack,4,60,0,delivered,cod
+10939,2025-11-25,285,Saudi Arabia,Doha,Email,Electronics,Wireless Mouse,2,350,0,delivered,card
+10940,2025-03-13,586,Qatar,Cairo,Paid Ads,Furniture,Standing Desk,3,7800,0,cancelled,wallet
+10941,2023-06-02,338,Egypt,Giza,Organic Search,Furniture,Bookshelf,2,2100,0,delivered,wallet
+10942,2025-06-03,254,Egypt,Kuwait City,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,delivered,card
+10943,2024-11-14,450,Qatar,Giza,Email,Appliances,Air Fryer,2,3400,0,shipped,card
+10944,2023-06-25,321,Qatar,Giza,Paid Ads,Electronics,Wireless Mouse,1,350,5,delivered,wallet
+10945,2023-04-23,105,Kuwait,Cairo,Direct,Stationery,Notebook A5,4,45,0,delivered,cod
+10946,2025-02-20,421,Egypt,Cairo,Email,Stationery,Printer Paper (500),1,210,10,delivered,wallet
+10947,2025-05-26,27,Saudi Arabia,Doha,Social Media,Accessories,Backpack 20L,1,1400,0,shipped,card
+10948,2023-08-10,70,UAE,Riyadh,Direct,Electronics,27-inch Monitor,1,5200,10,delivered,bank_transfer
+10949,2024-06-08,456,Egypt,Riyadh,Paid Ads,Stationery,Whiteboard Markers,4,120,5,returned,card
+10950,2023-05-04,447,UAE,Dubai,Social Media,Electronics,USB-C Hub,3,800,10,shipped,bank_transfer
+10951,2023-10-26,352,Egypt,Dubai,Organic Search,Electronics,USB-C Hub,4,800,0,shipped,bank_transfer
+10952,2023-10-24,573,Qatar,Cairo,Email,Electronics,Wireless Mouse,2,350,10,delivered,card
+10953,2024-02-15,194,Kuwait,Kuwait City,Email,Furniture,Standing Desk,1,7800,0,shipped,cod
+10954,2026-03-30,307,Saudi Arabia,Dubai,Paid Ads,Accessories,Water Bottle 1L,3,180,10,delivered,wallet
+10955,2023-03-28,229,Kuwait,Riyadh,Email,Appliances,Electric Kettle,2,950,0,shipped,card
+10956,2024-05-04,385,Egypt,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,3,950,15,returned,card
+10957,2025-01-13,31,UAE,Giza,Paid Ads,Electronics,Laptop Pro 15,1,18500,0,delivered,wallet
+10958,2024-02-03,31,Egypt,Riyadh,Social Media,Accessories,Water Bottle 1L,3,180,0,delivered,card
+10959,2024-06-20,252,Egypt,Riyadh,Organic Search,Furniture,Office Chair,3,4500,10,delivered,cod
+10960,2023-07-27,114,Egypt,Riyadh,Social Media,Electronics,Laptop Pro 15,2,18500,5,delivered,card
+10961,2025-01-27,445,Kuwait,Giza,Organic Search,Stationery,Whiteboard Markers,2,120,10,delivered,card
+10962,2024-01-24,384,Egypt,Abu Dhabi,Paid Ads,Furniture,Standing Desk,4,7800,15,delivered,bank_transfer
+10963,2026-04-17,336,Egypt,Cairo,Social Media,Furniture,Standing Desk,3,7800,0,returned,card
+10964,2025-11-06,84,Qatar,Kuwait City,Direct,Accessories,Water Bottle 1L,4,180,0,delivered,card
+10965,2025-11-07,532,Saudi Arabia,Alexandria,Social Media,Stationery,Printer Paper (500),3,210,5,cancelled,cod
+10966,2025-12-12,275,UAE,Abu Dhabi,Direct,Appliances,Electric Kettle,4,950,5,cancelled,card
+10967,2024-02-29,241,Saudi Arabia,Riyadh,Social Media,Furniture,Bookshelf,2,2100,5,delivered,wallet
+10968,2026-03-16,564,Egypt,Alexandria,Organic Search,Furniture,Office Chair,3,4500,0,delivered,wallet
+10969,2025-11-28,43,Saudi Arabia,Doha,Direct,Stationery,Whiteboard Markers,2,120,10,delivered,wallet
+10970,2025-07-12,377,Qatar,Kuwait City,Social Media,Appliances,Coffee Maker,4,2600,5,delivered,wallet
+10971,2023-02-20,272,Kuwait,Giza,Social Media,Furniture,Office Chair,4,4500,0,delivered,cod
+10972,2025-10-24,234,Egypt,Giza,Organic Search,Appliances,Air Fryer,1,3400,0,delivered,card
+10973,2026-01-23,338,Egypt,Jeddah,Social Media,Furniture,Standing Desk,3,7800,0,delivered,bank_transfer
+10974,2023-10-10,307,Egypt,Dubai,Email,Appliances,Vacuum Cleaner,3,5200,0,delivered,bank_transfer
+10975,2023-01-25,234,Egypt,Riyadh,Email,Appliances,Electric Kettle,2,950,5,delivered,bank_transfer
+10976,2026-04-17,473,Egypt,Giza,Social Media,Appliances,Vacuum Cleaner,4,5200,15,returned,card
+10977,2025-05-28,461,Qatar,Doha,Organic Search,Stationery,Sticky Notes Pack,2,60,5,delivered,card
+10978,2026-03-28,10,Saudi Arabia,Dubai,Social Media,Electronics,USB-C Hub,3,800,15,delivered,wallet
+10979,2025-05-21,24,UAE,Cairo,Paid Ads,Stationery,Printer Paper (500),3,210,0,delivered,cod
+10980,2026-03-09,210,Saudi Arabia,Giza,Direct,Accessories,Backpack 20L,4,1400,5,delivered,card
+10981,2025-08-30,463,Kuwait,Jeddah,Organic Search,Electronics,27-inch Monitor,3,5200,10,delivered,card
+10982,2026-02-06,501,Egypt,Alexandria,Paid Ads,Furniture,Office Chair,1,4500,15,delivered,wallet
+10983,2024-08-04,537,Egypt,Kuwait City,Organic Search,Furniture,Standing Desk,2,7800,0,delivered,bank_transfer
+10984,2023-01-23,401,Egypt,Giza,Paid Ads,Furniture,Office Chair,3,4500,5,shipped,wallet
+10985,2025-09-06,134,Qatar,Riyadh,Social Media,Electronics,Mechanical Keyboard,4,1200,0,delivered,wallet
+10986,2023-11-22,208,UAE,Kuwait City,Social Media,Accessories,Backpack 20L,3,1400,10,delivered,card
+10987,2023-10-20,253,UAE,Dubai,Direct,Appliances,Coffee Maker,1,2600,5,delivered,wallet
+10988,2025-08-05,94,Egypt,Kuwait City,Social Media,Accessories,Water Bottle 1L,1,180,15,cancelled,cod
+10989,2025-03-11,256,Egypt,Abu Dhabi,Email,Accessories,Backpack 20L,2,1400,5,delivered,card
+10990,2026-03-10,45,Egypt,Alexandria,Social Media,Electronics,27-inch Monitor,4,5200,15,cancelled,bank_transfer
+10991,2024-08-20,422,Qatar,Doha,Organic Search,Electronics,Mechanical Keyboard,2,1200,5,delivered,card
+10992,2023-08-04,462,Egypt,Jeddah,Paid Ads,Appliances,Air Fryer,3,3400,5,shipped,card
+10993,2025-08-04,473,Saudi Arabia,Dubai,Email,Electronics,Laptop Pro 15,1,18500,15,returned,card
+10994,2025-03-23,118,Kuwait,Alexandria,Social Media,Electronics,Wireless Mouse,1,350,0,cancelled,wallet
+10995,2025-09-19,562,Kuwait,Riyadh,Email,Appliances,Coffee Maker,1,2600,0,delivered,wallet
+10996,2024-07-25,103,Egypt,Jeddah,Organic Search,Furniture,Office Chair,2,4500,0,shipped,wallet
+10997,2023-12-11,280,Egypt,Kuwait City,Social Media,Electronics,Mechanical Keyboard,1,1200,15,delivered,card
+10998,2023-03-12,49,Qatar,Doha,Organic Search,Appliances,Vacuum Cleaner,2,5200,5,delivered,cod
+10999,2025-06-28,387,Qatar,Riyadh,Paid Ads,Electronics,Wireless Mouse,1,350,0,delivered,card
+11000,2024-02-14,29,Egypt,Dubai,Paid Ads,Electronics,Mechanical Keyboard,1,1200,5,cancelled,card
+11001,2024-03-27,172,Egypt,Abu Dhabi,Direct,Electronics,27-inch Monitor,2,5200,15,delivered,cod
+11002,2024-10-22,213,UAE,Abu Dhabi,Email,Appliances,Vacuum Cleaner,2,5200,10,delivered,card
+11003,2024-03-13,178,Egypt,Abu Dhabi,Social Media,Electronics,27-inch Monitor,3,5200,0,delivered,wallet
+11004,2024-03-11,286,Kuwait,Dubai,Organic Search,Appliances,Coffee Maker,2,2600,0,delivered,card
+11005,2025-04-21,550,Qatar,Alexandria,Social Media,Stationery,Notebook A5,4,45,0,delivered,bank_transfer
+11006,2024-10-26,180,Kuwait,Dubai,Email,Stationery,Printer Paper (500),2,210,0,delivered,cod
+11007,2023-02-06,524,Kuwait,Riyadh,Direct,Accessories,Backpack 20L,4,1400,5,shipped,card
+11008,2024-04-21,243,Kuwait,Abu Dhabi,Paid Ads,Electronics,Laptop Pro 15,1,18500,0,shipped,card
+11009,2023-05-03,304,Egypt,Alexandria,Email,Electronics,USB-C Hub,3,800,5,delivered,card
+11010,2024-05-02,337,Egypt,Jeddah,Social Media,Accessories,Backpack 20L,4,1400,15,cancelled,card
+11011,2025-12-02,235,Qatar,Dubai,Social Media,Stationery,Sticky Notes Pack,3,60,0,delivered,card
+11012,2026-01-09,228,UAE,Abu Dhabi,Direct,Electronics,Wireless Mouse,2,350,15,delivered,card
+11013,2025-06-24,72,Egypt,Cairo,Paid Ads,Electronics,Laptop Pro 15,1,18500,5,delivered,card
+11014,2023-07-07,520,Egypt,Abu Dhabi,Email,Furniture,Office Chair,2,4500,0,delivered,card
+11015,2024-02-09,255,Egypt,Jeddah,Direct,Furniture,Bookshelf,4,2100,0,delivered,card
+11016,2024-07-10,408,Saudi Arabia,Alexandria,Email,Appliances,Electric Kettle,1,950,0,delivered,wallet
+11017,2025-10-31,494,Egypt,Abu Dhabi,Email,Accessories,Backpack 20L,4,1400,0,returned,card
+11018,2024-09-06,180,Egypt,Abu Dhabi,Email,Accessories,Backpack 20L,2,1400,10,delivered,wallet
+11019,2024-08-03,342,Egypt,Kuwait City,Paid Ads,Stationery,Printer Paper (500),4,210,0,delivered,card
+11020,2023-01-09,415,Saudi Arabia,Abu Dhabi,Social Media,Electronics,Laptop Pro 15,3,18500,5,delivered,wallet
+11021,2024-09-22,40,Egypt,Abu Dhabi,Direct,Accessories,Water Bottle 1L,1,180,5,delivered,card
+11022,2025-06-12,501,Kuwait,Dubai,Organic Search,Furniture,Desk Lamp,3,600,10,cancelled,wallet
+11023,2025-05-18,36,Qatar,Dubai,Organic Search,Furniture,Bookshelf,2,2100,5,cancelled,card
+11024,2024-06-19,151,Egypt,Riyadh,Direct,Accessories,Backpack 20L,4,1400,15,shipped,card
+11025,2023-01-26,394,Saudi Arabia,Giza,Direct,Electronics,27-inch Monitor,1,5200,15,delivered,wallet
+11026,2023-12-06,310,UAE,Doha,Email,Stationery,Sticky Notes Pack,3,60,15,shipped,cod
+11027,2025-04-22,587,Qatar,Dubai,Paid Ads,Electronics,Mechanical Keyboard,1,1200,15,delivered,card
+11028,2025-03-26,504,Egypt,Giza,Organic Search,Stationery,Notebook A5,1,45,0,returned,wallet
+11029,2025-12-11,442,Egypt,Alexandria,Social Media,Stationery,Sticky Notes Pack,3,60,15,delivered,card
+11030,2024-02-10,113,Saudi Arabia,Riyadh,Paid Ads,Appliances,Electric Kettle,2,950,10,delivered,card
+11031,2024-01-10,452,Kuwait,Giza,Paid Ads,Furniture,Standing Desk,3,7800,5,delivered,cod
+11032,2023-06-25,66,Egypt,Cairo,Direct,Stationery,Printer Paper (500),1,210,0,delivered,wallet
+11033,2025-09-20,273,Qatar,Cairo,Direct,Electronics,27-inch Monitor,1,5200,0,returned,card
+11034,2023-07-18,533,Qatar,Jeddah,Email,Furniture,Standing Desk,1,7800,5,delivered,cod
+11035,2026-05-22,352,Egypt,Riyadh,Social Media,Stationery,Sticky Notes Pack,3,60,0,cancelled,wallet
+11036,2025-02-14,339,Qatar,Giza,Organic Search,Accessories,Backpack 20L,1,1400,0,delivered,wallet
+11037,2023-10-12,287,Kuwait,Riyadh,Social Media,Electronics,Laptop Pro 15,1,18500,10,delivered,bank_transfer
+11038,2025-08-31,193,Egypt,Dubai,Organic Search,Appliances,Air Fryer,4,3400,15,cancelled,cod
+11039,2023-04-04,497,Saudi Arabia,Giza,Social Media,Stationery,Ballpoint Pens (10),4,85,0,delivered,wallet
+11040,2023-07-25,200,Kuwait,Alexandria,Direct,Stationery,Printer Paper (500),3,210,10,shipped,bank_transfer
+11041,2023-03-07,309,Qatar,Doha,Email,Electronics,USB-C Hub,4,800,0,delivered,wallet
+11042,2023-08-25,217,Egypt,Giza,Organic Search,Appliances,Electric Kettle,2,950,0,delivered,card
+11043,2023-11-25,226,Kuwait,Jeddah,Email,Stationery,Ballpoint Pens (10),4,85,0,cancelled,card
+11044,2023-10-06,341,Qatar,Riyadh,Direct,Appliances,Vacuum Cleaner,4,5200,0,returned,bank_transfer
+11045,2023-05-13,391,Kuwait,Doha,Email,Stationery,Ballpoint Pens (10),4,85,15,returned,card
+11046,2024-04-02,90,Egypt,Giza,Social Media,Furniture,Desk Lamp,1,600,0,cancelled,bank_transfer
+11047,2024-01-21,321,Saudi Arabia,Cairo,Social Media,Electronics,27-inch Monitor,3,5200,0,delivered,bank_transfer
+11048,2026-01-01,328,Qatar,Dubai,Paid Ads,Furniture,Standing Desk,4,7800,5,shipped,bank_transfer
+11049,2026-04-24,10,UAE,Kuwait City,Social Media,Furniture,Bookshelf,1,2100,5,delivered,cod
+11050,2024-03-24,291,Egypt,Cairo,Direct,Appliances,Electric Kettle,4,950,0,delivered,cod
+11051,2025-10-25,588,Saudi Arabia,Riyadh,Email,Electronics,27-inch Monitor,3,5200,15,delivered,wallet
+11052,2023-05-01,216,Qatar,Riyadh,Organic Search,Stationery,Ballpoint Pens (10),2,85,15,returned,card
+11053,2025-09-25,164,Egypt,Doha,Email,Stationery,Printer Paper (500),3,210,15,delivered,wallet
+11054,2025-08-27,74,UAE,Jeddah,Social Media,Stationery,Whiteboard Markers,4,120,5,cancelled,card
+11055,2026-01-27,332,Qatar,Cairo,Social Media,Stationery,Printer Paper (500),1,210,0,delivered,card
+11056,2026-03-28,495,Egypt,Alexandria,Paid Ads,Electronics,USB-C Hub,4,800,15,delivered,card
+11057,2026-08-26,590,Egypt,Alexandria,Email,Electronics,Laptop Pro 15,3,18500,15,delivered,card
+11058,2023-04-26,184,Egypt,Giza,Direct,Electronics,27-inch Monitor,3,5200,5,cancelled,cod
+11059,2026-04-30,414,Egypt,Cairo,Organic Search,Stationery,Sticky Notes Pack,2,60,15,delivered,wallet
+11060,2025-09-27,385,Qatar,Giza,Email,Stationery,Notebook A5,2,45,15,returned,wallet
+11061,2024-07-17,123,Egypt,Giza,Organic Search,Appliances,Coffee Maker,3,2600,0,delivered,bank_transfer
+11062,2024-04-05,97,Qatar,Alexandria,Email,Electronics,Laptop Pro 15,4,18500,0,delivered,wallet
+11063,2024-09-03,334,Egypt,Doha,Paid Ads,Accessories,Water Bottle 1L,2,180,0,delivered,card
+11064,2025-03-17,532,Qatar,Doha,Organic Search,Appliances,Vacuum Cleaner,4,5200,0,returned,card
+11065,2023-08-29,569,Saudi Arabia,Dubai,Organic Search,Furniture,Office Chair,2,4500,0,delivered,card
+11066,2026-03-23,576,Egypt,Cairo,Organic Search,Furniture,Standing Desk,2,7800,0,delivered,bank_transfer
+11067,2024-09-03,1,Egypt,Jeddah,Organic Search,Stationery,Whiteboard Markers,2,120,5,shipped,cod
+11068,2025-12-29,503,Kuwait,Dubai,Direct,Appliances,Coffee Maker,2,2600,10,delivered,bank_transfer
+11069,2026-01-07,102,Kuwait,Cairo,Paid Ads,Appliances,Air Fryer,2,3400,15,delivered,card
+11070,2023-10-18,566,Egypt,Dubai,Social Media,Stationery,Notebook A5,2,45,0,delivered,bank_transfer
+11071,2025-05-14,391,Kuwait,Alexandria,Email,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+11072,2024-06-04,209,Egypt,Jeddah,Paid Ads,Stationery,Sticky Notes Pack,2,60,10,cancelled,cod
+11073,2026-02-28,158,Egypt,Abu Dhabi,Email,Appliances,Air Fryer,2,3400,5,delivered,bank_transfer
+11074,2024-05-21,545,Egypt,Doha,Email,Electronics,Mechanical Keyboard,3,1200,0,delivered,cod
+11075,2026-08-04,280,Egypt,Riyadh,Social Media,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+11076,2025-02-11,127,Egypt,Doha,Social Media,Furniture,Bookshelf,4,2100,0,shipped,wallet
+11077,2023-07-15,586,Qatar,Jeddah,Direct,Appliances,Air Fryer,3,3400,15,delivered,bank_transfer
+11078,2023-07-22,399,Egypt,Dubai,Direct,Electronics,Wireless Mouse,2,350,0,shipped,bank_transfer
+11079,2025-04-04,10,Kuwait,Doha,Paid Ads,Appliances,Electric Kettle,2,950,0,cancelled,card
+11080,2023-10-20,380,Kuwait,Riyadh,Direct,Stationery,Printer Paper (500),3,210,0,delivered,wallet
+11081,2024-01-10,515,Egypt,Jeddah,Email,Appliances,Coffee Maker,3,2600,5,shipped,card
+11082,2024-09-17,321,Qatar,Giza,Organic Search,Electronics,Mechanical Keyboard,3,1200,5,delivered,card
+11083,2023-07-11,293,UAE,Kuwait City,Organic Search,Furniture,Office Chair,1,4500,0,delivered,bank_transfer
+11084,2023-10-07,546,Kuwait,Giza,Email,Appliances,Electric Kettle,4,950,10,delivered,bank_transfer
+11085,2024-01-25,548,Kuwait,Dubai,Paid Ads,Electronics,Laptop Pro 15,4,18500,15,cancelled,bank_transfer
+11086,2026-06-01,537,Egypt,Alexandria,Organic Search,Electronics,Wireless Mouse,4,350,0,delivered,card
+11087,2025-11-18,508,Saudi Arabia,Alexandria,Social Media,Stationery,Whiteboard Markers,1,120,5,delivered,cod
+11088,2024-05-26,307,Saudi Arabia,Jeddah,Social Media,Appliances,Vacuum Cleaner,1,5200,0,delivered,card
+11089,2026-07-16,313,Kuwait,Doha,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,bank_transfer
+11090,2025-09-26,472,Egypt,Jeddah,Social Media,Electronics,Wireless Mouse,3,350,0,delivered,card
+11091,2024-12-17,10,Egypt,Abu Dhabi,Email,Furniture,Office Chair,4,4500,0,delivered,card
+11092,2025-12-19,127,Saudi Arabia,Cairo,Paid Ads,Appliances,Air Fryer,2,3400,5,returned,cod
+11093,2024-04-08,307,Egypt,Abu Dhabi,Paid Ads,Appliances,Electric Kettle,4,950,0,shipped,cod
+11094,2023-08-11,144,Egypt,Abu Dhabi,Organic Search,Appliances,Coffee Maker,4,2600,0,delivered,card
+11095,2023-08-15,137,Saudi Arabia,Abu Dhabi,Social Media,Furniture,Standing Desk,3,7800,0,delivered,card
+11096,2024-02-12,432,Saudi Arabia,Doha,Email,Appliances,Electric Kettle,3,950,0,returned,card
+11097,2024-10-27,113,Egypt,Cairo,Paid Ads,Stationery,Printer Paper (500),4,210,0,delivered,cod
+11098,2025-10-21,351,Saudi Arabia,Cairo,Email,Electronics,Laptop Pro 15,2,18500,0,delivered,cod
+11099,2024-07-31,254,UAE,Alexandria,Direct,Appliances,Electric Kettle,1,950,5,delivered,card
+11100,2024-07-29,254,Kuwait,Abu Dhabi,Paid Ads,Electronics,27-inch Monitor,3,5200,15,delivered,card
+11101,2025-10-25,153,Egypt,Giza,Paid Ads,Accessories,Backpack 20L,2,1400,0,delivered,card
+11102,2024-07-14,19,UAE,Riyadh,Organic Search,Furniture,Standing Desk,2,7800,5,returned,card
+11103,2025-02-17,237,Egypt,Dubai,Email,Stationery,Sticky Notes Pack,3,60,15,delivered,card
+11104,2025-11-10,113,Egypt,Dubai,Social Media,Stationery,Sticky Notes Pack,1,60,0,delivered,wallet
+11105,2024-05-20,42,Egypt,Cairo,Social Media,Stationery,Ballpoint Pens (10),1,85,0,delivered,cod
+11106,2025-08-24,190,Egypt,Kuwait City,Social Media,Furniture,Desk Lamp,1,600,5,delivered,cod
+11107,2023-08-17,566,Qatar,Alexandria,Social Media,Electronics,27-inch Monitor,1,5200,15,delivered,cod
+11108,2026-04-21,283,Egypt,Abu Dhabi,Organic Search,Appliances,Air Fryer,3,3400,0,delivered,card
+11109,2026-07-13,196,Egypt,Kuwait City,Organic Search,Accessories,Backpack 20L,1,1400,0,delivered,bank_transfer
+11110,2026-06-21,486,Qatar,Riyadh,Direct,Stationery,Ballpoint Pens (10),3,85,15,cancelled,card
+11111,2023-03-31,564,Kuwait,Jeddah,Direct,Electronics,USB-C Hub,2,800,5,delivered,cod
+11112,2025-07-07,495,Saudi Arabia,Doha,Direct,Electronics,27-inch Monitor,4,5200,0,returned,card
+11113,2023-12-08,133,Egypt,Cairo,Direct,Accessories,Backpack 20L,3,1400,15,delivered,card
+11114,2025-03-25,449,Qatar,Doha,Email,Appliances,Electric Kettle,1,950,0,shipped,wallet
+11115,2025-03-31,189,Egypt,Alexandria,Direct,Accessories,Backpack 20L,3,1400,0,delivered,bank_transfer
+11116,2023-01-19,538,Egypt,Jeddah,Paid Ads,Appliances,Air Fryer,4,3400,10,delivered,cod
+11117,2026-02-04,47,UAE,Riyadh,Social Media,Electronics,27-inch Monitor,2,5200,0,delivered,card
+11118,2024-07-22,255,Qatar,Riyadh,Direct,Electronics,USB-C Hub,3,800,0,delivered,card
+11119,2026-08-21,86,Kuwait,Doha,Social Media,Stationery,Whiteboard Markers,3,120,0,cancelled,card
+11120,2025-04-16,59,Kuwait,Cairo,Social Media,Accessories,Backpack 20L,3,1400,0,delivered,cod
+11121,2023-12-28,598,Egypt,Abu Dhabi,Social Media,Furniture,Desk Lamp,1,600,10,returned,bank_transfer
+11122,2026-02-02,333,Egypt,Riyadh,Direct,Furniture,Standing Desk,4,7800,0,cancelled,wallet
+11123,2023-11-15,445,Egypt,Alexandria,Email,Appliances,Coffee Maker,2,2600,15,delivered,wallet
+11124,2024-01-07,194,UAE,Kuwait City,Paid Ads,Appliances,Coffee Maker,2,2600,0,cancelled,cod
+11125,2023-02-13,404,Kuwait,Riyadh,Organic Search,Stationery,Notebook A5,2,45,0,delivered,card
+11126,2025-05-23,413,Egypt,Doha,Paid Ads,Furniture,Bookshelf,4,2100,15,cancelled,card
+11127,2026-05-20,22,Egypt,Cairo,Organic Search,Electronics,27-inch Monitor,4,5200,5,delivered,card
+11128,2023-06-21,14,Qatar,Cairo,Organic Search,Furniture,Desk Lamp,2,600,15,shipped,cod
+11129,2023-06-24,577,Saudi Arabia,Alexandria,Social Media,Furniture,Standing Desk,2,7800,5,delivered,wallet
+11130,2023-11-13,274,Kuwait,Doha,Organic Search,Furniture,Bookshelf,1,2100,10,delivered,card
+11131,2023-07-30,524,Qatar,Abu Dhabi,Paid Ads,Appliances,Vacuum Cleaner,3,5200,0,delivered,card
+11132,2023-02-19,151,Egypt,Jeddah,Paid Ads,Furniture,Bookshelf,4,2100,5,cancelled,wallet
+11133,2023-08-19,230,Egypt,Jeddah,Social Media,Appliances,Electric Kettle,2,950,0,delivered,bank_transfer
+11134,2024-11-14,45,UAE,Alexandria,Paid Ads,Electronics,27-inch Monitor,3,5200,0,delivered,bank_transfer
+11135,2024-11-16,436,Egypt,Jeddah,Direct,Accessories,Backpack 20L,2,1400,15,returned,cod
+11136,2024-12-14,378,Egypt,Giza,Organic Search,Electronics,27-inch Monitor,3,5200,5,returned,card
+11137,2023-10-28,458,Kuwait,Kuwait City,Organic Search,Stationery,Ballpoint Pens (10),2,85,5,delivered,bank_transfer
+11138,2025-05-25,331,Egypt,Alexandria,Email,Furniture,Desk Lamp,2,600,0,delivered,cod
+11139,2025-10-09,424,UAE,Dubai,Paid Ads,Stationery,Sticky Notes Pack,4,60,15,returned,card
+11140,2025-02-23,547,Saudi Arabia,Doha,Direct,Stationery,Sticky Notes Pack,4,60,10,returned,card
+11141,2025-02-26,592,Qatar,Riyadh,Organic Search,Electronics,Mechanical Keyboard,4,1200,10,delivered,cod
+11142,2023-01-06,572,Saudi Arabia,Alexandria,Organic Search,Furniture,Standing Desk,1,7800,0,delivered,cod
+11143,2025-01-09,148,Qatar,Doha,Email,Electronics,USB-C Hub,3,800,5,delivered,card
+11144,2024-04-04,147,Saudi Arabia,Cairo,Email,Electronics,Wireless Mouse,2,350,0,delivered,card
+11145,2023-08-06,162,Egypt,Alexandria,Social Media,Accessories,Water Bottle 1L,1,180,5,delivered,card
+11146,2024-05-16,427,Egypt,Alexandria,Email,Electronics,Mechanical Keyboard,1,1200,10,cancelled,card
+11147,2025-12-16,346,Saudi Arabia,Cairo,Social Media,Stationery,Notebook A5,4,45,5,delivered,card
+11148,2023-05-03,165,Egypt,Abu Dhabi,Email,Electronics,Wireless Mouse,2,350,10,cancelled,wallet
+11149,2026-02-08,233,Saudi Arabia,Alexandria,Social Media,Furniture,Desk Lamp,3,600,15,delivered,bank_transfer
+11150,2025-02-12,58,Egypt,Abu Dhabi,Paid Ads,Electronics,USB-C Hub,2,800,5,returned,bank_transfer
+11151,2026-05-24,321,Kuwait,Abu Dhabi,Email,Electronics,Mechanical Keyboard,4,1200,5,delivered,card
+11152,2025-01-30,112,Egypt,Giza,Social Media,Stationery,Sticky Notes Pack,2,60,0,shipped,cod
+11153,2023-02-27,555,Egypt,Giza,Paid Ads,Furniture,Bookshelf,3,2100,0,shipped,card
+11154,2024-09-25,34,Egypt,Jeddah,Organic Search,Furniture,Standing Desk,2,7800,15,shipped,bank_transfer
+11155,2023-04-02,50,Egypt,Giza,Social Media,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+11156,2024-08-01,401,Kuwait,Dubai,Paid Ads,Stationery,Printer Paper (500),2,210,0,cancelled,card
+11157,2024-11-09,154,Egypt,Abu Dhabi,Email,Stationery,Sticky Notes Pack,1,60,10,shipped,card
+11158,2024-08-17,475,Egypt,Giza,Paid Ads,Furniture,Office Chair,2,4500,15,delivered,card
+11159,2023-11-26,135,Egypt,Jeddah,Social Media,Appliances,Air Fryer,3,3400,5,shipped,wallet
+11160,2023-03-23,77,Egypt,Kuwait City,Organic Search,Stationery,Printer Paper (500),2,210,0,returned,card
+11161,2023-10-20,97,Saudi Arabia,Dubai,Paid Ads,Stationery,Notebook A5,1,45,5,delivered,card
+11162,2023-05-20,92,Egypt,Alexandria,Email,Furniture,Desk Lamp,3,600,0,delivered,wallet
+11163,2024-06-08,583,Saudi Arabia,Cairo,Social Media,Appliances,Coffee Maker,2,2600,0,returned,cod
+11164,2025-04-01,376,UAE,Dubai,Social Media,Stationery,Sticky Notes Pack,2,60,5,delivered,wallet
+11165,2025-11-02,44,UAE,Cairo,Paid Ads,Appliances,Coffee Maker,3,2600,15,cancelled,bank_transfer
+11166,2023-01-17,385,Egypt,Abu Dhabi,Organic Search,Electronics,USB-C Hub,1,800,0,delivered,wallet
+11167,2025-08-04,480,Kuwait,Doha,Email,Electronics,Mechanical Keyboard,3,1200,5,delivered,card
+11168,2024-01-05,205,Saudi Arabia,Dubai,Organic Search,Electronics,27-inch Monitor,4,5200,5,delivered,cod
+11169,2026-05-22,488,Egypt,Jeddah,Email,Appliances,Electric Kettle,2,950,15,delivered,bank_transfer
+11170,2023-11-15,219,Egypt,Cairo,Direct,Appliances,Electric Kettle,2,950,15,returned,wallet
+11171,2023-05-08,219,Egypt,Riyadh,Organic Search,Stationery,Whiteboard Markers,4,120,5,returned,wallet
+11172,2024-07-06,146,Egypt,Jeddah,Email,Furniture,Desk Lamp,2,600,0,delivered,cod
+11173,2025-07-13,266,Egypt,Cairo,Organic Search,Stationery,Sticky Notes Pack,2,60,15,delivered,cod
+11174,2024-08-31,430,Saudi Arabia,Kuwait City,Direct,Furniture,Office Chair,2,4500,0,cancelled,card
+11175,2025-06-13,575,Qatar,Riyadh,Organic Search,Stationery,Whiteboard Markers,4,120,0,cancelled,bank_transfer
+11176,2026-06-16,325,Egypt,Alexandria,Email,Electronics,USB-C Hub,3,800,15,delivered,wallet
+11177,2024-10-10,534,Kuwait,Cairo,Email,Electronics,27-inch Monitor,4,5200,0,returned,card
+11178,2026-07-23,224,Kuwait,Riyadh,Email,Appliances,Coffee Maker,1,2600,0,cancelled,bank_transfer
+11179,2023-12-07,357,Egypt,Riyadh,Direct,Accessories,Backpack 20L,4,1400,0,delivered,cod
+11180,2025-01-15,515,Qatar,Giza,Email,Electronics,Laptop Pro 15,3,18500,0,cancelled,wallet
+11181,2025-04-27,556,Saudi Arabia,Doha,Social Media,Stationery,Sticky Notes Pack,3,60,0,delivered,card
+11182,2025-07-28,567,UAE,Alexandria,Direct,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+11183,2024-08-06,102,Egypt,Giza,Organic Search,Stationery,Sticky Notes Pack,3,60,15,cancelled,card
+11184,2026-06-16,558,Egypt,Kuwait City,Direct,Stationery,Sticky Notes Pack,1,60,5,shipped,card
+11185,2024-08-16,466,UAE,Abu Dhabi,Organic Search,Stationery,Sticky Notes Pack,2,60,0,delivered,wallet
+11186,2023-09-12,406,Egypt,Dubai,Paid Ads,Stationery,Whiteboard Markers,4,120,5,shipped,cod
+11187,2024-07-02,248,Egypt,Abu Dhabi,Organic Search,Furniture,Desk Lamp,3,600,5,delivered,card
+11188,2023-11-11,175,UAE,Abu Dhabi,Paid Ads,Stationery,Whiteboard Markers,3,120,0,shipped,wallet
+11189,2024-01-30,592,Saudi Arabia,Alexandria,Email,Accessories,Backpack 20L,4,1400,0,cancelled,card
+11190,2025-04-05,237,Egypt,Alexandria,Direct,Stationery,Ballpoint Pens (10),2,85,5,delivered,bank_transfer
+11191,2025-03-13,209,Egypt,Giza,Organic Search,Furniture,Desk Lamp,2,600,0,delivered,card
+11192,2026-07-11,557,Egypt,Abu Dhabi,Organic Search,Accessories,Water Bottle 1L,2,180,0,cancelled,card
+11193,2025-07-18,228,Egypt,Riyadh,Direct,Stationery,Whiteboard Markers,2,120,0,returned,card
+11194,2025-02-13,85,Egypt,Cairo,Direct,Furniture,Desk Lamp,1,600,0,returned,card
+11195,2023-08-16,146,Egypt,Jeddah,Paid Ads,Appliances,Coffee Maker,1,2600,0,delivered,card
+11196,2025-10-09,104,Saudi Arabia,Cairo,Email,Stationery,Whiteboard Markers,2,120,5,delivered,wallet
+11197,2026-07-05,430,Saudi Arabia,Dubai,Email,Electronics,Mechanical Keyboard,2,1200,15,returned,card
+11198,2024-01-04,581,Kuwait,Cairo,Organic Search,Stationery,Notebook A5,1,45,0,delivered,cod
+11199,2025-09-18,535,Kuwait,Jeddah,Organic Search,Accessories,Backpack 20L,1,1400,0,delivered,bank_transfer
+11200,2023-03-02,525,Qatar,Alexandria,Paid Ads,Appliances,Vacuum Cleaner,1,5200,10,returned,cod
+11201,2023-08-24,142,Egypt,Giza,Paid Ads,Furniture,Standing Desk,1,7800,0,delivered,cod
+11202,2025-09-13,565,Kuwait,Jeddah,Email,Furniture,Standing Desk,1,7800,0,cancelled,wallet
+11203,2025-06-12,257,Egypt,Riyadh,Social Media,Appliances,Air Fryer,4,3400,0,delivered,card
+11204,2026-04-10,211,Kuwait,Kuwait City,Email,Accessories,Water Bottle 1L,3,180,0,delivered,wallet
+11205,2026-05-06,111,UAE,Abu Dhabi,Email,Furniture,Desk Lamp,3,600,10,delivered,bank_transfer
+11206,2024-12-23,172,Egypt,Doha,Social Media,Stationery,Whiteboard Markers,1,120,5,shipped,wallet
+11207,2024-08-24,31,Egypt,Alexandria,Social Media,Accessories,Backpack 20L,3,1400,5,delivered,card
+11208,2025-01-02,381,Egypt,Alexandria,Social Media,Furniture,Bookshelf,1,2100,0,delivered,card
+11209,2024-10-14,477,UAE,Dubai,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,shipped,card
+11210,2025-02-28,223,Egypt,Doha,Social Media,Stationery,Notebook A5,2,45,10,cancelled,bank_transfer
+11211,2023-06-03,446,Egypt,Dubai,Paid Ads,Accessories,Water Bottle 1L,4,180,15,delivered,card
+11212,2025-10-08,432,Egypt,Giza,Email,Appliances,Electric Kettle,1,950,0,delivered,bank_transfer
+11213,2024-10-31,591,Egypt,Jeddah,Organic Search,Accessories,Water Bottle 1L,4,180,0,cancelled,bank_transfer
+11214,2023-01-10,413,Egypt,Doha,Direct,Appliances,Coffee Maker,3,2600,0,delivered,cod
+11215,2026-08-13,98,Qatar,Abu Dhabi,Social Media,Electronics,Laptop Pro 15,1,18500,5,delivered,cod
+11216,2024-12-09,321,Saudi Arabia,Cairo,Email,Stationery,Printer Paper (500),1,210,10,delivered,wallet
+11217,2025-10-07,106,Egypt,Riyadh,Organic Search,Electronics,27-inch Monitor,3,5200,10,returned,card
+11218,2023-10-12,447,Egypt,Alexandria,Organic Search,Electronics,27-inch Monitor,3,5200,15,delivered,cod
+11219,2026-01-05,45,Egypt,Cairo,Social Media,Electronics,Laptop Pro 15,1,18500,0,delivered,cod
+11220,2024-11-05,175,Egypt,Kuwait City,Organic Search,Accessories,Backpack 20L,4,1400,0,delivered,cod
+11221,2023-10-31,458,Kuwait,Giza,Direct,Accessories,Water Bottle 1L,4,180,15,shipped,card
+11222,2026-03-29,330,Qatar,Kuwait City,Paid Ads,Appliances,Electric Kettle,4,950,0,delivered,cod
+11223,2024-08-29,249,Kuwait,Riyadh,Organic Search,Electronics,Mechanical Keyboard,3,1200,10,delivered,wallet
+11224,2023-05-04,222,Saudi Arabia,Abu Dhabi,Paid Ads,Furniture,Standing Desk,1,7800,15,delivered,card
+11225,2024-11-28,465,Kuwait,Alexandria,Direct,Furniture,Standing Desk,3,7800,0,delivered,card
+11226,2024-03-24,526,Egypt,Abu Dhabi,Paid Ads,Stationery,Whiteboard Markers,4,120,5,delivered,cod
+11227,2025-05-16,105,Egypt,Kuwait City,Organic Search,Furniture,Office Chair,3,4500,10,cancelled,card
+11228,2024-05-07,274,Egypt,Kuwait City,Direct,Electronics,Laptop Pro 15,4,18500,0,delivered,cod
+11229,2024-06-27,442,Egypt,Alexandria,Email,Electronics,27-inch Monitor,1,5200,0,shipped,wallet
+11230,2025-11-06,280,Egypt,Giza,Organic Search,Stationery,Ballpoint Pens (10),1,85,5,cancelled,wallet
+11231,2025-05-15,413,Egypt,Jeddah,Direct,Furniture,Standing Desk,3,7800,0,shipped,wallet
+11232,2025-11-28,52,Kuwait,Riyadh,Organic Search,Stationery,Sticky Notes Pack,1,60,15,delivered,card
+11233,2023-04-19,68,UAE,Giza,Social Media,Electronics,Wireless Mouse,3,350,0,delivered,bank_transfer
+11234,2025-04-08,226,Kuwait,Jeddah,Email,Stationery,Printer Paper (500),4,210,0,delivered,card
+11235,2024-02-21,295,Kuwait,Cairo,Organic Search,Stationery,Whiteboard Markers,3,120,15,delivered,bank_transfer
+11236,2026-06-28,245,Egypt,Dubai,Organic Search,Appliances,Electric Kettle,3,950,15,delivered,card
+11237,2024-11-11,486,Saudi Arabia,Dubai,Organic Search,Appliances,Coffee Maker,2,2600,0,delivered,cod
+11238,2023-06-07,361,Saudi Arabia,Cairo,Email,Furniture,Office Chair,1,4500,10,returned,card
+11239,2025-08-25,581,Kuwait,Jeddah,Paid Ads,Electronics,27-inch Monitor,1,5200,0,shipped,bank_transfer
+11240,2023-12-09,312,Qatar,Dubai,Email,Electronics,USB-C Hub,1,800,0,delivered,cod
+11241,2026-01-22,374,Saudi Arabia,Cairo,Social Media,Furniture,Desk Lamp,4,600,0,delivered,cod
+11242,2025-11-26,277,Kuwait,Doha,Organic Search,Accessories,Backpack 20L,4,1400,0,delivered,wallet
+11243,2024-03-27,32,Egypt,Abu Dhabi,Social Media,Electronics,USB-C Hub,3,800,5,delivered,card
+11244,2024-02-01,558,Saudi Arabia,Doha,Paid Ads,Stationery,Printer Paper (500),1,210,0,delivered,cod
+11245,2024-11-09,317,Egypt,Cairo,Direct,Stationery,Printer Paper (500),4,210,0,shipped,cod
+11246,2026-06-08,581,Qatar,Dubai,Social Media,Electronics,27-inch Monitor,4,5200,5,delivered,card
+11247,2025-10-18,154,UAE,Jeddah,Direct,Electronics,USB-C Hub,4,800,15,shipped,card
+11248,2024-09-13,302,Egypt,Kuwait City,Organic Search,Appliances,Electric Kettle,3,950,0,delivered,cod
+11249,2026-04-29,314,Egypt,Abu Dhabi,Social Media,Electronics,27-inch Monitor,1,5200,5,cancelled,card
+11250,2023-04-13,291,Qatar,Doha,Direct,Furniture,Desk Lamp,2,600,0,delivered,card
+11251,2024-07-08,600,Egypt,Jeddah,Paid Ads,Electronics,USB-C Hub,2,800,5,delivered,wallet
+11252,2024-12-27,409,Egypt,Jeddah,Social Media,Furniture,Bookshelf,4,2100,5,shipped,cod
+11253,2023-12-21,331,Qatar,Alexandria,Paid Ads,Accessories,Water Bottle 1L,4,180,15,delivered,card
+11254,2025-05-02,313,Egypt,Jeddah,Direct,Appliances,Vacuum Cleaner,2,5200,0,cancelled,wallet
+11255,2026-01-22,99,Egypt,Doha,Email,Furniture,Office Chair,4,4500,5,cancelled,cod
+11256,2025-10-28,438,Saudi Arabia,Abu Dhabi,Email,Stationery,Whiteboard Markers,4,120,0,delivered,card
+11257,2026-02-18,144,UAE,Jeddah,Paid Ads,Electronics,Laptop Pro 15,4,18500,0,shipped,bank_transfer
+11258,2025-02-03,403,Egypt,Abu Dhabi,Organic Search,Electronics,USB-C Hub,3,800,0,delivered,bank_transfer
+11259,2025-07-31,277,Qatar,Giza,Social Media,Electronics,Wireless Mouse,1,350,0,shipped,card
+11260,2024-08-18,340,Qatar,Cairo,Organic Search,Accessories,Water Bottle 1L,4,180,15,cancelled,bank_transfer
+11261,2025-11-12,148,UAE,Kuwait City,Paid Ads,Electronics,Wireless Mouse,2,350,10,delivered,card
+11262,2024-09-08,206,Egypt,Giza,Organic Search,Stationery,Notebook A5,1,45,5,delivered,bank_transfer
+11263,2023-09-05,210,Egypt,Kuwait City,Organic Search,Appliances,Air Fryer,1,3400,0,returned,bank_transfer
+11264,2025-06-27,308,Saudi Arabia,Kuwait City,Paid Ads,Stationery,Printer Paper (500),1,210,0,returned,card
+11265,2026-01-24,127,Saudi Arabia,Alexandria,Organic Search,Furniture,Desk Lamp,4,600,15,delivered,card
+11266,2024-05-07,492,Egypt,Jeddah,Organic Search,Furniture,Office Chair,2,4500,5,shipped,wallet
+11267,2025-01-22,110,Saudi Arabia,Abu Dhabi,Email,Furniture,Desk Lamp,4,600,5,delivered,card
+11268,2024-08-03,399,Egypt,Jeddah,Organic Search,Appliances,Coffee Maker,1,2600,10,cancelled,bank_transfer
+11269,2025-06-29,480,Kuwait,Kuwait City,Social Media,Electronics,Wireless Mouse,3,350,0,delivered,card
+11270,2025-01-02,538,Saudi Arabia,Doha,Organic Search,Appliances,Air Fryer,2,3400,0,delivered,card
+11271,2024-12-21,144,Egypt,Jeddah,Email,Accessories,Water Bottle 1L,3,180,5,delivered,wallet
+11272,2025-02-10,520,Qatar,Doha,Social Media,Appliances,Electric Kettle,2,950,10,delivered,cod
+11273,2026-04-20,414,Egypt,Cairo,Organic Search,Accessories,Water Bottle 1L,3,180,10,returned,card
+11274,2024-04-19,488,Egypt,Riyadh,Paid Ads,Electronics,27-inch Monitor,1,5200,5,delivered,card
+11275,2025-02-25,257,Egypt,Cairo,Organic Search,Stationery,Sticky Notes Pack,1,60,0,delivered,cod
+11276,2026-05-27,111,Kuwait,Kuwait City,Email,Electronics,Laptop Pro 15,2,18500,0,delivered,bank_transfer
+11277,2026-02-13,503,Saudi Arabia,Jeddah,Paid Ads,Furniture,Standing Desk,2,7800,0,delivered,card
+11278,2025-06-07,597,Egypt,Giza,Paid Ads,Appliances,Air Fryer,2,3400,0,delivered,card
+11279,2023-01-11,560,Qatar,Giza,Social Media,Stationery,Whiteboard Markers,4,120,10,delivered,bank_transfer
+11280,2025-10-13,486,UAE,Dubai,Social Media,Furniture,Standing Desk,2,7800,10,shipped,bank_transfer
+11281,2023-10-10,386,Qatar,Giza,Direct,Electronics,Mechanical Keyboard,4,1200,5,delivered,card
+11282,2025-11-25,511,Egypt,Cairo,Direct,Stationery,Notebook A5,1,45,0,shipped,cod
+11283,2023-02-16,400,Kuwait,Dubai,Organic Search,Furniture,Bookshelf,3,2100,0,returned,card
+11284,2024-08-12,513,Egypt,Abu Dhabi,Direct,Electronics,Mechanical Keyboard,2,1200,10,delivered,bank_transfer
+11285,2023-08-16,31,Egypt,Dubai,Email,Accessories,Water Bottle 1L,4,180,0,delivered,card
+11286,2024-11-16,561,Qatar,Dubai,Organic Search,Electronics,Wireless Mouse,2,350,0,delivered,wallet
+11287,2023-05-30,73,Saudi Arabia,Giza,Direct,Accessories,Water Bottle 1L,1,180,0,delivered,card
+11288,2024-07-08,509,UAE,Riyadh,Social Media,Electronics,Wireless Mouse,1,350,0,delivered,wallet
+11289,2024-09-13,27,Qatar,Riyadh,Direct,Furniture,Bookshelf,1,2100,0,shipped,wallet
+11290,2023-02-07,397,Qatar,Abu Dhabi,Paid Ads,Appliances,Vacuum Cleaner,4,5200,0,delivered,wallet
+11291,2026-01-30,121,UAE,Dubai,Social Media,Electronics,USB-C Hub,1,800,5,delivered,cod
+11292,2025-06-13,95,UAE,Cairo,Paid Ads,Electronics,Wireless Mouse,2,350,0,delivered,bank_transfer
+11293,2026-03-09,256,Qatar,Cairo,Organic Search,Electronics,Wireless Mouse,1,350,15,delivered,card
+11294,2025-06-17,322,Egypt,Riyadh,Social Media,Furniture,Office Chair,3,4500,0,delivered,bank_transfer
+11295,2025-03-25,79,Egypt,Jeddah,Direct,Appliances,Electric Kettle,1,950,15,delivered,wallet
+11296,2025-01-01,310,Egypt,Doha,Social Media,Furniture,Bookshelf,4,2100,15,returned,card
+11297,2025-12-14,555,UAE,Giza,Organic Search,Furniture,Desk Lamp,3,600,15,delivered,wallet
+11298,2026-06-27,209,Egypt,Doha,Paid Ads,Appliances,Electric Kettle,3,950,0,delivered,bank_transfer
+11299,2024-03-07,146,Egypt,Riyadh,Email,Electronics,27-inch Monitor,3,5200,15,cancelled,wallet
+11300,2023-08-22,277,Egypt,Abu Dhabi,Social Media,Electronics,Laptop Pro 15,4,18500,0,returned,card
+11301,2023-05-03,20,Qatar,Abu Dhabi,Email,Furniture,Desk Lamp,4,600,5,delivered,card
+11302,2024-04-04,442,UAE,Cairo,Social Media,Furniture,Standing Desk,4,7800,0,delivered,bank_transfer
+11303,2024-12-13,222,Qatar,Cairo,Social Media,Electronics,Laptop Pro 15,3,18500,0,cancelled,bank_transfer
+11304,2025-06-07,567,Saudi Arabia,Jeddah,Direct,Stationery,Sticky Notes Pack,1,60,0,delivered,wallet
+11305,2026-03-18,391,Saudi Arabia,Riyadh,Paid Ads,Accessories,Water Bottle 1L,3,180,0,delivered,cod
+11306,2024-07-15,303,Egypt,Abu Dhabi,Organic Search,Electronics,Mechanical Keyboard,2,1200,10,shipped,cod
+11307,2025-01-10,13,Egypt,Jeddah,Direct,Furniture,Desk Lamp,3,600,15,cancelled,cod
+11308,2024-06-25,18,Saudi Arabia,Cairo,Email,Furniture,Office Chair,4,4500,5,delivered,cod
+11309,2025-09-10,60,UAE,Giza,Social Media,Appliances,Vacuum Cleaner,2,5200,5,shipped,bank_transfer
+11310,2024-10-05,265,Qatar,Jeddah,Social Media,Electronics,Mechanical Keyboard,4,1200,0,returned,wallet
+11311,2023-09-18,51,Egypt,Giza,Organic Search,Furniture,Bookshelf,2,2100,0,delivered,bank_transfer
+11312,2025-06-20,567,Kuwait,Riyadh,Organic Search,Accessories,Water Bottle 1L,3,180,0,cancelled,cod
+11313,2024-06-11,46,UAE,Riyadh,Social Media,Electronics,Laptop Pro 15,3,18500,10,delivered,card
+11314,2025-11-04,80,Egypt,Riyadh,Social Media,Appliances,Coffee Maker,1,2600,10,shipped,cod
+11315,2025-05-01,147,Egypt,Dubai,Direct,Electronics,Mechanical Keyboard,4,1200,0,returned,cod
+11316,2024-11-17,302,UAE,Cairo,Paid Ads,Stationery,Sticky Notes Pack,3,60,5,delivered,card
+11317,2024-08-18,217,Qatar,Dubai,Direct,Electronics,USB-C Hub,1,800,0,cancelled,bank_transfer
+11318,2026-04-05,597,Egypt,Alexandria,Email,Stationery,Whiteboard Markers,2,120,5,returned,card
+11319,2023-06-08,125,Qatar,Doha,Organic Search,Furniture,Bookshelf,4,2100,10,shipped,wallet
+11320,2025-12-10,276,Egypt,Jeddah,Paid Ads,Appliances,Air Fryer,4,3400,0,delivered,card
+11321,2025-01-11,119,Kuwait,Riyadh,Email,Furniture,Bookshelf,4,2100,0,cancelled,wallet
+11322,2025-01-11,518,Egypt,Dubai,Email,Electronics,Mechanical Keyboard,3,1200,10,shipped,card
+11323,2025-07-08,129,UAE,Riyadh,Email,Stationery,Sticky Notes Pack,2,60,10,cancelled,bank_transfer
+11324,2023-10-10,350,Egypt,Giza,Organic Search,Accessories,Backpack 20L,3,1400,0,delivered,wallet
+11325,2025-10-31,203,Egypt,Kuwait City,Organic Search,Electronics,USB-C Hub,4,800,15,delivered,card
+11326,2025-05-07,104,Egypt,Cairo,Email,Furniture,Desk Lamp,4,600,15,delivered,card
+11327,2023-05-30,363,Egypt,Abu Dhabi,Direct,Electronics,USB-C Hub,4,800,5,delivered,cod
+11328,2023-09-01,111,Kuwait,Cairo,Organic Search,Stationery,Ballpoint Pens (10),3,85,10,cancelled,cod
+11329,2025-07-08,447,Egypt,Kuwait City,Paid Ads,Stationery,Sticky Notes Pack,4,60,15,cancelled,card
+11330,2026-04-22,8,UAE,Dubai,Email,Appliances,Air Fryer,1,3400,0,delivered,cod
+11331,2025-06-17,238,Egypt,Kuwait City,Social Media,Furniture,Office Chair,3,4500,0,delivered,bank_transfer
+11332,2025-11-26,331,Saudi Arabia,Dubai,Paid Ads,Appliances,Air Fryer,4,3400,0,delivered,card
+11333,2024-03-07,322,Egypt,Dubai,Social Media,Stationery,Sticky Notes Pack,3,60,10,delivered,card
+11334,2024-08-12,230,Egypt,Jeddah,Social Media,Furniture,Desk Lamp,4,600,5,shipped,card
+11335,2024-04-19,212,UAE,Doha,Paid Ads,Furniture,Desk Lamp,2,600,0,delivered,bank_transfer
+11336,2023-03-23,501,Qatar,Cairo,Social Media,Appliances,Vacuum Cleaner,2,5200,0,delivered,cod
+11337,2026-03-15,130,Qatar,Kuwait City,Social Media,Stationery,Sticky Notes Pack,4,60,10,delivered,card
+11338,2025-06-29,89,Qatar,Alexandria,Social Media,Stationery,Sticky Notes Pack,4,60,0,cancelled,card
+11339,2024-12-25,77,Egypt,Alexandria,Direct,Electronics,Mechanical Keyboard,2,1200,15,delivered,cod
+11340,2025-07-17,323,Egypt,Abu Dhabi,Organic Search,Appliances,Air Fryer,1,3400,15,cancelled,bank_transfer
+11341,2024-10-12,9,Egypt,Alexandria,Direct,Furniture,Standing Desk,1,7800,15,delivered,card
+11342,2024-02-05,497,Qatar,Alexandria,Email,Furniture,Desk Lamp,4,600,0,delivered,card
+11343,2024-02-11,445,Egypt,Kuwait City,Direct,Electronics,Mechanical Keyboard,2,1200,0,shipped,card
+11344,2023-12-31,270,UAE,Abu Dhabi,Direct,Electronics,Wireless Mouse,4,350,15,delivered,cod
+11345,2025-09-18,238,Egypt,Kuwait City,Email,Appliances,Air Fryer,2,3400,0,returned,wallet
+11346,2026-05-09,99,Egypt,Giza,Social Media,Stationery,Whiteboard Markers,4,120,0,delivered,wallet
+11347,2024-10-28,181,Saudi Arabia,Dubai,Organic Search,Furniture,Bookshelf,4,2100,0,delivered,wallet
+11348,2023-09-20,422,Kuwait,Riyadh,Organic Search,Appliances,Electric Kettle,4,950,10,delivered,cod
+11349,2025-11-05,576,Qatar,Dubai,Social Media,Furniture,Standing Desk,4,7800,0,cancelled,cod
+11350,2025-04-22,409,Egypt,Cairo,Social Media,Stationery,Printer Paper (500),4,210,5,delivered,card
+11351,2024-11-26,420,Egypt,Alexandria,Direct,Electronics,Wireless Mouse,3,350,5,delivered,card
+11352,2026-06-10,553,Egypt,Cairo,Email,Accessories,Backpack 20L,3,1400,0,delivered,cod
+11353,2024-12-23,51,UAE,Riyadh,Social Media,Appliances,Vacuum Cleaner,1,5200,15,shipped,card
+11354,2023-11-18,235,Egypt,Alexandria,Social Media,Appliances,Vacuum Cleaner,4,5200,15,delivered,wallet
+11355,2024-03-17,37,Qatar,Cairo,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,bank_transfer
+11356,2025-03-25,290,Egypt,Cairo,Paid Ads,Appliances,Electric Kettle,1,950,0,cancelled,card
+11357,2023-03-11,411,Egypt,Jeddah,Organic Search,Furniture,Desk Lamp,1,600,5,delivered,card
+11358,2025-10-30,555,UAE,Alexandria,Organic Search,Stationery,Sticky Notes Pack,1,60,0,cancelled,bank_transfer
+11359,2025-03-12,436,UAE,Cairo,Social Media,Furniture,Standing Desk,3,7800,0,delivered,wallet
+11360,2024-02-20,591,Saudi Arabia,Abu Dhabi,Social Media,Electronics,27-inch Monitor,3,5200,15,delivered,card
+11361,2024-03-31,292,Kuwait,Doha,Direct,Stationery,Sticky Notes Pack,3,60,5,delivered,wallet
+11362,2023-02-05,560,Kuwait,Giza,Email,Appliances,Electric Kettle,4,950,0,delivered,bank_transfer
+11363,2023-02-20,379,Saudi Arabia,Giza,Social Media,Stationery,Printer Paper (500),2,210,5,delivered,card
+11364,2026-07-14,174,Egypt,Kuwait City,Direct,Electronics,Mechanical Keyboard,1,1200,10,delivered,card
+11365,2023-10-17,581,Qatar,Riyadh,Organic Search,Stationery,Printer Paper (500),4,210,10,returned,wallet
+11366,2024-05-31,346,Qatar,Alexandria,Organic Search,Stationery,Sticky Notes Pack,3,60,15,delivered,bank_transfer
+11367,2026-05-11,215,Qatar,Doha,Email,Stationery,Sticky Notes Pack,1,60,0,shipped,wallet
+11368,2024-10-03,495,UAE,Doha,Organic Search,Furniture,Bookshelf,3,2100,5,delivered,wallet
+11369,2023-06-08,166,UAE,Giza,Paid Ads,Stationery,Printer Paper (500),2,210,0,delivered,wallet
+11370,2023-08-21,175,Kuwait,Doha,Email,Electronics,Wireless Mouse,4,350,5,delivered,bank_transfer
+11371,2025-05-06,121,Saudi Arabia,Jeddah,Social Media,Stationery,Printer Paper (500),1,210,0,shipped,cod
+11372,2026-06-13,298,UAE,Riyadh,Direct,Stationery,Whiteboard Markers,2,120,0,cancelled,cod
+11373,2025-11-29,474,Egypt,Dubai,Paid Ads,Accessories,Backpack 20L,3,1400,5,delivered,bank_transfer
+11374,2025-08-28,184,Egypt,Kuwait City,Organic Search,Electronics,Laptop Pro 15,3,18500,5,delivered,cod
+11375,2024-01-20,470,Egypt,Giza,Organic Search,Furniture,Standing Desk,1,7800,10,shipped,wallet
+11376,2026-05-02,573,Egypt,Dubai,Organic Search,Furniture,Office Chair,1,4500,0,delivered,cod
+11377,2024-08-05,413,Egypt,Doha,Direct,Stationery,Sticky Notes Pack,3,60,0,cancelled,card
+11378,2023-06-08,222,Egypt,Alexandria,Social Media,Accessories,Water Bottle 1L,2,180,0,shipped,card
+11379,2023-09-17,590,Qatar,Jeddah,Direct,Appliances,Air Fryer,4,3400,0,cancelled,wallet
+11380,2024-03-04,222,Egypt,Alexandria,Paid Ads,Furniture,Office Chair,1,4500,0,delivered,wallet
+11381,2023-01-01,141,UAE,Kuwait City,Email,Stationery,Ballpoint Pens (10),1,85,0,cancelled,wallet
+11382,2024-10-31,574,Saudi Arabia,Abu Dhabi,Email,Stationery,Notebook A5,1,45,0,cancelled,wallet
+11383,2024-12-28,81,UAE,Riyadh,Paid Ads,Stationery,Notebook A5,3,45,10,cancelled,cod
+11384,2023-10-20,257,Kuwait,Giza,Direct,Stationery,Sticky Notes Pack,4,60,5,delivered,cod
+11385,2023-12-31,355,Kuwait,Abu Dhabi,Paid Ads,Electronics,Laptop Pro 15,3,18500,5,shipped,bank_transfer
+11386,2024-01-27,11,Egypt,Kuwait City,Social Media,Stationery,Printer Paper (500),3,210,0,shipped,card
+11387,2023-01-12,97,Egypt,Jeddah,Direct,Accessories,Water Bottle 1L,3,180,0,delivered,bank_transfer
+11388,2024-07-13,491,Saudi Arabia,Cairo,Social Media,Electronics,Wireless Mouse,3,350,15,delivered,card
+11389,2026-03-17,466,Saudi Arabia,Alexandria,Email,Electronics,Laptop Pro 15,4,18500,10,cancelled,bank_transfer
+11390,2023-08-01,157,Kuwait,Alexandria,Paid Ads,Electronics,Wireless Mouse,3,350,0,delivered,wallet
+11391,2023-09-02,64,Egypt,Giza,Direct,Electronics,Wireless Mouse,4,350,15,delivered,card
+11392,2026-06-11,325,Kuwait,Alexandria,Direct,Electronics,Laptop Pro 15,3,18500,15,cancelled,cod
+11393,2025-11-23,63,Egypt,Riyadh,Direct,Electronics,Laptop Pro 15,4,18500,5,delivered,cod
+11394,2023-06-21,283,UAE,Riyadh,Direct,Furniture,Office Chair,4,4500,0,delivered,card
+11395,2026-07-25,575,Egypt,Giza,Social Media,Electronics,Laptop Pro 15,3,18500,0,delivered,bank_transfer
+11396,2023-06-26,120,Egypt,Alexandria,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+11397,2026-04-25,223,Kuwait,Dubai,Email,Electronics,Laptop Pro 15,2,18500,0,delivered,card
+11398,2024-09-22,55,Saudi Arabia,Jeddah,Paid Ads,Furniture,Standing Desk,2,7800,0,delivered,card
+11399,2026-03-03,193,Egypt,Riyadh,Paid Ads,Stationery,Ballpoint Pens (10),4,85,0,delivered,cod
+11400,2025-06-19,364,UAE,Dubai,Social Media,Furniture,Desk Lamp,1,600,5,returned,bank_transfer
+11401,2025-07-09,395,Egypt,Doha,Direct,Furniture,Office Chair,1,4500,10,delivered,wallet
+11402,2024-12-11,516,UAE,Jeddah,Organic Search,Stationery,Notebook A5,2,45,0,shipped,card
+11403,2024-06-12,33,Egypt,Doha,Paid Ads,Furniture,Standing Desk,4,7800,0,delivered,card
+11404,2025-08-14,578,Saudi Arabia,Cairo,Social Media,Accessories,Water Bottle 1L,3,180,0,cancelled,card
+11405,2026-07-13,432,Saudi Arabia,Dubai,Social Media,Stationery,Whiteboard Markers,1,120,0,cancelled,card
+11406,2024-01-19,479,UAE,Alexandria,Organic Search,Stationery,Whiteboard Markers,3,120,0,delivered,bank_transfer
+11407,2025-07-23,409,Saudi Arabia,Riyadh,Social Media,Accessories,Water Bottle 1L,4,180,15,cancelled,cod
+11408,2026-05-15,411,Egypt,Cairo,Paid Ads,Stationery,Ballpoint Pens (10),4,85,15,returned,bank_transfer
+11409,2023-08-09,592,Saudi Arabia,Cairo,Paid Ads,Stationery,Sticky Notes Pack,4,60,0,shipped,card
+11410,2024-09-07,143,Egypt,Dubai,Organic Search,Accessories,Backpack 20L,2,1400,10,delivered,cod
+11411,2023-10-17,170,Saudi Arabia,Cairo,Paid Ads,Stationery,Whiteboard Markers,4,120,5,delivered,card
+11412,2024-09-09,242,Qatar,Riyadh,Email,Stationery,Notebook A5,1,45,0,delivered,card
+11413,2023-11-12,489,Egypt,Dubai,Organic Search,Appliances,Vacuum Cleaner,3,5200,0,delivered,bank_transfer
+11414,2025-03-18,386,Qatar,Kuwait City,Paid Ads,Furniture,Standing Desk,4,7800,15,returned,card
+11415,2025-03-04,410,Qatar,Dubai,Social Media,Electronics,USB-C Hub,3,800,0,returned,wallet
+11416,2026-05-07,501,Kuwait,Cairo,Paid Ads,Stationery,Printer Paper (500),1,210,0,shipped,card
+11417,2024-04-26,514,Qatar,Cairo,Direct,Stationery,Whiteboard Markers,3,120,0,shipped,wallet
+11418,2023-06-08,193,Egypt,Riyadh,Social Media,Furniture,Bookshelf,2,2100,5,delivered,card
+11419,2024-11-26,155,Egypt,Jeddah,Email,Stationery,Printer Paper (500),2,210,5,cancelled,wallet
+11420,2023-03-13,168,Saudi Arabia,Doha,Organic Search,Furniture,Desk Lamp,4,600,0,delivered,card
+11421,2024-12-10,165,Egypt,Alexandria,Direct,Electronics,27-inch Monitor,4,5200,0,shipped,wallet
+11422,2025-07-20,412,Saudi Arabia,Cairo,Social Media,Electronics,Laptop Pro 15,4,18500,15,delivered,cod
+11423,2026-07-22,382,Qatar,Kuwait City,Social Media,Electronics,27-inch Monitor,4,5200,10,returned,bank_transfer
+11424,2025-01-17,545,Qatar,Abu Dhabi,Organic Search,Electronics,27-inch Monitor,2,5200,5,delivered,card
+11425,2024-11-21,528,Qatar,Kuwait City,Email,Accessories,Water Bottle 1L,3,180,0,delivered,wallet
+11426,2024-07-30,472,Egypt,Cairo,Direct,Electronics,Wireless Mouse,1,350,5,cancelled,cod
+11427,2024-05-31,304,Qatar,Cairo,Direct,Stationery,Sticky Notes Pack,3,60,15,delivered,card
+11428,2024-08-23,458,Egypt,Jeddah,Organic Search,Stationery,Whiteboard Markers,4,120,0,shipped,card
+11429,2025-01-01,180,Egypt,Doha,Organic Search,Electronics,Wireless Mouse,4,350,0,delivered,card
+11430,2026-07-20,354,Saudi Arabia,Riyadh,Direct,Appliances,Electric Kettle,4,950,0,shipped,wallet
+11431,2023-03-25,40,Egypt,Giza,Email,Electronics,Mechanical Keyboard,3,1200,0,shipped,card
+11432,2024-11-22,23,Egypt,Jeddah,Organic Search,Stationery,Notebook A5,4,45,5,returned,wallet
+11433,2023-08-27,527,UAE,Riyadh,Organic Search,Furniture,Standing Desk,3,7800,0,delivered,bank_transfer
+11434,2025-08-26,191,Egypt,Doha,Organic Search,Furniture,Standing Desk,4,7800,0,shipped,wallet
+11435,2024-01-07,417,Egypt,Cairo,Email,Stationery,Notebook A5,3,45,0,cancelled,card
+11436,2024-07-16,326,Egypt,Riyadh,Paid Ads,Furniture,Desk Lamp,4,600,10,delivered,cod
+11437,2024-03-28,472,UAE,Abu Dhabi,Direct,Electronics,Mechanical Keyboard,3,1200,15,delivered,bank_transfer
+11438,2025-03-07,349,Egypt,Dubai,Email,Appliances,Electric Kettle,1,950,0,delivered,wallet
+11439,2025-10-18,400,Egypt,Abu Dhabi,Organic Search,Furniture,Standing Desk,2,7800,15,cancelled,bank_transfer
+11440,2023-06-10,213,Kuwait,Doha,Social Media,Appliances,Electric Kettle,3,950,0,delivered,cod
+11441,2024-10-07,160,UAE,Alexandria,Direct,Appliances,Coffee Maker,4,2600,0,delivered,bank_transfer
+11442,2025-06-02,570,Kuwait,Kuwait City,Paid Ads,Stationery,Sticky Notes Pack,1,60,0,delivered,bank_transfer
+11443,2023-09-27,406,Egypt,Riyadh,Organic Search,Stationery,Printer Paper (500),1,210,0,shipped,cod
+11444,2024-01-01,419,Egypt,Riyadh,Email,Furniture,Office Chair,4,4500,10,shipped,cod
+11445,2024-10-16,326,UAE,Doha,Direct,Stationery,Whiteboard Markers,1,120,15,delivered,card
+11446,2025-04-07,461,Egypt,Alexandria,Email,Appliances,Electric Kettle,4,950,0,delivered,card
+11447,2025-12-26,177,Kuwait,Giza,Email,Stationery,Ballpoint Pens (10),4,85,15,shipped,wallet
+11448,2025-05-06,30,UAE,Riyadh,Paid Ads,Stationery,Sticky Notes Pack,2,60,15,shipped,bank_transfer
+11449,2025-10-27,333,UAE,Riyadh,Paid Ads,Electronics,Mechanical Keyboard,4,1200,0,shipped,wallet
+11450,2023-07-06,399,UAE,Doha,Paid Ads,Stationery,Whiteboard Markers,1,120,15,returned,card
+11451,2025-07-26,484,Kuwait,Riyadh,Social Media,Stationery,Whiteboard Markers,2,120,0,delivered,cod
+11452,2023-05-13,473,Saudi Arabia,Riyadh,Direct,Electronics,Laptop Pro 15,2,18500,10,delivered,card
+11453,2023-12-29,340,Qatar,Alexandria,Paid Ads,Appliances,Coffee Maker,1,2600,10,delivered,card
+11454,2023-01-15,482,Qatar,Abu Dhabi,Organic Search,Electronics,Wireless Mouse,4,350,10,returned,wallet
+11455,2024-06-16,547,Kuwait,Cairo,Email,Appliances,Vacuum Cleaner,1,5200,15,delivered,card
+11456,2024-08-22,410,Kuwait,Doha,Email,Stationery,Printer Paper (500),1,210,0,delivered,card
+11457,2023-08-01,115,Kuwait,Alexandria,Social Media,Electronics,USB-C Hub,3,800,10,delivered,cod
+11458,2023-10-18,271,Egypt,Dubai,Organic Search,Furniture,Bookshelf,4,2100,0,delivered,wallet
+11459,2024-05-16,456,Egypt,Kuwait City,Social Media,Furniture,Desk Lamp,3,600,0,shipped,cod
+11460,2026-05-02,535,Egypt,Cairo,Paid Ads,Electronics,Wireless Mouse,2,350,0,delivered,bank_transfer
+11461,2025-01-12,163,UAE,Jeddah,Email,Stationery,Notebook A5,3,45,15,cancelled,wallet
+11462,2024-08-26,300,Qatar,Abu Dhabi,Social Media,Electronics,USB-C Hub,2,800,0,cancelled,card
+11463,2023-02-27,599,Egypt,Jeddah,Social Media,Furniture,Standing Desk,3,7800,0,cancelled,bank_transfer
+11464,2025-11-24,175,Egypt,Alexandria,Direct,Stationery,Printer Paper (500),4,210,10,returned,bank_transfer
+11465,2024-10-05,497,Kuwait,Alexandria,Direct,Appliances,Air Fryer,3,3400,5,delivered,card
+11466,2025-09-18,67,Egypt,Riyadh,Social Media,Stationery,Printer Paper (500),1,210,15,delivered,card
+11467,2023-11-04,202,Egypt,Kuwait City,Email,Furniture,Desk Lamp,1,600,15,shipped,card
+11468,2025-12-09,34,Saudi Arabia,Giza,Social Media,Furniture,Bookshelf,2,2100,0,shipped,card
+11469,2024-07-09,458,UAE,Doha,Paid Ads,Appliances,Vacuum Cleaner,1,5200,0,delivered,cod
+11470,2024-01-10,468,Egypt,Cairo,Direct,Furniture,Bookshelf,2,2100,15,delivered,bank_transfer
+11471,2024-07-22,66,Egypt,Doha,Social Media,Electronics,Mechanical Keyboard,2,1200,15,delivered,card
+11472,2024-04-11,101,UAE,Cairo,Social Media,Furniture,Bookshelf,4,2100,5,returned,card
+11473,2024-02-07,86,Saudi Arabia,Riyadh,Organic Search,Appliances,Electric Kettle,1,950,5,shipped,bank_transfer
+11474,2024-03-16,583,Egypt,Abu Dhabi,Organic Search,Accessories,Backpack 20L,4,1400,0,cancelled,wallet
+11475,2026-08-09,258,Qatar,Abu Dhabi,Direct,Furniture,Standing Desk,4,7800,0,delivered,wallet
+11476,2026-07-16,495,UAE,Jeddah,Social Media,Furniture,Office Chair,3,4500,10,delivered,bank_transfer
+11477,2024-05-24,575,UAE,Jeddah,Email,Stationery,Ballpoint Pens (10),3,85,15,delivered,card
+11478,2025-09-25,482,Saudi Arabia,Alexandria,Paid Ads,Electronics,Laptop Pro 15,3,18500,10,delivered,wallet
+11479,2024-09-15,552,Qatar,Alexandria,Paid Ads,Electronics,27-inch Monitor,4,5200,0,returned,card
+11480,2024-04-19,313,Egypt,Doha,Email,Furniture,Standing Desk,3,7800,10,delivered,cod
+11481,2026-06-02,161,Egypt,Abu Dhabi,Paid Ads,Furniture,Standing Desk,2,7800,0,returned,card
+11482,2026-06-03,486,Kuwait,Abu Dhabi,Social Media,Furniture,Office Chair,3,4500,10,delivered,cod
+11483,2025-08-24,314,Egypt,Dubai,Social Media,Stationery,Notebook A5,3,45,0,delivered,cod
+11484,2025-05-21,6,Qatar,Abu Dhabi,Organic Search,Accessories,Water Bottle 1L,4,180,5,delivered,cod
+11485,2026-08-15,20,Qatar,Riyadh,Paid Ads,Electronics,USB-C Hub,4,800,0,cancelled,cod
+11486,2024-08-26,438,Qatar,Abu Dhabi,Social Media,Stationery,Whiteboard Markers,1,120,0,shipped,bank_transfer
+11487,2024-02-13,110,Egypt,Riyadh,Paid Ads,Furniture,Standing Desk,4,7800,0,delivered,wallet
+11488,2026-04-29,400,Kuwait,Kuwait City,Paid Ads,Appliances,Electric Kettle,1,950,15,delivered,bank_transfer
+11489,2026-04-15,58,Kuwait,Dubai,Social Media,Stationery,Printer Paper (500),1,210,0,shipped,cod
+11490,2025-06-16,138,Kuwait,Giza,Social Media,Stationery,Notebook A5,1,45,5,returned,wallet
+11491,2023-11-07,205,UAE,Giza,Email,Electronics,USB-C Hub,3,800,10,delivered,cod
+11492,2026-03-18,544,Qatar,Jeddah,Organic Search,Appliances,Vacuum Cleaner,3,5200,10,delivered,card
+11493,2024-10-04,220,Egypt,Dubai,Email,Stationery,Whiteboard Markers,4,120,15,delivered,wallet
+11494,2025-01-11,266,Egypt,Cairo,Paid Ads,Stationery,Ballpoint Pens (10),2,85,15,delivered,wallet
+11495,2025-05-25,542,Egypt,Doha,Social Media,Stationery,Printer Paper (500),4,210,0,delivered,bank_transfer
+11496,2025-06-14,504,Egypt,Dubai,Organic Search,Electronics,Wireless Mouse,3,350,10,cancelled,card
+11497,2026-03-03,163,Qatar,Doha,Organic Search,Electronics,Mechanical Keyboard,1,1200,10,shipped,wallet
+11498,2026-06-03,442,Qatar,Jeddah,Email,Furniture,Standing Desk,1,7800,15,delivered,card
+11499,2026-08-25,590,Egypt,Kuwait City,Direct,Stationery,Ballpoint Pens (10),1,85,0,returned,wallet
+11500,2023-02-13,400,Egypt,Cairo,Paid Ads,Stationery,Printer Paper (500),3,210,0,delivered,wallet
+11501,2023-11-05,335,UAE,Kuwait City,Paid Ads,Furniture,Desk Lamp,2,600,10,returned,bank_transfer
+11502,2024-12-27,152,Egypt,Jeddah,Paid Ads,Accessories,Water Bottle 1L,2,180,0,delivered,card
+11503,2025-12-28,554,Egypt,Giza,Social Media,Accessories,Backpack 20L,1,1400,0,returned,cod
+11504,2024-04-16,168,Saudi Arabia,Jeddah,Paid Ads,Furniture,Standing Desk,2,7800,0,delivered,cod
+11505,2023-02-25,385,Egypt,Kuwait City,Paid Ads,Electronics,USB-C Hub,4,800,0,delivered,card
+11506,2025-07-04,211,Qatar,Abu Dhabi,Direct,Appliances,Coffee Maker,4,2600,0,returned,card
+11507,2023-07-10,215,Egypt,Kuwait City,Direct,Furniture,Office Chair,1,4500,0,delivered,cod
+11508,2025-04-30,520,Egypt,Kuwait City,Social Media,Furniture,Standing Desk,2,7800,0,shipped,card
+11509,2025-07-24,431,Saudi Arabia,Giza,Social Media,Electronics,Laptop Pro 15,1,18500,5,delivered,cod
+11510,2023-05-14,87,Kuwait,Abu Dhabi,Email,Stationery,Sticky Notes Pack,3,60,0,delivered,cod
+11511,2026-08-18,255,Egypt,Cairo,Paid Ads,Stationery,Ballpoint Pens (10),1,85,0,shipped,card
+11512,2023-10-15,215,Qatar,Jeddah,Social Media,Appliances,Electric Kettle,1,950,0,shipped,wallet
+11513,2023-11-19,532,Egypt,Alexandria,Social Media,Stationery,Sticky Notes Pack,2,60,0,delivered,card
+11514,2023-03-03,414,Kuwait,Dubai,Social Media,Appliances,Electric Kettle,2,950,0,shipped,cod
+11515,2023-02-28,482,Egypt,Alexandria,Email,Electronics,Laptop Pro 15,3,18500,0,delivered,bank_transfer
+11516,2025-02-11,103,Egypt,Dubai,Paid Ads,Accessories,Backpack 20L,2,1400,0,delivered,wallet
+11517,2023-05-16,426,Qatar,Doha,Email,Electronics,27-inch Monitor,4,5200,5,delivered,bank_transfer
+11518,2026-07-28,481,Egypt,Alexandria,Social Media,Electronics,Laptop Pro 15,3,18500,5,cancelled,bank_transfer
+11519,2025-01-18,505,Kuwait,Riyadh,Paid Ads,Accessories,Backpack 20L,1,1400,5,delivered,bank_transfer
+11520,2023-09-23,85,Kuwait,Giza,Email,Electronics,USB-C Hub,2,800,15,delivered,bank_transfer
+11521,2023-08-04,190,Kuwait,Jeddah,Social Media,Furniture,Bookshelf,2,2100,0,cancelled,wallet
+11522,2026-04-24,336,Saudi Arabia,Dubai,Paid Ads,Appliances,Air Fryer,3,3400,0,shipped,card
+11523,2025-02-27,15,Egypt,Cairo,Paid Ads,Electronics,Wireless Mouse,2,350,0,delivered,wallet
+11524,2024-10-22,353,Egypt,Abu Dhabi,Email,Electronics,Laptop Pro 15,4,18500,5,delivered,wallet
+11525,2026-06-26,287,Kuwait,Doha,Social Media,Furniture,Desk Lamp,4,600,0,delivered,card
+11526,2024-06-06,468,Kuwait,Giza,Social Media,Stationery,Ballpoint Pens (10),4,85,10,returned,bank_transfer
+11527,2024-06-22,27,UAE,Alexandria,Organic Search,Electronics,Mechanical Keyboard,3,1200,5,delivered,wallet
+11528,2023-08-16,356,Egypt,Kuwait City,Email,Electronics,27-inch Monitor,3,5200,0,shipped,card
+11529,2025-10-30,200,Egypt,Riyadh,Organic Search,Furniture,Office Chair,4,4500,10,delivered,cod
+11530,2025-12-12,544,UAE,Cairo,Direct,Accessories,Backpack 20L,2,1400,10,delivered,bank_transfer
+11531,2024-04-16,163,Egypt,Alexandria,Direct,Appliances,Air Fryer,2,3400,0,delivered,card
+11532,2026-01-12,286,Egypt,Abu Dhabi,Social Media,Accessories,Backpack 20L,4,1400,0,delivered,bank_transfer
+11533,2025-05-12,140,Kuwait,Jeddah,Organic Search,Appliances,Electric Kettle,4,950,0,delivered,cod
+11534,2026-02-12,69,Egypt,Abu Dhabi,Paid Ads,Stationery,Notebook A5,2,45,15,delivered,wallet
+11535,2023-11-25,430,Saudi Arabia,Riyadh,Paid Ads,Furniture,Bookshelf,4,2100,0,returned,cod
+11536,2023-05-25,412,Egypt,Alexandria,Paid Ads,Furniture,Bookshelf,3,2100,0,delivered,card
+11537,2024-07-18,121,UAE,Jeddah,Direct,Stationery,Ballpoint Pens (10),1,85,15,delivered,bank_transfer
+11538,2025-08-22,128,UAE,Kuwait City,Paid Ads,Furniture,Bookshelf,4,2100,0,delivered,cod
+11539,2024-07-11,116,Kuwait,Kuwait City,Email,Electronics,Wireless Mouse,4,350,0,shipped,card
+11540,2025-09-24,106,Egypt,Dubai,Paid Ads,Stationery,Notebook A5,2,45,10,returned,wallet
+11541,2025-06-04,108,Qatar,Jeddah,Social Media,Stationery,Sticky Notes Pack,1,60,15,delivered,bank_transfer
+11542,2024-11-04,86,Egypt,Giza,Email,Stationery,Sticky Notes Pack,3,60,0,delivered,bank_transfer
+11543,2025-10-10,273,Egypt,Kuwait City,Direct,Furniture,Bookshelf,4,2100,15,shipped,bank_transfer
+11544,2025-02-08,111,UAE,Giza,Direct,Accessories,Backpack 20L,4,1400,0,delivered,card
+11545,2024-05-03,41,Egypt,Kuwait City,Email,Stationery,Whiteboard Markers,4,120,5,shipped,bank_transfer
+11546,2023-03-18,27,Egypt,Alexandria,Organic Search,Stationery,Printer Paper (500),4,210,15,cancelled,cod
+11547,2023-07-22,468,Qatar,Jeddah,Social Media,Stationery,Notebook A5,4,45,0,returned,cod
+11548,2024-12-22,49,Egypt,Kuwait City,Social Media,Furniture,Bookshelf,3,2100,5,returned,card
+11549,2024-03-04,411,Qatar,Dubai,Paid Ads,Appliances,Vacuum Cleaner,3,5200,15,returned,wallet
+11550,2023-07-02,552,Kuwait,Riyadh,Social Media,Stationery,Ballpoint Pens (10),3,85,10,returned,cod
+11551,2023-07-27,510,Kuwait,Alexandria,Email,Electronics,Mechanical Keyboard,4,1200,0,delivered,cod
+11552,2025-09-21,371,Qatar,Alexandria,Paid Ads,Stationery,Whiteboard Markers,3,120,5,delivered,card
+11553,2023-08-17,574,Egypt,Doha,Direct,Furniture,Standing Desk,3,7800,10,delivered,wallet
+11554,2026-06-20,93,Kuwait,Abu Dhabi,Social Media,Electronics,Mechanical Keyboard,2,1200,0,delivered,cod
+11555,2025-12-27,395,Egypt,Jeddah,Direct,Stationery,Whiteboard Markers,4,120,0,shipped,card
+11556,2024-10-25,252,UAE,Alexandria,Social Media,Furniture,Bookshelf,4,2100,0,delivered,wallet
+11557,2024-04-04,451,Kuwait,Riyadh,Paid Ads,Furniture,Bookshelf,2,2100,0,delivered,cod
+11558,2024-05-14,425,UAE,Doha,Direct,Electronics,Laptop Pro 15,4,18500,5,delivered,wallet
+11559,2024-01-17,590,Saudi Arabia,Jeddah,Social Media,Appliances,Air Fryer,4,3400,15,returned,cod
+11560,2025-06-02,328,UAE,Dubai,Organic Search,Stationery,Whiteboard Markers,3,120,0,cancelled,card
+11561,2024-10-20,520,Kuwait,Kuwait City,Direct,Furniture,Bookshelf,2,2100,0,delivered,card
+11562,2026-05-22,568,Qatar,Riyadh,Email,Furniture,Bookshelf,3,2100,15,delivered,bank_transfer
+11563,2023-04-19,447,Egypt,Alexandria,Organic Search,Appliances,Coffee Maker,4,2600,5,shipped,wallet
+11564,2026-02-18,152,Egypt,Dubai,Organic Search,Electronics,Wireless Mouse,3,350,5,cancelled,cod
+11565,2026-03-12,503,Saudi Arabia,Alexandria,Email,Furniture,Desk Lamp,1,600,15,delivered,wallet
+11566,2024-09-26,239,UAE,Doha,Email,Appliances,Vacuum Cleaner,3,5200,0,delivered,bank_transfer
+11567,2026-04-16,55,Kuwait,Dubai,Direct,Stationery,Ballpoint Pens (10),1,85,10,delivered,card
+11568,2026-06-11,166,Kuwait,Riyadh,Paid Ads,Electronics,Mechanical Keyboard,4,1200,15,shipped,card
+11569,2024-01-07,123,Egypt,Giza,Organic Search,Electronics,Laptop Pro 15,4,18500,15,delivered,bank_transfer
+11570,2025-03-04,486,Egypt,Dubai,Paid Ads,Stationery,Sticky Notes Pack,4,60,15,delivered,cod
+11571,2024-12-28,512,Egypt,Alexandria,Social Media,Furniture,Office Chair,4,4500,0,delivered,card
+11572,2024-04-09,463,Qatar,Giza,Direct,Stationery,Whiteboard Markers,1,120,0,delivered,card
+11573,2026-05-26,383,Egypt,Alexandria,Organic Search,Electronics,Wireless Mouse,1,350,15,shipped,card
+11574,2023-01-10,29,Qatar,Dubai,Organic Search,Stationery,Ballpoint Pens (10),4,85,0,delivered,card
+11575,2026-07-27,549,Egypt,Dubai,Organic Search,Accessories,Backpack 20L,4,1400,0,returned,card
+11576,2026-05-13,182,UAE,Alexandria,Email,Stationery,Whiteboard Markers,2,120,5,delivered,bank_transfer
+11577,2023-03-21,299,Egypt,Dubai,Paid Ads,Appliances,Vacuum Cleaner,1,5200,0,shipped,bank_transfer
+11578,2023-12-09,159,UAE,Dubai,Email,Electronics,27-inch Monitor,4,5200,0,cancelled,bank_transfer
+11579,2025-03-07,568,Egypt,Dubai,Paid Ads,Appliances,Coffee Maker,1,2600,15,delivered,card
+11580,2024-05-05,43,Egypt,Cairo,Email,Appliances,Electric Kettle,2,950,5,returned,bank_transfer
+11581,2023-07-22,329,UAE,Doha,Direct,Appliances,Air Fryer,1,3400,15,delivered,bank_transfer
+11582,2026-08-10,139,Saudi Arabia,Riyadh,Social Media,Furniture,Standing Desk,3,7800,0,cancelled,wallet
+11583,2025-04-07,503,Egypt,Kuwait City,Organic Search,Stationery,Sticky Notes Pack,4,60,0,delivered,bank_transfer
+11584,2025-09-18,510,Qatar,Jeddah,Organic Search,Accessories,Backpack 20L,4,1400,0,shipped,card
+11585,2024-01-21,585,UAE,Alexandria,Social Media,Electronics,Mechanical Keyboard,3,1200,10,cancelled,card
+11586,2025-12-30,395,Egypt,Dubai,Direct,Electronics,Laptop Pro 15,1,18500,0,delivered,wallet
+11587,2025-11-07,380,Kuwait,Cairo,Paid Ads,Appliances,Air Fryer,2,3400,10,delivered,wallet
+11588,2024-01-16,209,Saudi Arabia,Riyadh,Direct,Furniture,Bookshelf,3,2100,0,cancelled,bank_transfer
+11589,2023-02-01,120,Egypt,Cairo,Paid Ads,Electronics,Wireless Mouse,4,350,0,cancelled,cod
+11590,2023-12-29,412,Egypt,Alexandria,Paid Ads,Stationery,Printer Paper (500),2,210,0,shipped,card
+11591,2026-06-27,585,Kuwait,Jeddah,Paid Ads,Furniture,Desk Lamp,4,600,15,cancelled,cod
+11592,2025-04-18,387,Egypt,Riyadh,Email,Electronics,Laptop Pro 15,4,18500,5,delivered,bank_transfer
+11593,2023-01-22,460,Egypt,Riyadh,Organic Search,Stationery,Printer Paper (500),1,210,15,cancelled,card
+11594,2023-08-25,188,UAE,Dubai,Paid Ads,Furniture,Office Chair,4,4500,0,cancelled,cod
+11595,2025-03-26,584,Egypt,Giza,Organic Search,Stationery,Notebook A5,3,45,0,delivered,card
+11596,2023-06-27,131,UAE,Cairo,Email,Appliances,Vacuum Cleaner,4,5200,0,delivered,card
+11597,2023-08-17,189,Egypt,Giza,Paid Ads,Furniture,Bookshelf,1,2100,5,delivered,bank_transfer
+11598,2025-01-29,43,Kuwait,Doha,Paid Ads,Appliances,Coffee Maker,2,2600,5,returned,card
+11599,2024-10-13,350,Qatar,Jeddah,Paid Ads,Electronics,Wireless Mouse,1,350,0,delivered,wallet
+11600,2024-02-15,157,Egypt,Doha,Organic Search,Electronics,Wireless Mouse,4,350,5,delivered,card
+11601,2026-07-08,450,Egypt,Kuwait City,Organic Search,Furniture,Standing Desk,3,7800,15,returned,card
+11602,2026-05-17,165,Egypt,Doha,Social Media,Appliances,Air Fryer,3,3400,10,delivered,card
+11603,2023-05-14,174,Kuwait,Dubai,Social Media,Stationery,Sticky Notes Pack,1,60,10,delivered,card
+11604,2023-08-01,4,UAE,Cairo,Email,Furniture,Bookshelf,1,2100,5,returned,bank_transfer
+11605,2023-09-03,559,Egypt,Cairo,Email,Furniture,Bookshelf,1,2100,10,shipped,wallet
+11606,2024-08-01,244,Kuwait,Kuwait City,Direct,Accessories,Backpack 20L,4,1400,5,delivered,cod
+11607,2026-07-27,466,UAE,Dubai,Paid Ads,Appliances,Coffee Maker,4,2600,0,delivered,cod
+11608,2026-07-28,165,Egypt,Cairo,Email,Furniture,Office Chair,4,4500,0,returned,cod
+11609,2023-10-22,555,Qatar,Riyadh,Email,Electronics,Wireless Mouse,4,350,5,delivered,cod
+11610,2024-03-02,472,Kuwait,Kuwait City,Email,Stationery,Printer Paper (500),4,210,5,delivered,wallet
+11611,2025-01-14,409,Egypt,Doha,Paid Ads,Stationery,Ballpoint Pens (10),3,85,15,delivered,card
+11612,2024-01-27,373,Saudi Arabia,Doha,Email,Accessories,Water Bottle 1L,2,180,15,delivered,cod
+11613,2024-03-13,112,UAE,Kuwait City,Social Media,Stationery,Printer Paper (500),2,210,5,returned,bank_transfer
+11614,2025-04-24,346,UAE,Alexandria,Email,Electronics,Wireless Mouse,2,350,0,shipped,wallet
+11615,2024-01-05,212,Saudi Arabia,Alexandria,Social Media,Appliances,Coffee Maker,1,2600,15,cancelled,bank_transfer
+11616,2023-11-16,422,Egypt,Kuwait City,Paid Ads,Stationery,Printer Paper (500),2,210,0,returned,card
+11617,2025-09-23,100,Qatar,Giza,Organic Search,Stationery,Ballpoint Pens (10),1,85,15,delivered,card
+11618,2023-04-19,366,Egypt,Alexandria,Paid Ads,Stationery,Ballpoint Pens (10),1,85,0,delivered,card
+11619,2025-01-13,458,Saudi Arabia,Dubai,Paid Ads,Accessories,Backpack 20L,3,1400,10,delivered,cod
+11620,2023-07-27,168,Saudi Arabia,Giza,Direct,Appliances,Vacuum Cleaner,2,5200,0,shipped,wallet
+11621,2023-11-21,288,Kuwait,Riyadh,Organic Search,Appliances,Vacuum Cleaner,4,5200,15,cancelled,card
+11622,2025-06-30,391,Saudi Arabia,Abu Dhabi,Email,Electronics,27-inch Monitor,1,5200,0,delivered,card
+11623,2026-04-15,586,Egypt,Kuwait City,Organic Search,Stationery,Whiteboard Markers,4,120,10,delivered,bank_transfer
+11624,2024-12-05,71,Egypt,Alexandria,Direct,Stationery,Ballpoint Pens (10),1,85,0,delivered,wallet
+11625,2023-11-03,329,Egypt,Giza,Social Media,Electronics,27-inch Monitor,2,5200,15,shipped,wallet
+11626,2023-02-02,374,Qatar,Jeddah,Paid Ads,Accessories,Backpack 20L,4,1400,0,shipped,cod
+11627,2025-12-01,171,Egypt,Riyadh,Social Media,Electronics,Laptop Pro 15,4,18500,0,delivered,wallet
+11628,2025-06-05,470,Kuwait,Giza,Social Media,Stationery,Ballpoint Pens (10),1,85,0,shipped,card
+11629,2023-09-25,588,Egypt,Jeddah,Email,Accessories,Backpack 20L,1,1400,15,delivered,wallet
+11630,2025-02-17,277,Kuwait,Abu Dhabi,Social Media,Stationery,Printer Paper (500),1,210,15,delivered,bank_transfer
+11631,2025-05-19,355,Kuwait,Jeddah,Direct,Stationery,Sticky Notes Pack,3,60,0,delivered,wallet
+11632,2024-07-30,87,Qatar,Dubai,Direct,Furniture,Desk Lamp,1,600,5,delivered,card
+11633,2023-09-21,182,Egypt,Giza,Paid Ads,Electronics,27-inch Monitor,2,5200,0,shipped,card
+11634,2023-06-28,14,Kuwait,Dubai,Direct,Electronics,Mechanical Keyboard,1,1200,15,delivered,card
+11635,2026-04-08,109,UAE,Giza,Organic Search,Appliances,Coffee Maker,3,2600,15,cancelled,card
+11636,2024-02-13,94,Egypt,Abu Dhabi,Paid Ads,Electronics,Mechanical Keyboard,2,1200,0,delivered,card
+11637,2023-06-12,543,Egypt,Kuwait City,Paid Ads,Stationery,Printer Paper (500),3,210,15,cancelled,wallet
+11638,2026-05-24,63,Saudi Arabia,Alexandria,Direct,Furniture,Office Chair,4,4500,0,delivered,card
+11639,2023-12-27,556,UAE,Riyadh,Organic Search,Furniture,Standing Desk,3,7800,0,cancelled,card
+11640,2024-01-21,167,Saudi Arabia,Jeddah,Direct,Furniture,Office Chair,3,4500,0,delivered,bank_transfer
+11641,2026-08-04,257,Qatar,Dubai,Paid Ads,Stationery,Notebook A5,2,45,5,shipped,card
+11642,2024-05-30,64,Egypt,Kuwait City,Social Media,Stationery,Notebook A5,2,45,0,cancelled,card
+11643,2026-06-23,457,Egypt,Giza,Social Media,Stationery,Sticky Notes Pack,1,60,15,shipped,cod
+11644,2026-05-25,327,Saudi Arabia,Dubai,Email,Electronics,Mechanical Keyboard,3,1200,15,delivered,wallet
+11645,2024-09-06,195,Egypt,Alexandria,Organic Search,Appliances,Electric Kettle,3,950,10,cancelled,cod
+11646,2025-04-19,413,Saudi Arabia,Kuwait City,Email,Appliances,Coffee Maker,4,2600,0,delivered,card
+11647,2025-02-28,325,Saudi Arabia,Alexandria,Email,Stationery,Sticky Notes Pack,1,60,0,delivered,card
+11648,2025-06-08,189,Egypt,Giza,Organic Search,Furniture,Office Chair,2,4500,10,delivered,wallet
+11649,2023-11-03,23,Saudi Arabia,Abu Dhabi,Paid Ads,Furniture,Desk Lamp,3,600,0,delivered,bank_transfer
+11650,2024-07-22,512,Saudi Arabia,Abu Dhabi,Paid Ads,Furniture,Bookshelf,2,2100,5,delivered,card
+11651,2024-12-24,489,UAE,Jeddah,Paid Ads,Electronics,27-inch Monitor,1,5200,0,delivered,bank_transfer
+11652,2025-10-09,14,Egypt,Alexandria,Social Media,Furniture,Standing Desk,4,7800,5,cancelled,cod
+11653,2026-06-20,133,UAE,Jeddah,Social Media,Stationery,Sticky Notes Pack,1,60,10,cancelled,cod
+11654,2023-09-20,19,Saudi Arabia,Dubai,Email,Stationery,Whiteboard Markers,4,120,0,delivered,card
+11655,2024-10-30,488,Qatar,Jeddah,Direct,Furniture,Bookshelf,3,2100,15,delivered,bank_transfer
+11656,2024-11-09,587,Egypt,Riyadh,Paid Ads,Furniture,Standing Desk,2,7800,0,delivered,bank_transfer
+11657,2025-08-20,98,Saudi Arabia,Alexandria,Direct,Electronics,Laptop Pro 15,3,18500,10,delivered,card
+11658,2025-12-19,273,Egypt,Kuwait City,Email,Appliances,Electric Kettle,4,950,10,returned,card
+11659,2024-07-19,486,Egypt,Riyadh,Organic Search,Electronics,USB-C Hub,3,800,0,delivered,cod
+11660,2026-06-25,328,Saudi Arabia,Dubai,Direct,Appliances,Electric Kettle,2,950,0,shipped,card
+11661,2026-08-15,63,Kuwait,Riyadh,Direct,Furniture,Standing Desk,1,7800,0,returned,bank_transfer
+11662,2024-08-01,12,Egypt,Jeddah,Paid Ads,Furniture,Bookshelf,4,2100,5,delivered,cod
+11663,2023-02-21,378,Saudi Arabia,Alexandria,Email,Electronics,Laptop Pro 15,4,18500,0,cancelled,wallet
+11664,2026-02-11,111,Egypt,Kuwait City,Social Media,Furniture,Office Chair,4,4500,0,delivered,bank_transfer
+11665,2025-07-17,132,Egypt,Cairo,Organic Search,Stationery,Notebook A5,2,45,10,delivered,cod
+11666,2026-02-05,323,Qatar,Abu Dhabi,Direct,Appliances,Electric Kettle,3,950,0,delivered,wallet
+11667,2026-08-16,335,UAE,Cairo,Social Media,Stationery,Ballpoint Pens (10),4,85,0,delivered,bank_transfer
+11668,2026-03-10,136,Saudi Arabia,Giza,Organic Search,Electronics,Wireless Mouse,1,350,15,delivered,card
+11669,2023-07-29,241,Egypt,Dubai,Social Media,Appliances,Air Fryer,2,3400,15,delivered,card
+11670,2025-04-25,411,UAE,Cairo,Direct,Stationery,Ballpoint Pens (10),1,85,5,delivered,wallet
+11671,2023-11-14,460,Egypt,Giza,Social Media,Appliances,Vacuum Cleaner,1,5200,0,delivered,card
+11672,2023-04-26,231,Saudi Arabia,Cairo,Organic Search,Appliances,Vacuum Cleaner,1,5200,0,delivered,card
+11673,2023-11-09,397,Qatar,Abu Dhabi,Organic Search,Electronics,USB-C Hub,3,800,0,shipped,cod
+11674,2025-10-05,70,Egypt,Riyadh,Direct,Electronics,Laptop Pro 15,4,18500,10,delivered,card
+11675,2024-04-15,358,Kuwait,Giza,Direct,Accessories,Water Bottle 1L,4,180,0,delivered,bank_transfer
+11676,2023-12-03,550,Egypt,Jeddah,Social Media,Stationery,Printer Paper (500),2,210,0,shipped,cod
+11677,2025-11-12,263,Egypt,Riyadh,Social Media,Stationery,Printer Paper (500),2,210,0,delivered,wallet
+11678,2023-09-02,457,UAE,Doha,Email,Stationery,Notebook A5,4,45,0,delivered,card
+11679,2023-08-19,211,Egypt,Jeddah,Paid Ads,Electronics,Wireless Mouse,4,350,0,shipped,cod
+11680,2025-01-09,236,UAE,Jeddah,Paid Ads,Appliances,Coffee Maker,1,2600,15,shipped,card
+11681,2024-09-26,342,Egypt,Kuwait City,Email,Electronics,Laptop Pro 15,2,18500,0,cancelled,cod
+11682,2025-07-26,492,UAE,Jeddah,Paid Ads,Stationery,Printer Paper (500),2,210,5,delivered,bank_transfer
+11683,2023-08-08,52,Qatar,Cairo,Social Media,Electronics,Laptop Pro 15,1,18500,10,delivered,cod
+11684,2025-06-30,55,Egypt,Riyadh,Paid Ads,Stationery,Printer Paper (500),2,210,0,delivered,cod
+11685,2023-06-05,23,Egypt,Cairo,Organic Search,Furniture,Desk Lamp,4,600,15,delivered,card
+11686,2024-06-22,32,Saudi Arabia,Alexandria,Organic Search,Appliances,Coffee Maker,2,2600,0,delivered,card
+11687,2024-04-25,24,Kuwait,Kuwait City,Organic Search,Appliances,Coffee Maker,3,2600,0,cancelled,card
+11688,2024-03-17,387,Egypt,Cairo,Email,Electronics,Mechanical Keyboard,4,1200,15,delivered,wallet
+11689,2025-04-24,46,Kuwait,Giza,Social Media,Furniture,Office Chair,1,4500,10,cancelled,cod
+11690,2025-09-08,279,Qatar,Riyadh,Paid Ads,Furniture,Standing Desk,3,7800,0,cancelled,wallet
+11691,2023-01-04,501,Qatar,Riyadh,Organic Search,Electronics,Wireless Mouse,4,350,10,delivered,cod
+11692,2023-07-01,484,UAE,Alexandria,Social Media,Accessories,Backpack 20L,3,1400,5,cancelled,cod
+11693,2026-02-02,356,Saudi Arabia,Alexandria,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,cod
+11694,2025-08-15,507,Kuwait,Doha,Email,Stationery,Whiteboard Markers,3,120,0,delivered,wallet
+11695,2023-06-27,341,Egypt,Kuwait City,Email,Accessories,Backpack 20L,3,1400,0,returned,bank_transfer
+11696,2023-12-03,149,UAE,Dubai,Direct,Electronics,Wireless Mouse,3,350,10,cancelled,card
+11697,2026-03-20,406,Egypt,Abu Dhabi,Organic Search,Electronics,USB-C Hub,2,800,15,shipped,bank_transfer
+11698,2023-03-27,5,Egypt,Doha,Paid Ads,Appliances,Air Fryer,1,3400,10,cancelled,card
+11699,2024-11-16,383,UAE,Abu Dhabi,Direct,Appliances,Electric Kettle,1,950,0,cancelled,wallet
+11700,2024-03-24,418,Kuwait,Giza,Paid Ads,Accessories,Water Bottle 1L,3,180,15,cancelled,wallet
+11701,2023-11-15,111,Saudi Arabia,Alexandria,Organic Search,Furniture,Standing Desk,1,7800,10,cancelled,cod
+11702,2024-05-10,555,Kuwait,Giza,Paid Ads,Stationery,Printer Paper (500),3,210,0,delivered,card
+11703,2023-03-05,191,Qatar,Giza,Organic Search,Stationery,Notebook A5,1,45,0,delivered,wallet
+11704,2023-09-01,413,Egypt,Jeddah,Social Media,Stationery,Sticky Notes Pack,3,60,15,delivered,cod
+11705,2024-03-02,490,Kuwait,Cairo,Email,Stationery,Notebook A5,4,45,10,delivered,wallet
+11706,2024-10-16,485,Qatar,Abu Dhabi,Direct,Stationery,Whiteboard Markers,1,120,0,returned,card
+11707,2025-05-15,503,Egypt,Abu Dhabi,Organic Search,Accessories,Water Bottle 1L,3,180,15,delivered,card
+11708,2025-08-30,252,Kuwait,Giza,Email,Furniture,Desk Lamp,1,600,0,delivered,cod
+11709,2024-05-09,331,Egypt,Doha,Email,Accessories,Backpack 20L,4,1400,0,delivered,bank_transfer
+11710,2025-04-20,132,UAE,Cairo,Direct,Electronics,27-inch Monitor,1,5200,15,delivered,card
+11711,2025-10-25,579,Saudi Arabia,Doha,Organic Search,Furniture,Office Chair,4,4500,0,delivered,bank_transfer
+11712,2023-08-29,463,Egypt,Alexandria,Organic Search,Appliances,Air Fryer,4,3400,0,delivered,bank_transfer
+11713,2024-11-09,159,Qatar,Giza,Paid Ads,Stationery,Sticky Notes Pack,1,60,15,delivered,wallet
+11714,2024-05-25,181,Qatar,Abu Dhabi,Organic Search,Electronics,Laptop Pro 15,4,18500,15,delivered,card
+11715,2024-04-02,456,Qatar,Giza,Organic Search,Stationery,Ballpoint Pens (10),4,85,0,delivered,card
+11716,2023-09-28,509,Egypt,Abu Dhabi,Organic Search,Accessories,Backpack 20L,1,1400,5,cancelled,bank_transfer
+11717,2025-01-24,486,Egypt,Jeddah,Email,Appliances,Vacuum Cleaner,1,5200,5,shipped,wallet
+11718,2023-05-18,367,Saudi Arabia,Abu Dhabi,Direct,Electronics,Mechanical Keyboard,1,1200,0,delivered,card
+11719,2023-09-05,585,Egypt,Riyadh,Email,Electronics,Laptop Pro 15,2,18500,0,cancelled,bank_transfer
+11720,2025-02-03,69,Qatar,Alexandria,Direct,Appliances,Vacuum Cleaner,3,5200,5,delivered,card
+11721,2026-02-20,151,Egypt,Alexandria,Email,Electronics,Wireless Mouse,2,350,0,delivered,cod
+11722,2023-05-03,538,Kuwait,Jeddah,Direct,Appliances,Air Fryer,1,3400,0,shipped,card
+11723,2024-09-13,492,Qatar,Riyadh,Paid Ads,Electronics,USB-C Hub,3,800,0,cancelled,wallet
+11724,2025-09-06,177,Saudi Arabia,Doha,Direct,Appliances,Electric Kettle,2,950,0,returned,card
+11725,2023-10-27,490,UAE,Giza,Direct,Electronics,USB-C Hub,2,800,0,delivered,card
+11726,2026-07-07,269,Saudi Arabia,Cairo,Email,Stationery,Sticky Notes Pack,3,60,0,delivered,cod
+11727,2025-03-19,383,Saudi Arabia,Kuwait City,Direct,Electronics,Laptop Pro 15,2,18500,15,returned,card
+11728,2023-09-18,162,Egypt,Doha,Social Media,Appliances,Electric Kettle,4,950,15,delivered,card
+11729,2025-06-05,68,UAE,Giza,Paid Ads,Accessories,Backpack 20L,1,1400,5,returned,card
+11730,2025-01-26,476,Kuwait,Dubai,Social Media,Furniture,Desk Lamp,4,600,0,returned,bank_transfer
+11731,2026-05-24,524,Saudi Arabia,Abu Dhabi,Direct,Stationery,Ballpoint Pens (10),3,85,5,cancelled,bank_transfer
+11732,2026-05-24,346,Egypt,Kuwait City,Social Media,Accessories,Backpack 20L,2,1400,5,shipped,bank_transfer
+11733,2026-06-16,275,Egypt,Jeddah,Direct,Electronics,Mechanical Keyboard,3,1200,15,shipped,card
+11734,2024-10-03,196,Egypt,Jeddah,Paid Ads,Stationery,Ballpoint Pens (10),2,85,10,returned,cod
+11735,2025-11-26,435,Kuwait,Riyadh,Direct,Stationery,Sticky Notes Pack,3,60,0,returned,card
+11736,2024-08-27,556,UAE,Dubai,Paid Ads,Furniture,Standing Desk,3,7800,15,returned,wallet
+11737,2026-04-06,299,Kuwait,Riyadh,Paid Ads,Appliances,Air Fryer,2,3400,0,shipped,cod
+11738,2024-01-10,402,Saudi Arabia,Jeddah,Direct,Appliances,Electric Kettle,3,950,0,delivered,bank_transfer
+11739,2024-11-30,74,Egypt,Giza,Email,Electronics,USB-C Hub,3,800,10,returned,bank_transfer
+11740,2025-03-16,261,Saudi Arabia,Kuwait City,Direct,Electronics,Laptop Pro 15,1,18500,0,shipped,cod
+11741,2025-11-12,273,Egypt,Abu Dhabi,Email,Accessories,Water Bottle 1L,4,180,0,shipped,card
+11742,2025-09-02,123,Egypt,Alexandria,Organic Search,Stationery,Sticky Notes Pack,4,60,0,delivered,card
+11743,2023-03-26,562,UAE,Jeddah,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,returned,card
+11744,2025-05-16,581,Egypt,Cairo,Organic Search,Furniture,Standing Desk,1,7800,15,delivered,bank_transfer
+11745,2024-07-21,237,Egypt,Jeddah,Direct,Stationery,Notebook A5,4,45,0,delivered,card
+11746,2023-11-07,176,Qatar,Abu Dhabi,Paid Ads,Electronics,Laptop Pro 15,3,18500,0,shipped,bank_transfer
+11747,2023-02-05,277,Qatar,Kuwait City,Organic Search,Furniture,Office Chair,1,4500,10,delivered,card
+11748,2025-04-12,170,Egypt,Riyadh,Social Media,Furniture,Bookshelf,2,2100,5,delivered,card
+11749,2024-05-04,396,Saudi Arabia,Riyadh,Paid Ads,Stationery,Notebook A5,4,45,10,delivered,card
+11750,2025-04-16,394,Qatar,Abu Dhabi,Organic Search,Appliances,Coffee Maker,4,2600,0,shipped,cod
+11751,2024-02-25,351,Egypt,Cairo,Email,Appliances,Electric Kettle,4,950,10,shipped,bank_transfer
+11752,2025-03-05,148,Kuwait,Giza,Direct,Appliances,Coffee Maker,2,2600,0,returned,wallet
+11753,2023-12-11,322,Egypt,Abu Dhabi,Social Media,Stationery,Printer Paper (500),2,210,0,delivered,cod
+11754,2024-04-17,577,Egypt,Giza,Email,Stationery,Printer Paper (500),4,210,0,cancelled,card
+11755,2025-03-07,391,Egypt,Kuwait City,Email,Accessories,Water Bottle 1L,3,180,0,cancelled,wallet
+11756,2025-05-18,357,Egypt,Jeddah,Social Media,Electronics,Mechanical Keyboard,4,1200,0,delivered,wallet
+11757,2023-11-20,530,UAE,Doha,Paid Ads,Furniture,Office Chair,2,4500,10,returned,card
+11758,2025-02-20,93,Kuwait,Alexandria,Organic Search,Stationery,Whiteboard Markers,1,120,0,shipped,bank_transfer
+11759,2023-04-13,262,Saudi Arabia,Alexandria,Social Media,Furniture,Desk Lamp,1,600,10,delivered,wallet
+11760,2024-07-24,320,Egypt,Doha,Organic Search,Furniture,Office Chair,2,4500,5,delivered,card
+11761,2026-06-25,562,Saudi Arabia,Abu Dhabi,Paid Ads,Electronics,Wireless Mouse,2,350,0,delivered,card
+11762,2024-02-05,104,Egypt,Alexandria,Direct,Accessories,Backpack 20L,1,1400,0,delivered,wallet
+11763,2026-02-07,547,Egypt,Riyadh,Organic Search,Stationery,Whiteboard Markers,2,120,0,delivered,card
+11764,2024-07-11,517,Egypt,Abu Dhabi,Paid Ads,Appliances,Air Fryer,1,3400,10,delivered,card
+11765,2025-08-18,377,UAE,Jeddah,Email,Electronics,USB-C Hub,2,800,0,delivered,wallet
+11766,2023-12-25,44,Egypt,Abu Dhabi,Paid Ads,Electronics,27-inch Monitor,2,5200,0,delivered,cod
+11767,2025-08-01,405,UAE,Doha,Email,Appliances,Air Fryer,4,3400,15,shipped,wallet
+11768,2026-08-18,592,Kuwait,Abu Dhabi,Social Media,Appliances,Air Fryer,3,3400,10,shipped,wallet
+11769,2023-12-08,38,Egypt,Giza,Direct,Appliances,Air Fryer,4,3400,0,delivered,cod
+11770,2023-08-25,385,Egypt,Dubai,Organic Search,Accessories,Backpack 20L,4,1400,5,delivered,wallet
+11771,2024-02-11,151,Saudi Arabia,Alexandria,Social Media,Electronics,Laptop Pro 15,2,18500,5,delivered,card
+11772,2023-10-19,259,Saudi Arabia,Abu Dhabi,Email,Electronics,Laptop Pro 15,2,18500,5,cancelled,wallet
+11773,2025-01-30,426,Egypt,Riyadh,Paid Ads,Furniture,Standing Desk,4,7800,0,cancelled,card
+11774,2024-08-28,477,Saudi Arabia,Abu Dhabi,Organic Search,Stationery,Whiteboard Markers,1,120,0,shipped,cod
+11775,2024-12-27,491,Egypt,Dubai,Social Media,Appliances,Air Fryer,4,3400,0,delivered,cod
+11776,2025-11-03,150,Kuwait,Doha,Social Media,Furniture,Office Chair,1,4500,0,delivered,card
+11777,2025-11-09,460,Saudi Arabia,Dubai,Direct,Furniture,Standing Desk,3,7800,0,delivered,cod
+11778,2026-06-27,53,Qatar,Doha,Direct,Stationery,Ballpoint Pens (10),3,85,0,delivered,wallet
+11779,2025-09-25,562,Kuwait,Doha,Organic Search,Stationery,Sticky Notes Pack,1,60,15,delivered,wallet
+11780,2024-11-07,146,Qatar,Riyadh,Organic Search,Appliances,Coffee Maker,3,2600,0,shipped,wallet
+11781,2024-07-18,46,Egypt,Cairo,Paid Ads,Stationery,Printer Paper (500),2,210,0,delivered,wallet
+11782,2026-03-11,438,UAE,Jeddah,Paid Ads,Furniture,Standing Desk,4,7800,0,delivered,card
+11783,2023-12-01,495,Qatar,Giza,Paid Ads,Electronics,Wireless Mouse,3,350,15,delivered,card
+11784,2025-10-07,471,Qatar,Dubai,Direct,Electronics,27-inch Monitor,1,5200,15,cancelled,cod
+11785,2025-08-18,335,UAE,Alexandria,Direct,Furniture,Desk Lamp,3,600,15,shipped,cod
+11786,2026-05-01,445,Saudi Arabia,Jeddah,Social Media,Furniture,Bookshelf,2,2100,0,shipped,cod
+11787,2025-10-18,308,Qatar,Jeddah,Organic Search,Stationery,Printer Paper (500),1,210,10,returned,card
+11788,2026-02-10,476,Egypt,Giza,Direct,Furniture,Bookshelf,2,2100,0,shipped,cod
+11789,2025-04-25,340,Egypt,Giza,Paid Ads,Stationery,Printer Paper (500),4,210,10,delivered,bank_transfer
+11790,2025-09-12,447,Saudi Arabia,Abu Dhabi,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,delivered,wallet
+11791,2023-03-04,316,Egypt,Kuwait City,Email,Stationery,Ballpoint Pens (10),3,85,0,delivered,bank_transfer
+11792,2024-03-14,294,Egypt,Alexandria,Social Media,Stationery,Printer Paper (500),4,210,0,delivered,bank_transfer
+11793,2024-10-31,104,Egypt,Giza,Organic Search,Accessories,Water Bottle 1L,4,180,0,delivered,bank_transfer
+11794,2025-05-27,156,Egypt,Cairo,Email,Appliances,Electric Kettle,1,950,15,delivered,card
+11795,2023-10-01,366,Kuwait,Giza,Organic Search,Stationery,Notebook A5,3,45,15,delivered,cod
+11796,2024-11-07,85,Egypt,Cairo,Paid Ads,Electronics,27-inch Monitor,1,5200,10,returned,card
+11797,2025-03-11,299,UAE,Doha,Organic Search,Appliances,Electric Kettle,1,950,0,returned,bank_transfer
+11798,2024-08-05,267,Egypt,Doha,Organic Search,Electronics,USB-C Hub,1,800,5,delivered,bank_transfer
+11799,2024-04-03,347,Kuwait,Alexandria,Email,Stationery,Notebook A5,1,45,5,returned,wallet
+11800,2025-01-04,411,Saudi Arabia,Riyadh,Social Media,Appliances,Air Fryer,3,3400,0,cancelled,cod
+11801,2024-03-07,159,Egypt,Giza,Organic Search,Furniture,Bookshelf,4,2100,0,shipped,card
+11802,2023-10-30,153,Kuwait,Giza,Social Media,Electronics,27-inch Monitor,4,5200,0,returned,cod
+11803,2024-10-17,494,Saudi Arabia,Abu Dhabi,Organic Search,Accessories,Water Bottle 1L,2,180,15,cancelled,bank_transfer
+11804,2026-04-18,35,Egypt,Alexandria,Email,Stationery,Notebook A5,2,45,5,delivered,cod
+11805,2023-05-16,399,Egypt,Kuwait City,Email,Electronics,Wireless Mouse,1,350,0,cancelled,wallet
+11806,2024-10-24,433,Kuwait,Dubai,Direct,Appliances,Coffee Maker,2,2600,0,returned,card
+11807,2023-01-16,96,Saudi Arabia,Dubai,Paid Ads,Furniture,Office Chair,3,4500,5,delivered,card
+11808,2024-05-06,208,Kuwait,Alexandria,Email,Appliances,Air Fryer,4,3400,0,delivered,card
+11809,2026-07-17,382,Egypt,Cairo,Organic Search,Stationery,Whiteboard Markers,3,120,10,delivered,bank_transfer
+11810,2024-02-18,518,Egypt,Doha,Email,Furniture,Standing Desk,2,7800,0,shipped,bank_transfer
+11811,2026-06-08,41,Saudi Arabia,Doha,Social Media,Accessories,Backpack 20L,2,1400,5,shipped,wallet
+11812,2023-04-02,418,UAE,Giza,Email,Stationery,Notebook A5,3,45,0,returned,wallet
+11813,2025-08-07,229,Saudi Arabia,Jeddah,Social Media,Accessories,Backpack 20L,2,1400,0,cancelled,card
+11814,2024-04-14,272,Egypt,Doha,Paid Ads,Accessories,Water Bottle 1L,3,180,5,delivered,card
+11815,2025-07-09,441,Egypt,Giza,Social Media,Furniture,Bookshelf,4,2100,0,shipped,bank_transfer
+11816,2025-05-03,53,Saudi Arabia,Riyadh,Direct,Electronics,Laptop Pro 15,3,18500,10,cancelled,bank_transfer
+11817,2024-08-11,575,Kuwait,Dubai,Paid Ads,Electronics,27-inch Monitor,2,5200,5,shipped,card
+11818,2023-01-30,252,Saudi Arabia,Cairo,Organic Search,Stationery,Sticky Notes Pack,1,60,0,delivered,cod
+11819,2023-12-13,166,Saudi Arabia,Riyadh,Paid Ads,Stationery,Notebook A5,3,45,5,delivered,card
+11820,2024-08-14,160,Qatar,Giza,Organic Search,Stationery,Notebook A5,1,45,0,delivered,card
+11821,2024-07-07,346,Egypt,Doha,Direct,Furniture,Office Chair,1,4500,5,delivered,bank_transfer
+11822,2023-09-08,365,Qatar,Giza,Social Media,Appliances,Electric Kettle,3,950,0,delivered,wallet
+11823,2024-01-23,19,UAE,Giza,Organic Search,Appliances,Vacuum Cleaner,3,5200,15,delivered,card
+11824,2024-12-01,360,Egypt,Dubai,Email,Furniture,Office Chair,2,4500,5,returned,wallet
+11825,2023-08-01,172,Egypt,Kuwait City,Direct,Appliances,Air Fryer,4,3400,0,cancelled,card
+11826,2024-04-09,330,Kuwait,Dubai,Paid Ads,Appliances,Electric Kettle,4,950,5,delivered,card
+11827,2025-07-16,364,Egypt,Dubai,Social Media,Furniture,Standing Desk,1,7800,10,delivered,card
+11828,2024-10-07,99,UAE,Doha,Direct,Appliances,Coffee Maker,1,2600,0,returned,card
+11829,2026-04-29,567,UAE,Dubai,Organic Search,Electronics,USB-C Hub,4,800,5,shipped,card
+11830,2026-07-30,550,Qatar,Abu Dhabi,Social Media,Stationery,Ballpoint Pens (10),2,85,0,delivered,card
+11831,2023-04-23,265,Qatar,Abu Dhabi,Paid Ads,Stationery,Notebook A5,2,45,15,delivered,cod
+11832,2025-04-23,511,Egypt,Jeddah,Email,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+11833,2024-08-06,96,Qatar,Alexandria,Direct,Stationery,Ballpoint Pens (10),2,85,15,shipped,bank_transfer
+11834,2023-07-25,271,Qatar,Dubai,Social Media,Stationery,Whiteboard Markers,1,120,0,delivered,card
+11835,2026-03-26,51,Egypt,Jeddah,Direct,Furniture,Standing Desk,1,7800,0,returned,bank_transfer
+11836,2023-06-13,305,Egypt,Abu Dhabi,Organic Search,Appliances,Vacuum Cleaner,3,5200,10,delivered,wallet
+11837,2023-07-10,54,Egypt,Giza,Organic Search,Stationery,Ballpoint Pens (10),3,85,15,shipped,card
+11838,2023-08-07,370,Saudi Arabia,Doha,Organic Search,Appliances,Electric Kettle,1,950,5,delivered,card
+11839,2026-04-25,343,Egypt,Alexandria,Direct,Appliances,Vacuum Cleaner,2,5200,0,cancelled,card
+11840,2026-07-15,130,Egypt,Doha,Paid Ads,Electronics,Laptop Pro 15,4,18500,0,delivered,card
+11841,2025-12-07,561,Egypt,Cairo,Email,Furniture,Desk Lamp,2,600,5,delivered,bank_transfer
+11842,2025-03-06,140,Saudi Arabia,Abu Dhabi,Direct,Furniture,Standing Desk,3,7800,0,delivered,cod
+11843,2024-05-25,431,Egypt,Kuwait City,Organic Search,Accessories,Backpack 20L,1,1400,15,delivered,wallet
+11844,2026-04-24,132,UAE,Alexandria,Direct,Furniture,Standing Desk,3,7800,15,delivered,card
+11845,2023-09-29,48,Kuwait,Giza,Email,Electronics,Wireless Mouse,2,350,0,delivered,card
+11846,2024-07-20,216,Kuwait,Giza,Organic Search,Electronics,27-inch Monitor,1,5200,15,delivered,card
+11847,2024-11-30,151,Kuwait,Giza,Social Media,Furniture,Standing Desk,4,7800,0,delivered,wallet
+11848,2025-02-14,207,Qatar,Alexandria,Paid Ads,Appliances,Air Fryer,3,3400,5,delivered,cod
+11849,2024-01-21,281,Saudi Arabia,Cairo,Social Media,Furniture,Bookshelf,4,2100,5,delivered,wallet
+11850,2025-08-07,470,UAE,Jeddah,Paid Ads,Furniture,Office Chair,1,4500,0,delivered,card
+11851,2024-08-11,182,Saudi Arabia,Cairo,Email,Electronics,USB-C Hub,3,800,0,returned,bank_transfer
+11852,2023-05-14,311,Kuwait,Riyadh,Email,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+11853,2025-09-03,492,Egypt,Kuwait City,Paid Ads,Stationery,Printer Paper (500),3,210,0,delivered,card
+11854,2026-08-14,565,UAE,Alexandria,Organic Search,Appliances,Electric Kettle,4,950,0,delivered,cod
+11855,2025-12-05,529,Qatar,Jeddah,Email,Furniture,Desk Lamp,1,600,0,delivered,card
+11856,2026-03-07,259,Qatar,Riyadh,Direct,Electronics,27-inch Monitor,2,5200,0,returned,bank_transfer
+11857,2026-03-22,509,UAE,Cairo,Paid Ads,Appliances,Air Fryer,2,3400,15,delivered,cod
+11858,2026-02-08,493,Egypt,Alexandria,Organic Search,Stationery,Sticky Notes Pack,3,60,0,cancelled,cod
+11859,2025-05-20,205,Kuwait,Abu Dhabi,Direct,Furniture,Desk Lamp,3,600,10,shipped,bank_transfer
+11860,2024-12-31,201,Egypt,Dubai,Organic Search,Electronics,27-inch Monitor,4,5200,5,returned,cod
+11861,2024-12-31,342,Saudi Arabia,Riyadh,Email,Appliances,Electric Kettle,2,950,10,shipped,card
+11862,2023-06-06,421,Qatar,Cairo,Paid Ads,Electronics,27-inch Monitor,2,5200,0,delivered,wallet
+11863,2025-12-31,562,Saudi Arabia,Alexandria,Paid Ads,Electronics,Mechanical Keyboard,1,1200,15,cancelled,card
+11864,2024-03-23,263,Egypt,Abu Dhabi,Organic Search,Stationery,Whiteboard Markers,1,120,0,delivered,bank_transfer
+11865,2025-07-10,243,UAE,Giza,Organic Search,Furniture,Standing Desk,1,7800,0,returned,cod
+11866,2026-05-10,488,Kuwait,Jeddah,Direct,Appliances,Vacuum Cleaner,2,5200,0,delivered,card
+11867,2025-09-29,103,Egypt,Doha,Direct,Furniture,Standing Desk,4,7800,0,delivered,bank_transfer
+11868,2024-07-22,358,Egypt,Kuwait City,Direct,Electronics,Laptop Pro 15,4,18500,15,cancelled,card
+11869,2023-02-25,282,Egypt,Alexandria,Paid Ads,Electronics,27-inch Monitor,1,5200,15,delivered,card
+11870,2024-01-03,136,Egypt,Kuwait City,Organic Search,Furniture,Standing Desk,2,7800,0,cancelled,wallet
+11871,2024-04-07,121,Kuwait,Riyadh,Social Media,Accessories,Backpack 20L,2,1400,0,cancelled,cod
+11872,2025-06-03,486,Saudi Arabia,Cairo,Paid Ads,Electronics,USB-C Hub,1,800,0,delivered,card
+11873,2025-12-27,87,Qatar,Alexandria,Paid Ads,Furniture,Office Chair,4,4500,0,delivered,card
+11874,2025-04-30,171,Egypt,Doha,Direct,Electronics,27-inch Monitor,4,5200,0,cancelled,bank_transfer
+11875,2026-04-26,162,Qatar,Doha,Direct,Accessories,Water Bottle 1L,3,180,5,delivered,wallet
+11876,2025-05-20,324,Egypt,Riyadh,Organic Search,Furniture,Office Chair,4,4500,0,delivered,wallet
+11877,2024-08-28,596,Egypt,Alexandria,Organic Search,Stationery,Printer Paper (500),4,210,0,delivered,bank_transfer
+11878,2023-08-20,595,Kuwait,Alexandria,Organic Search,Appliances,Vacuum Cleaner,4,5200,5,shipped,card
+11879,2026-01-08,52,UAE,Doha,Organic Search,Furniture,Bookshelf,2,2100,0,delivered,bank_transfer
+11880,2026-02-05,551,Egypt,Jeddah,Social Media,Electronics,Mechanical Keyboard,3,1200,10,delivered,bank_transfer
+11881,2023-10-06,503,Qatar,Riyadh,Paid Ads,Furniture,Office Chair,1,4500,5,returned,card
+11882,2026-07-27,453,Egypt,Abu Dhabi,Direct,Electronics,Mechanical Keyboard,2,1200,10,delivered,cod
+11883,2025-08-01,31,Egypt,Cairo,Organic Search,Furniture,Office Chair,3,4500,0,returned,card
+11884,2023-03-04,600,Egypt,Giza,Paid Ads,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+11885,2025-06-18,27,Kuwait,Alexandria,Social Media,Appliances,Vacuum Cleaner,3,5200,0,delivered,wallet
+11886,2023-08-24,268,Egypt,Giza,Direct,Appliances,Air Fryer,3,3400,0,returned,card
+11887,2026-05-14,503,UAE,Giza,Paid Ads,Accessories,Water Bottle 1L,4,180,0,delivered,cod
+11888,2025-10-23,389,Saudi Arabia,Cairo,Direct,Accessories,Backpack 20L,1,1400,0,delivered,wallet
+11889,2023-02-23,268,Egypt,Abu Dhabi,Social Media,Electronics,Wireless Mouse,1,350,0,cancelled,cod
+11890,2023-07-01,154,Saudi Arabia,Abu Dhabi,Direct,Stationery,Whiteboard Markers,3,120,10,delivered,card
+11891,2025-04-25,234,Egypt,Dubai,Organic Search,Electronics,USB-C Hub,3,800,10,delivered,cod
+11892,2023-12-15,43,UAE,Cairo,Email,Accessories,Water Bottle 1L,4,180,15,delivered,wallet
+11893,2024-03-01,572,Saudi Arabia,Dubai,Organic Search,Furniture,Bookshelf,4,2100,10,returned,bank_transfer
+11894,2026-07-27,67,Egypt,Jeddah,Organic Search,Appliances,Air Fryer,2,3400,0,delivered,wallet
+11895,2024-06-01,542,Kuwait,Cairo,Social Media,Appliances,Air Fryer,1,3400,10,cancelled,cod
+11896,2026-08-11,255,UAE,Riyadh,Email,Furniture,Office Chair,4,4500,5,cancelled,card
+11897,2025-12-18,249,Egypt,Giza,Paid Ads,Electronics,Mechanical Keyboard,4,1200,0,cancelled,wallet
+11898,2026-06-21,586,Kuwait,Jeddah,Email,Stationery,Notebook A5,2,45,10,delivered,card
+11899,2023-02-12,134,Egypt,Doha,Email,Furniture,Bookshelf,4,2100,15,delivered,card
+11900,2024-09-26,42,Qatar,Abu Dhabi,Social Media,Furniture,Desk Lamp,1,600,5,cancelled,wallet
+11901,2023-11-17,44,Egypt,Abu Dhabi,Paid Ads,Stationery,Whiteboard Markers,3,120,0,cancelled,cod
+11902,2024-11-27,197,Qatar,Cairo,Organic Search,Appliances,Vacuum Cleaner,2,5200,0,delivered,wallet
+11903,2024-09-22,526,UAE,Doha,Direct,Stationery,Sticky Notes Pack,3,60,0,delivered,card
+11904,2023-08-12,513,UAE,Alexandria,Social Media,Stationery,Whiteboard Markers,2,120,10,delivered,card
+11905,2025-08-11,349,Egypt,Jeddah,Organic Search,Accessories,Backpack 20L,1,1400,15,returned,cod
+11906,2024-05-04,364,Egypt,Doha,Social Media,Furniture,Standing Desk,2,7800,0,shipped,cod
+11907,2023-09-08,105,Egypt,Giza,Direct,Stationery,Printer Paper (500),2,210,0,delivered,bank_transfer
+11908,2025-08-13,204,Egypt,Giza,Paid Ads,Electronics,27-inch Monitor,1,5200,10,delivered,card
+11909,2023-10-03,41,Saudi Arabia,Cairo,Organic Search,Stationery,Printer Paper (500),3,210,0,delivered,bank_transfer
+11910,2025-10-31,98,Saudi Arabia,Doha,Email,Appliances,Electric Kettle,3,950,5,returned,bank_transfer
+11911,2025-12-10,214,Qatar,Cairo,Organic Search,Electronics,Laptop Pro 15,1,18500,0,shipped,card
+11912,2024-11-16,131,Qatar,Doha,Organic Search,Stationery,Sticky Notes Pack,1,60,10,delivered,wallet
+11913,2024-11-14,291,Qatar,Giza,Email,Appliances,Electric Kettle,4,950,0,delivered,bank_transfer
+11914,2024-03-13,355,Egypt,Cairo,Organic Search,Stationery,Printer Paper (500),3,210,10,delivered,bank_transfer
+11915,2023-05-26,553,Egypt,Riyadh,Paid Ads,Electronics,27-inch Monitor,3,5200,0,delivered,bank_transfer
+11916,2025-09-04,143,Qatar,Abu Dhabi,Paid Ads,Stationery,Ballpoint Pens (10),1,85,10,delivered,card
+11917,2024-03-17,246,Saudi Arabia,Jeddah,Social Media,Accessories,Backpack 20L,2,1400,0,delivered,wallet
+11918,2023-06-07,302,Egypt,Doha,Direct,Electronics,Mechanical Keyboard,3,1200,0,delivered,card
+11919,2025-01-21,505,Saudi Arabia,Abu Dhabi,Email,Electronics,Laptop Pro 15,3,18500,0,returned,card
+11920,2025-11-29,132,Saudi Arabia,Cairo,Organic Search,Electronics,27-inch Monitor,1,5200,15,delivered,card
+11921,2025-12-01,408,UAE,Giza,Organic Search,Furniture,Standing Desk,3,7800,5,delivered,card
+11922,2025-07-22,218,Egypt,Alexandria,Paid Ads,Electronics,Mechanical Keyboard,3,1200,15,delivered,cod
+11923,2024-12-29,564,Egypt,Abu Dhabi,Direct,Electronics,Wireless Mouse,4,350,10,delivered,wallet
+11924,2026-07-06,147,UAE,Riyadh,Direct,Appliances,Electric Kettle,4,950,10,returned,cod
+11925,2024-08-17,312,UAE,Cairo,Direct,Electronics,Wireless Mouse,1,350,0,delivered,card
+11926,2024-12-02,564,Kuwait,Doha,Paid Ads,Stationery,Notebook A5,2,45,5,delivered,card
+11927,2024-03-10,128,Egypt,Giza,Social Media,Furniture,Bookshelf,3,2100,10,delivered,card
+11928,2026-05-25,595,Kuwait,Giza,Social Media,Electronics,Wireless Mouse,3,350,10,delivered,bank_transfer
+11929,2024-01-08,597,Qatar,Alexandria,Email,Electronics,Laptop Pro 15,4,18500,0,returned,bank_transfer
+11930,2026-03-19,587,Qatar,Abu Dhabi,Social Media,Accessories,Backpack 20L,4,1400,10,returned,bank_transfer
+11931,2026-08-07,535,Egypt,Alexandria,Direct,Accessories,Backpack 20L,4,1400,0,returned,cod
+11932,2026-04-01,339,UAE,Giza,Social Media,Stationery,Printer Paper (500),2,210,0,delivered,bank_transfer
+11933,2024-09-26,195,Egypt,Alexandria,Paid Ads,Accessories,Water Bottle 1L,2,180,0,delivered,card
+11934,2025-05-30,24,UAE,Kuwait City,Paid Ads,Stationery,Printer Paper (500),1,210,5,delivered,card
+11935,2025-07-25,453,Egypt,Riyadh,Social Media,Stationery,Sticky Notes Pack,1,60,15,shipped,card
+11936,2025-11-30,371,Kuwait,Riyadh,Direct,Accessories,Backpack 20L,2,1400,0,delivered,bank_transfer
+11937,2023-02-05,418,Kuwait,Giza,Paid Ads,Stationery,Notebook A5,1,45,0,cancelled,bank_transfer
+11938,2026-06-03,563,Qatar,Alexandria,Email,Stationery,Sticky Notes Pack,3,60,0,shipped,cod
+11939,2026-01-20,273,Egypt,Doha,Email,Electronics,USB-C Hub,4,800,15,shipped,wallet
+11940,2024-12-06,16,UAE,Kuwait City,Email,Stationery,Sticky Notes Pack,1,60,0,delivered,card
+11941,2024-01-25,345,Qatar,Giza,Social Media,Appliances,Air Fryer,3,3400,10,returned,card
+11942,2024-06-30,319,Qatar,Doha,Social Media,Stationery,Printer Paper (500),2,210,0,cancelled,card
+11943,2023-03-02,2,Egypt,Doha,Email,Furniture,Office Chair,4,4500,0,shipped,wallet
+11944,2025-03-08,397,UAE,Riyadh,Organic Search,Electronics,Mechanical Keyboard,1,1200,0,delivered,card
+11945,2026-06-07,68,Saudi Arabia,Doha,Organic Search,Stationery,Ballpoint Pens (10),1,85,0,shipped,cod
+11946,2023-06-14,330,Egypt,Kuwait City,Email,Stationery,Notebook A5,1,45,15,returned,card
+11947,2026-07-13,454,Kuwait,Abu Dhabi,Paid Ads,Appliances,Air Fryer,2,3400,10,delivered,cod
+11948,2024-03-27,508,Saudi Arabia,Kuwait City,Direct,Furniture,Desk Lamp,3,600,0,delivered,wallet
+11949,2023-11-29,413,Qatar,Abu Dhabi,Paid Ads,Electronics,Wireless Mouse,4,350,0,shipped,card
+11950,2024-12-06,504,Kuwait,Kuwait City,Email,Electronics,Laptop Pro 15,1,18500,15,delivered,card
+11951,2026-03-03,24,Saudi Arabia,Doha,Direct,Accessories,Backpack 20L,1,1400,0,delivered,card
+11952,2024-02-04,238,Egypt,Alexandria,Social Media,Furniture,Standing Desk,2,7800,5,delivered,card
+11953,2024-02-19,479,UAE,Giza,Email,Stationery,Whiteboard Markers,4,120,0,delivered,card
+11954,2023-12-03,168,Egypt,Abu Dhabi,Organic Search,Electronics,27-inch Monitor,1,5200,10,delivered,wallet
+11955,2024-05-02,479,Saudi Arabia,Doha,Direct,Appliances,Air Fryer,3,3400,0,delivered,wallet
+11956,2023-09-06,77,Kuwait,Doha,Social Media,Furniture,Standing Desk,2,7800,5,delivered,cod
+11957,2026-04-28,331,Egypt,Alexandria,Email,Electronics,Wireless Mouse,2,350,10,delivered,bank_transfer
+11958,2023-03-30,292,Egypt,Riyadh,Email,Electronics,27-inch Monitor,4,5200,0,delivered,cod
+11959,2023-07-28,111,Egypt,Kuwait City,Email,Stationery,Printer Paper (500),4,210,10,cancelled,bank_transfer
+11960,2023-12-15,166,Kuwait,Giza,Email,Furniture,Office Chair,1,4500,0,returned,bank_transfer
+11961,2026-01-03,199,Egypt,Doha,Email,Furniture,Office Chair,1,4500,15,delivered,bank_transfer
+11962,2026-01-23,449,Egypt,Abu Dhabi,Paid Ads,Stationery,Ballpoint Pens (10),4,85,15,returned,bank_transfer
+11963,2024-05-12,327,Saudi Arabia,Cairo,Social Media,Electronics,27-inch Monitor,2,5200,10,delivered,bank_transfer
+11964,2025-07-09,558,Kuwait,Abu Dhabi,Email,Electronics,Laptop Pro 15,4,18500,15,cancelled,card
+11965,2025-07-17,509,Egypt,Abu Dhabi,Direct,Appliances,Electric Kettle,1,950,5,returned,card
+11966,2023-02-01,554,Egypt,Giza,Paid Ads,Stationery,Whiteboard Markers,1,120,5,delivered,card
+11967,2026-07-12,164,Egypt,Abu Dhabi,Social Media,Stationery,Whiteboard Markers,3,120,15,delivered,cod
+11968,2026-01-09,272,Saudi Arabia,Alexandria,Organic Search,Appliances,Coffee Maker,1,2600,15,shipped,card
+11969,2023-05-29,582,Saudi Arabia,Kuwait City,Direct,Accessories,Water Bottle 1L,2,180,0,delivered,bank_transfer
+11970,2026-04-24,441,UAE,Doha,Social Media,Appliances,Vacuum Cleaner,3,5200,0,returned,bank_transfer
+11971,2023-02-03,339,Qatar,Cairo,Direct,Furniture,Office Chair,2,4500,0,cancelled,card
+11972,2026-01-15,299,Kuwait,Alexandria,Social Media,Stationery,Sticky Notes Pack,3,60,10,shipped,cod
+11973,2026-06-02,87,Egypt,Dubai,Email,Appliances,Air Fryer,1,3400,15,cancelled,bank_transfer
+11974,2025-11-05,452,Egypt,Dubai,Paid Ads,Appliances,Coffee Maker,1,2600,15,delivered,bank_transfer
+11975,2025-04-02,201,UAE,Alexandria,Organic Search,Appliances,Coffee Maker,4,2600,5,shipped,wallet
+11976,2024-07-16,66,Kuwait,Kuwait City,Email,Stationery,Printer Paper (500),1,210,10,shipped,bank_transfer
+11977,2025-10-05,589,Saudi Arabia,Doha,Email,Stationery,Printer Paper (500),2,210,10,cancelled,card
+11978,2023-09-23,40,Qatar,Doha,Social Media,Stationery,Ballpoint Pens (10),2,85,5,cancelled,bank_transfer
+11979,2023-01-02,244,Egypt,Cairo,Social Media,Stationery,Printer Paper (500),2,210,15,delivered,cod
+11980,2025-03-10,468,UAE,Cairo,Organic Search,Stationery,Printer Paper (500),3,210,15,cancelled,card
+11981,2023-12-10,351,Qatar,Dubai,Social Media,Furniture,Desk Lamp,2,600,15,delivered,card
+11982,2025-12-08,404,Egypt,Alexandria,Social Media,Stationery,Printer Paper (500),4,210,10,returned,bank_transfer
+11983,2024-08-25,137,Kuwait,Doha,Direct,Furniture,Office Chair,2,4500,15,returned,cod
+11984,2025-03-12,587,Egypt,Dubai,Email,Furniture,Bookshelf,2,2100,10,delivered,cod
+11985,2023-06-13,346,Kuwait,Kuwait City,Paid Ads,Stationery,Ballpoint Pens (10),2,85,10,delivered,wallet
+11986,2023-12-10,227,Qatar,Riyadh,Social Media,Accessories,Water Bottle 1L,2,180,5,shipped,bank_transfer
+11987,2025-01-27,109,UAE,Abu Dhabi,Social Media,Electronics,27-inch Monitor,2,5200,10,delivered,card
+11988,2026-08-15,573,Egypt,Cairo,Direct,Appliances,Electric Kettle,3,950,5,delivered,wallet
+11989,2024-08-11,199,Egypt,Giza,Direct,Furniture,Desk Lamp,2,600,0,returned,bank_transfer
+11990,2023-06-02,496,Egypt,Cairo,Paid Ads,Electronics,27-inch Monitor,4,5200,10,shipped,cod
+11991,2026-04-06,89,Qatar,Dubai,Paid Ads,Furniture,Bookshelf,3,2100,0,delivered,cod
+11992,2023-06-30,111,Egypt,Dubai,Paid Ads,Stationery,Ballpoint Pens (10),3,85,5,delivered,card
+11993,2023-12-22,488,Kuwait,Doha,Organic Search,Stationery,Whiteboard Markers,2,120,5,delivered,wallet
+11994,2025-07-05,273,Qatar,Alexandria,Organic Search,Stationery,Ballpoint Pens (10),1,85,0,delivered,card
+11995,2023-03-14,393,UAE,Doha,Organic Search,Stationery,Whiteboard Markers,2,120,5,cancelled,bank_transfer
+11996,2025-12-08,135,Qatar,Kuwait City,Organic Search,Appliances,Electric Kettle,1,950,10,delivered,cod
+11997,2023-09-23,167,Egypt,Dubai,Direct,Furniture,Bookshelf,3,2100,5,returned,wallet
+11998,2025-05-02,519,Saudi Arabia,Kuwait City,Direct,Electronics,Wireless Mouse,3,350,10,delivered,cod
+11999,2024-09-03,346,UAE,Dubai,Social Media,Furniture,Office Chair,2,4500,5,shipped,cod
+12000,2026-04-19,295,Egypt,Doha,Paid Ads,Stationery,Sticky Notes Pack,3,60,0,delivered,bank_transfer
